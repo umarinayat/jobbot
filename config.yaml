@@ -1,0 +1,111 @@
+# ============================================================================
+#  JobBot configuration
+#  Edit this file to tune what counts as a "matching" job. No code changes
+#  needed. After editing, commit & push — the scheduled run picks it up.
+# ============================================================================
+
+# --- Which sources to pull from --------------------------------------------
+# Toggle any source on/off. Remote APIs are free and reliable.
+# rozee (Pakistan) is scraped from HTML and is best-effort (may break if the
+# site changes its markup) — it never crashes the run, it just yields nothing.
+sources:
+  remotive: true
+  arbeitnow: true
+  jobicy: true
+  remoteok: true
+  rozee: true          # Pakistan-local (scraped)
+
+# --- What you're looking for ------------------------------------------------
+# A job must match at least ONE role keyword to be considered at all.
+role_keywords:
+  - software engineer
+  - software developer
+  - full stack
+  - full-stack
+  - fullstack
+  - frontend
+  - front end
+  - front-end
+  - backend
+  - back end
+  - back-end
+  - web developer
+  - react developer
+  - node developer
+  - python developer
+  - mern
+  - mevn
+
+# Skills add to a job's score. The more of your skills a job mentions, the
+# higher it ranks. Tune the weights to bias toward what you care about.
+skills:
+  react: 3
+  "react.js": 3
+  node: 3
+  "node.js": 3
+  typescript: 3
+  javascript: 2
+  python: 3
+  vue: 2
+  "vue.js": 2
+  angular: 2
+  "next.js": 2
+  nextjs: 2
+  express: 2
+  flask: 2
+  fastapi: 1
+  mongodb: 2
+  mysql: 2
+  postgres: 1
+  tailwind: 1
+  langchain: 3
+  llm: 2
+  "ai": 1
+  rag: 2
+  socket.io: 1
+  azure: 1
+
+# A job needs at least this total skill score to be emailed.
+# Lower it to get more (noisier) results, raise it to get fewer (stricter).
+min_score: 4
+
+# --- Where you'll work ------------------------------------------------------
+# A job passes the location filter if it is remote OR its location text
+# contains one of these strings. Leave broad to avoid missing remote roles.
+allowed_locations:
+  - remote
+  - worldwide
+  - anywhere
+  - global
+  - pakistan
+  - lahore
+  - karachi
+  - islamabad
+  - asia
+  - emea
+
+# Only surface roles that are remote-friendly? If true, non-remote jobs are
+# only kept when their location matches allowed_locations above.
+require_remote_or_location: true
+
+# --- Hard exclusions --------------------------------------------------------
+# If a job's title/description/tags contain any of these, it is dropped even
+# if it otherwise matches. Add things you never want to see.
+negative_keywords:
+  - unpaid
+  - commission only
+  - commission-only
+  - wordpress developer
+  - php developer
+  - salesforce
+  - internship        # remove this line if you DO want internships
+
+# --- How far back to look ---------------------------------------------------
+# Ignore postings older than this many days (freshness filter).
+max_age_days: 14
+
+# --- Rozee.pk search terms (Pakistan scraper) -------------------------------
+rozee_queries:
+  - software engineer
+  - full stack developer
+  - react developer

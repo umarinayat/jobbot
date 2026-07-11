@@ -1,0 +1,52 @@
+name: JobBot
+
+# Runs twice a day and on manual trigger. Times are UTC.
+#   01:00 UTC = 06:00 PKT (morning)
+#   13:00 UTC = 18:00 PKT (evening)
+on:
+  schedule:
+    - cron: "0 1,13 * * *"
+  workflow_dispatch: {}      # lets you run it on demand from the Actions tab
+
+# Needed so the job can commit the updated seen_jobs.json back to the repo.
+permissions:
+  contents: write
+
+concurrency:
+  group: jobbot
+  cancel-in-progress: false
+
+jobs:
+  check-jobs:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run JobBot
+        env:
+          EMAIL_ADDRESS: ${{ secrets.EMAIL_ADDRESS }}
+          EMAIL_APP_PASSWORD: ${{ secrets.EMAIL_APP_PASSWORD }}
+          EMAIL_TO: ${{ secrets.EMAIL_TO }}
+        run: python main.py
+
+      - name: Persist state and dashboard data
+        run: |
+          git add data/seen_jobs.json docs/jobs.json
+          if [[ -n "$(git status --porcelain data/seen_jobs.json docs/jobs.json)" ]]; then
+            git config user.name  "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git commit -m "chore: update jobs + state [skip ci]"
+            git push
+          else
+            echo "Nothing changed to commit."
+          fi
