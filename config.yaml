@@ -1,19 +1,16 @@
 # ============================================================================
 #  JobBot configuration
 #  Edit this file to tune what counts as a "matching" job. No code changes
-#  needed. After editing, commit & push — the scheduled run picks it up.
+#  needed. After editing, commit & push (or just re-run locally).
 # ============================================================================
 
 # --- Which sources to pull from --------------------------------------------
-# Toggle any source on/off. Remote APIs are free and reliable.
-# rozee (Pakistan) is scraped from HTML and is best-effort (may break if the
-# site changes its markup) — it never crashes the run, it just yields nothing.
 sources:
   remotive: true
   arbeitnow: true
   jobicy: true
   remoteok: true
-  rozee: true          # Pakistan-local (scraped)
+  rozee: true          # Pakistan-local (scraped, best-effort)
 
 # --- What you're looking for ------------------------------------------------
 # A job must match at least ONE role keyword to be considered at all.
@@ -36,8 +33,7 @@ role_keywords:
   - mern
   - mevn
 
-# Skills add to a job's score. The more of your skills a job mentions, the
-# higher it ranks. Tune the weights to bias toward what you care about.
+# Skills add to a job's score. Higher score = ranked higher.
 skills:
   react: 3
   "react.js": 3
@@ -66,31 +62,95 @@ skills:
   azure: 1
 
 # A job needs at least this total skill score to be emailed.
-# Lower it to get more (noisier) results, raise it to get fewer (stricter).
 min_score: 4
 
-# --- Where you'll work ------------------------------------------------------
-# A job passes the location filter if it is remote OR its location text
-# contains one of these strings. Leave broad to avoid missing remote roles.
-allowed_locations:
-  - remote
-  - worldwide
-  - anywhere
-  - global
+# ============================================================================
+#  LOCATION RULES  (this is what controls the "remote anywhere" behaviour)
+# ============================================================================
+# The logic, in order:
+#   1. If the location mentions Pakistan / a Pakistani city  -> KEEP.
+#   2. If the job is on-site and NOT in Pakistan             -> DROP.
+#   3. If a remote job's location is worldwide/global, or a
+#      region that includes Pakistan (Asia / APAC)           -> KEEP.
+#   4. If a remote job is restricted to another country
+#      (USA, Brazil, Europe, ...)                            -> DROP.
+#   5. A remote job with a generic/blank location ("Remote") -> KEEP only if
+#      keep_generic_remote is true.
+#
+# So a "remote - USA only" or "remote - Brazil" job is dropped, while
+# "remote - Worldwide", "remote - Anywhere", "remote - Asia", or a Pakistan
+# role is kept.
+
+local_terms:
   - pakistan
   - lahore
   - karachi
   - islamabad
-  - asia
-  - emea
+  - rawalpindi
 
-# Only surface roles that are remote-friendly? If true, non-remote jobs are
-# only kept when their location matches allowed_locations above.
-require_remote_or_location: true
+worldwide_terms:
+  - worldwide
+  - anywhere
+  - global
+  - any location
+  - fully remote
+
+include_regions:
+  - asia
+  - apac
+  - asia pacific
+  - asia-pacific
+  - south asia
+
+# Remote jobs restricted to any of these (with no worldwide/Pakistan term) are
+# dropped. Add or remove countries/regions to taste.
+restricted_terms:
+  - usa
+  - united states
+  - u.s.
+  - us only
+  - us-based
+  - us based
+  - canada
+  - brazil
+  - mexico
+  - argentina
+  - colombia
+  - latam
+  - latin america
+  - north america
+  - emea
+  - europe
+  - european
+  - uk
+  - united kingdom
+  - ireland
+  - germany
+  - france
+  - spain
+  - portugal
+  - netherlands
+  - poland
+  - romania
+  - ukraine
+  - india
+  - philippines
+  - indonesia
+  - vietnam
+  - australia
+  - new zealand
+  - uae
+  - united arab emirates
+  - egypt
+  - nigeria
+  - south africa
+
+# Keep remote jobs whose location is generic/unspecified (just "Remote")?
+# true  = more results (some may still be geo-restricted in the fine print)
+# false = stricter; only keep jobs explicitly worldwide / Asia / Pakistan
+keep_generic_remote: true
 
 # --- Hard exclusions --------------------------------------------------------
-# If a job's title/description/tags contain any of these, it is dropped even
-# if it otherwise matches. Add things you never want to see.
 negative_keywords:
   - unpaid
   - commission only
@@ -100,8 +160,7 @@ negative_keywords:
   - salesforce
   - internship        # remove this line if you DO want internships
 
-# --- How far back to look ---------------------------------------------------
-# Ignore postings older than this many days (freshness filter).
+# --- Freshness --------------------------------------------------------------
 max_age_days: 14
 
 # --- Rozee.pk search terms (Pakistan scraper) -------------------------------
