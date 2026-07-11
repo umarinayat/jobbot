@@ -45,7 +45,8 @@ def _print_jobs(jobs: list[Job]) -> None:
     print(f"\n===== {len(jobs)} matching jobs =====")
     for j in jobs:
         skills = ", ".join(j.matched_skills)
-        print(f"[{j.score:>2}] {j.title}  —  {j.company or '?'} ({j.source})")
+        company = j.company or "?"
+        print(f"[{j.score:>2}] {j.title}  -  {company} ({j.source})")
         print(f"      {j.location or 'Remote'} | skills: {skills}")
         print(f"      {j.url}")
     print()
@@ -53,6 +54,7 @@ def _print_jobs(jobs: list[Job]) -> None:
 
 def _mock_jobs() -> list[Job]:
     """Representative sample used by --self-test (no network needed)."""
+    now = datetime.now(timezone.utc)
     return [
         Job(
             source="remotive",
@@ -63,7 +65,7 @@ def _mock_jobs() -> list[Job]:
             remote=True,
             tags=["react", "node", "typescript"],
             description="Build products with React, Node.js, TypeScript and Python. Remote.",
-            posted_at=datetime.now(timezone.utc),
+            posted_at=now,
         ),
         Job(
             source="arbeitnow",
@@ -74,7 +76,7 @@ def _mock_jobs() -> list[Job]:
             remote=True,
             tags=["python", "flask", "ai"],
             description="Work on LLM features with Python, Flask, LangChain and RAG pipelines.",
-            posted_at=datetime.now(timezone.utc),
+            posted_at=now,
         ),
         Job(
             source="arbeitnow",
@@ -85,7 +87,7 @@ def _mock_jobs() -> list[Job]:
             remote=False,
             tags=["salesforce"],
             description="Administer Salesforce. On-site in Berlin.",
-            posted_at=datetime.now(timezone.utc),
+            posted_at=now,
         ),
         Job(
             source="rozee",
@@ -96,7 +98,7 @@ def _mock_jobs() -> list[Job]:
             remote=False,
             tags=[],
             description="React, Node.js, Express, MongoDB developer needed in Lahore.",
-            posted_at=datetime.now(timezone.utc),
+            posted_at=now,
         ),
     ]
 
@@ -137,7 +139,7 @@ def run(config: dict, *, dry_run: bool, preview: Path | None, self_test: bool) -
 
 
 def main(argv: list[str] | None = None) -> int:
-    parser = argparse.ArgumentParser(description="JobBot — free job alerter")
+    parser = argparse.ArgumentParser(description="JobBot - free job alerter")
     parser.add_argument("--config", default="config.yaml", type=Path)
     parser.add_argument("--dry-run", action="store_true", help="fetch+match, no email/state")
     parser.add_argument("--self-test", action="store_true", help="offline pipeline test")

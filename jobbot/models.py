@@ -56,6 +56,16 @@ class Job:
             [self.title, self.company, self.location, " ".join(self.tags), self.description]
         ).lower()
 
+    @property
+    def age_days(self) -> Optional[float]:
+        if not self.posted_at:
+            return None
+        now = datetime.now(timezone.utc)
+        posted = self.posted_at
+        if posted.tzinfo is None:
+            posted = posted.replace(tzinfo=timezone.utc)
+        return (now - posted).total_seconds() / 86400.0
+
     def to_dict(self) -> dict:
         """JSON-serializable form used by the dashboard front end."""
         return {
@@ -72,16 +82,6 @@ class Job:
             "age_days": round(self.age_days, 1) if self.age_days is not None else None,
         }
 
-    @property
-    def age_days(self) -> Optional[float]:
-        if not self.posted_at:
-            return None
-        now = datetime.now(timezone.utc)
-        posted = self.posted_at
-        if posted.tzinfo is None:
-            posted = posted.replace(tzinfo=timezone.utc)
-        return (now - posted).total_seconds() / 86400.0
-
 
 def parse_date(value) -> Optional[datetime]:
     """Best-effort parse of the many date formats these APIs return."""
@@ -93,7 +93,6 @@ def parse_date(value) -> Optional[datetime]:
         except (ValueError, OSError):
             return None
     text = str(value).strip()
-    # Try ISO 8601 first (handles the trailing 'Z').
     try:
         return datetime.fromisoformat(text.replace("Z", "+00:00"))
     except ValueError:
