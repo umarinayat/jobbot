@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-11T21:51:09+00:00",
+ "generated_at": "2026-07-12T04:22:25+00:00",
  "count": 2,
  "jobs": [
   {
@@ -38,7 +38,7 @@
     "datadog"
    ],
    "posted_at": "2026-07-09T14:43:46",
-   "age_days": 2.3
+   "age_days": 2.6
   },
   {
    "title": "Staff Product Engineer (Montevideo)",
@@ -76,7 +76,7 @@
     "datadog"
    ],
    "posted_at": "2026-07-09T14:30:17",
-   "age_days": 2.3
+   "age_days": 2.6
   }
  ]
 }
