@@ -1,7 +1,32 @@
 {
- "generated_at": "2026-07-13T07:02:09+00:00",
- "count": 2,
+ "generated_at": "2026-07-13T15:44:09+00:00",
+ "count": 3,
  "jobs": [
+  {
+   "title": "AI Engineer (m/f/d) - Full Stack, TypeScript / Nuxt / Next / Vue / React",
+   "company": "Laioutr GmbH",
+   "url": "https://www.arbeitnow.com/jobs/companies/laioutr-gmbh/ai-engineer-full-stack-typescript-nuxt-next-vue-react-berlin-265753",
+   "location": "Berlin",
+   "remote": true,
+   "source": "arbeitnow",
+   "score": 15,
+   "matched_skills": [
+    "react",
+    "typescript",
+    "javascript",
+    "vue",
+    "vue.js",
+    "next.js",
+    "ai"
+   ],
+   "tags": [
+    "remote",
+    "development",
+    "berufserfahren"
+   ],
+   "posted_at": "2026-07-13T11:00:42+00:00",
+   "age_days": 0.2
+  },
   {
    "title": "Staff Software Engineer, Product (Montevideo)",
    "company": "LawnStarter",
@@ -38,7 +63,7 @@
     "datadog"
    ],
    "posted_at": "2026-07-09T14:43:46",
-   "age_days": 3.7
+   "age_days": 4.0
   },
   {
    "title": "Staff Product Engineer (Montevideo)",
@@ -76,7 +101,7 @@
     "datadog"
    ],
    "posted_at": "2026-07-09T14:30:17",
-   "age_days": 3.7
+   "age_days": 4.1
   }
  ]
 }
