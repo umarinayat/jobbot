@@ -1,31 +1,29 @@
 {
- "generated_at": "2026-07-14T03:53:29+00:00",
+ "generated_at": "2026-07-14T14:45:15+00:00",
  "count": 3,
  "jobs": [
   {
-   "title": "AI Engineer (m/f/d) - Full Stack, TypeScript / Nuxt / Next / Vue / React",
-   "company": "Laioutr GmbH",
-   "url": "https://www.arbeitnow.com/jobs/companies/laioutr-gmbh/ai-engineer-full-stack-typescript-nuxt-next-vue-react-berlin-265753",
-   "location": "Berlin",
+   "title": "Senior Software Engineer / ML Engineer (m/w/x) im Bildungsumfeld / Remote",
+   "company": "GFN GmbH",
+   "url": "https://www.arbeitnow.com/jobs/companies/gfn-gmbh/senior-software-engineer-ml-engineer-im-bildungsumfeld-remote-heidelberg-356036",
+   "location": "Heidelberg",
    "remote": true,
    "source": "arbeitnow",
-   "score": 15,
+   "score": 10,
    "matched_skills": [
-    "react",
-    "typescript",
-    "javascript",
-    "vue",
-    "vue.js",
-    "next.js",
-    "ai"
+    "python",
+    "fastapi",
+    "llm",
+    "ai",
+    "rag",
+    "azure"
    ],
    "tags": [
     "remote",
-    "development",
-    "berufserfahren"
+    "software development"
    ],
-   "posted_at": "2026-07-13T15:29:03+00:00",
-   "age_days": 0.5
+   "posted_at": "2026-07-14T12:30:28+00:00",
+   "age_days": 0.1
   },
   {
    "title": "Staff Software Engineer, Product (Montevideo)",
@@ -63,7 +61,7 @@
     "datadog"
    ],
    "posted_at": "2026-07-09T14:43:46",
-   "age_days": 4.5
+   "age_days": 5.0
   },
   {
    "title": "Staff Product Engineer (Montevideo)",
@@ -101,7 +99,7 @@
     "datadog"
    ],
    "posted_at": "2026-07-09T14:30:17",
-   "age_days": 4.6
+   "age_days": 5.0
   }
  ]
 }
