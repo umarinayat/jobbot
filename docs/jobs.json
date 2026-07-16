@@ -1,7 +1,36 @@
 {
- "generated_at": "2026-07-15T14:44:45+00:00",
- "count": 2,
+ "generated_at": "2026-07-16T03:57:51+00:00",
+ "count": 3,
  "jobs": [
+  {
+   "title": "Programa de Est\u00c3\u00a1gio Forma\u00c3\u00a7\u00c3\u00a3o em Vendas SDR Remoto",
+   "company": "Nibo",
+   "url": "https://remoteOK.com/remote-jobs/remote-programa-de-estagio-formacao-em-vendas-sdr-remoto-nibo-1134841",
+   "location": "Brasil,",
+   "remote": true,
+   "source": "remoteok",
+   "score": 8,
+   "matched_skills": [
+    "react",
+    "react.js",
+    "javascript"
+   ],
+   "tags": [
+    "exec",
+    "front end",
+    "design",
+    "react",
+    "react.js",
+    "backend",
+    "javascript",
+    "c",
+    "git",
+    "digital nomad",
+    "dev"
+   ],
+   "posted_at": "2026-07-15T02:11:35+00:00",
+   "age_days": 1.1
+  },
   {
    "title": "Staff Software Engineer, Product (Montevideo)",
    "company": "LawnStarter",
@@ -38,7 +67,7 @@
     "datadog"
    ],
    "posted_at": "2026-07-09T14:43:46",
-   "age_days": 6.0
+   "age_days": 6.6
   },
   {
    "title": "Staff Product Engineer (Montevideo)",
@@ -76,7 +105,7 @@
     "datadog"
    ],
    "posted_at": "2026-07-09T14:30:17",
-   "age_days": 6.0
+   "age_days": 6.6
   }
  ]
 }
