@@ -1,73 +1,7 @@
 {
- "generated_at": "2026-07-17T03:57:00+00:00",
- "count": 7,
+ "generated_at": "2026-07-17T14:28:51+00:00",
+ "count": 6,
  "jobs": [
-  {
-   "title": "Software development Frontend Developer",
-   "company": "defdone",
-   "url": "https://remoteOK.com/remote-jobs/remote-software-developmentfrontend-developer-defdone-1134928",
-   "location": "Pozna\u00c5\u0084,",
-   "remote": true,
-   "source": "remoteok",
-   "score": 22,
-   "matched_skills": [
-    "react",
-    "react.js",
-    "node",
-    "node.js",
-    "typescript",
-    "javascript",
-    "python",
-    "express"
-   ],
-   "tags": [
-    "mobile",
-    "engineer",
-    "exec",
-    "dev",
-    "junior",
-    "digital nomad",
-    "analyst",
-    "customer support",
-    "marketing",
-    "ops",
-    "excel",
-    "stats",
-    "sales",
-    "python",
-    "consulting",
-    "defi",
-    "react",
-    "react.js",
-    "technical",
-    "web dev",
-    "speech",
-    "javascript",
-    "finance",
-    "content writing",
-    "bus dev",
-    "medical",
-    "full time",
-    "part time",
-    "designer",
-    "design",
-    "amazon",
-    "cloud",
-    "git",
-    "microsoft",
-    "ecommerce",
-    "shopify",
-    "front end",
-    "docker",
-    "testing",
-    "typescript",
-    "node",
-    "node.js",
-    "senior"
-   ],
-   "posted_at": "2026-07-13T16:51:54+00:00",
-   "age_days": 3.5
-  },
   {
    "title": "T\u00c3\u00a9cnico De Estudos E Propostas",
    "company": "Wikibuild S.A",
@@ -131,7 +65,7 @@
     "senior"
    ],
    "posted_at": "2026-07-14T13:09:33+00:00",
-   "age_days": 2.6
+   "age_days": 3.1
   },
   {
    "title": "Project Manager",
@@ -186,30 +120,28 @@
     "project manager"
    ],
    "posted_at": "2026-07-15T15:07:31+00:00",
-   "age_days": 1.5
+   "age_days": 2.0
   },
   {
-   "title": "Senior Software Engineer / ML Engineer (m/w/x) im Bildungsumfeld / Remote",
-   "company": "GFN GmbH",
-   "url": "https://www.arbeitnow.com/jobs/companies/gfn-gmbh/senior-software-engineer-ml-engineer-im-bildungsumfeld-remote-heidelberg-276710",
-   "location": "Heidelberg",
+   "title": "Senior Software Engineer Ruby on Rails 100 % remote (m/w/d)",
+   "company": "easybill GmbH",
+   "url": "https://www.arbeitnow.com/jobs/companies/easybill-gmbh/senior-software-engineer-ruby-on-rails-100-remote-willich-63518",
+   "location": "Willich",
    "remote": true,
    "source": "arbeitnow",
-   "score": 10,
+   "score": 8,
    "matched_skills": [
-    "python",
-    "fastapi",
-    "llm",
-    "ai",
-    "rag",
-    "azure"
+    "react",
+    "typescript",
+    "mysql"
    ],
    "tags": [
     "remote",
-    "software development"
+    "software development",
+    "berufserfahren"
    ],
-   "posted_at": "2026-07-16T20:00:27+00:00",
-   "age_days": 0.3
+   "posted_at": "2026-07-17T12:30:25+00:00",
+   "age_days": 0.1
   },
   {
    "title": "Programa de Est\u00c3\u00a1gio Forma\u00c3\u00a7\u00c3\u00a3o em Vendas SDR Remoto",
@@ -238,7 +170,7 @@
     "dev"
    ],
    "posted_at": "2026-07-15T02:11:35+00:00",
-   "age_days": 2.1
+   "age_days": 2.5
   },
   {
    "title": "Staff Software Engineer, Product (Montevideo)",
@@ -276,7 +208,7 @@
     "datadog"
    ],
    "posted_at": "2026-07-09T14:43:46",
-   "age_days": 7.6
+   "age_days": 8.0
   },
   {
    "title": "Staff Product Engineer (Montevideo)",
@@ -314,7 +246,7 @@
     "datadog"
    ],
    "posted_at": "2026-07-09T14:30:17",
-   "age_days": 7.6
+   "age_days": 8.0
   }
  ]
 }
