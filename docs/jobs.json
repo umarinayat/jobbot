@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-07-17T14:28:51+00:00",
- "count": 6,
+ "generated_at": "2026-07-18T03:51:16+00:00",
+ "count": 5,
  "jobs": [
   {
    "title": "T\u00c3\u00a9cnico De Estudos E Propostas",
@@ -65,7 +65,7 @@
     "senior"
    ],
    "posted_at": "2026-07-14T13:09:33+00:00",
-   "age_days": 3.1
+   "age_days": 3.6
   },
   {
    "title": "Project Manager",
@@ -120,28 +120,7 @@
     "project manager"
    ],
    "posted_at": "2026-07-15T15:07:31+00:00",
-   "age_days": 2.0
-  },
-  {
-   "title": "Senior Software Engineer Ruby on Rails 100 % remote (m/w/d)",
-   "company": "easybill GmbH",
-   "url": "https://www.arbeitnow.com/jobs/companies/easybill-gmbh/senior-software-engineer-ruby-on-rails-100-remote-willich-63518",
-   "location": "Willich",
-   "remote": true,
-   "source": "arbeitnow",
-   "score": 8,
-   "matched_skills": [
-    "react",
-    "typescript",
-    "mysql"
-   ],
-   "tags": [
-    "remote",
-    "software development",
-    "berufserfahren"
-   ],
-   "posted_at": "2026-07-17T12:30:25+00:00",
-   "age_days": 0.1
+   "age_days": 2.5
   },
   {
    "title": "Programa de Est\u00c3\u00a1gio Forma\u00c3\u00a7\u00c3\u00a3o em Vendas SDR Remoto",
@@ -170,7 +149,7 @@
     "dev"
    ],
    "posted_at": "2026-07-15T02:11:35+00:00",
-   "age_days": 2.5
+   "age_days": 3.1
   },
   {
    "title": "Staff Software Engineer, Product (Montevideo)",
@@ -208,7 +187,7 @@
     "datadog"
    ],
    "posted_at": "2026-07-09T14:43:46",
-   "age_days": 8.0
+   "age_days": 8.5
   },
   {
    "title": "Staff Product Engineer (Montevideo)",
@@ -246,7 +225,7 @@
     "datadog"
    ],
    "posted_at": "2026-07-09T14:30:17",
-   "age_days": 8.0
+   "age_days": 8.6
   }
  ]
 }
