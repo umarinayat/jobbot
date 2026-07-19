@@ -1,62 +1,7 @@
 {
- "generated_at": "2026-07-19T04:18:57+00:00",
- "count": 3,
+ "generated_at": "2026-07-19T14:21:47+00:00",
+ "count": 2,
  "jobs": [
-  {
-   "title": "Project Manager",
-   "company": "Empire Life",
-   "url": "https://remoteOK.com/remote-jobs/remote-project-manager-empire-life-1134867",
-   "location": "Remote",
-   "remote": true,
-   "source": "remoteok",
-   "score": 12,
-   "matched_skills": [
-    "react",
-    "typescript",
-    "javascript",
-    "python",
-    "postgres"
-   ],
-   "tags": [
-    "speech",
-    "exec",
-    "content writing",
-    "sys admin",
-    "medical",
-    "recruiter",
-    "social media",
-    "game dev",
-    "designer",
-    "design",
-    "copywriting",
-    "marketing",
-    "video",
-    "education",
-    "finance",
-    "ads",
-    "digital nomad",
-    "virtual assistant",
-    "customer support",
-    "travel",
-    "ops",
-    "react",
-    "dev",
-    "front end",
-    "python",
-    "django",
-    "vfx",
-    "technical",
-    "javascript",
-    "postgres",
-    "typescript",
-    "mobile",
-    "senior",
-    "engineer",
-    "project manager"
-   ],
-   "posted_at": "2026-07-15T15:07:31+00:00",
-   "age_days": 3.5
-  },
   {
    "title": "Staff Software Engineer, Product (Montevideo)",
    "company": "LawnStarter",
@@ -93,7 +38,7 @@
     "datadog"
    ],
    "posted_at": "2026-07-09T14:43:46",
-   "age_days": 9.6
+   "age_days": 10.0
   },
   {
    "title": "Staff Product Engineer (Montevideo)",
@@ -131,7 +76,7 @@
     "datadog"
    ],
    "posted_at": "2026-07-09T14:30:17",
-   "age_days": 9.6
+   "age_days": 10.0
   }
  ]
 }
