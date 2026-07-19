@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-07-18T14:18:08+00:00",
- "count": 4,
+ "generated_at": "2026-07-19T04:18:57+00:00",
+ "count": 3,
  "jobs": [
   {
    "title": "Project Manager",
@@ -55,35 +55,6 @@
     "project manager"
    ],
    "posted_at": "2026-07-15T15:07:31+00:00",
-   "age_days": 3.0
-  },
-  {
-   "title": "Programa de Est\u00c3\u00a1gio Forma\u00c3\u00a7\u00c3\u00a3o em Vendas SDR Remoto",
-   "company": "Nibo",
-   "url": "https://remoteOK.com/remote-jobs/remote-programa-de-estagio-formacao-em-vendas-sdr-remoto-nibo-1134841",
-   "location": "Brasil,",
-   "remote": true,
-   "source": "remoteok",
-   "score": 8,
-   "matched_skills": [
-    "react",
-    "react.js",
-    "javascript"
-   ],
-   "tags": [
-    "exec",
-    "front end",
-    "design",
-    "react",
-    "react.js",
-    "backend",
-    "javascript",
-    "c",
-    "git",
-    "digital nomad",
-    "dev"
-   ],
-   "posted_at": "2026-07-15T02:11:35+00:00",
    "age_days": 3.5
   },
   {
@@ -122,7 +93,7 @@
     "datadog"
    ],
    "posted_at": "2026-07-09T14:43:46",
-   "age_days": 9.0
+   "age_days": 9.6
   },
   {
    "title": "Staff Product Engineer (Montevideo)",
@@ -160,7 +131,7 @@
     "datadog"
    ],
    "posted_at": "2026-07-09T14:30:17",
-   "age_days": 9.0
+   "age_days": 9.6
   }
  ]
 }
