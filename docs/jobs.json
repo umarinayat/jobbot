@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-07-21T04:12:10+00:00",
- "count": 4,
+ "generated_at": "2026-07-21T15:00:39+00:00",
+ "count": 3,
  "jobs": [
   {
    "title": "Staff Software Engineer, Product (Montevideo)",
@@ -38,7 +38,7 @@
     "datadog"
    ],
    "posted_at": "2026-07-09T14:43:46",
-   "age_days": 11.6
+   "age_days": 12.0
   },
   {
    "title": "Staff Product Engineer (Montevideo)",
@@ -76,7 +76,7 @@
     "datadog"
    ],
    "posted_at": "2026-07-09T14:30:17",
-   "age_days": 11.6
+   "age_days": 12.0
   },
   {
    "title": "Applied AI Product Strategy & Revenue Lead",
@@ -107,27 +107,7 @@
     "digital nomad"
    ],
    "posted_at": "2026-07-19T16:00:03+00:00",
-   "age_days": 1.5
-  },
-  {
-   "title": "Frontend Softwareentwickler (m/w/d)",
-   "company": "TecFox GmbH",
-   "url": "https://www.arbeitnow.com/jobs/companies/tecfox-gmbh/frontend-softwareentwickler-braunschweig-186839",
-   "location": "Braunschweig",
-   "remote": true,
-   "source": "arbeitnow",
-   "score": 5,
-   "matched_skills": [
-    "typescript",
-    "angular"
-   ],
-   "tags": [
-    "remote",
-    "software development",
-    "berufserfahren"
-   ],
-   "posted_at": "2026-07-20T12:01:06+00:00",
-   "age_days": 0.7
+   "age_days": 2.0
   }
  ]
 }
