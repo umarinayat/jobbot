@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-07-20T15:06:50+00:00",
- "count": 3,
+ "generated_at": "2026-07-21T04:12:10+00:00",
+ "count": 4,
  "jobs": [
   {
    "title": "Staff Software Engineer, Product (Montevideo)",
@@ -38,7 +38,7 @@
     "datadog"
    ],
    "posted_at": "2026-07-09T14:43:46",
-   "age_days": 11.0
+   "age_days": 11.6
   },
   {
    "title": "Staff Product Engineer (Montevideo)",
@@ -76,7 +76,38 @@
     "datadog"
    ],
    "posted_at": "2026-07-09T14:30:17",
-   "age_days": 11.0
+   "age_days": 11.6
+  },
+  {
+   "title": "Applied AI Product Strategy & Revenue Lead",
+   "company": "Prime Intellect",
+   "url": "https://remoteOK.com/remote-jobs/remote-applied-ai-product-strategy-revenue-lead-prime-intellect-1135061",
+   "location": "San Francisco",
+   "remote": true,
+   "source": "remoteok",
+   "score": 6,
+   "matched_skills": [
+    "langchain",
+    "llm",
+    "ai"
+   ],
+   "tags": [
+    "sys admin",
+    "education",
+    "full stack",
+    "exec",
+    "technical",
+    "customer support",
+    "dev",
+    "finance",
+    "legal",
+    "sales",
+    "golang",
+    "engineer",
+    "digital nomad"
+   ],
+   "posted_at": "2026-07-19T16:00:03+00:00",
+   "age_days": 1.5
   },
   {
    "title": "Frontend Softwareentwickler (m/w/d)",
@@ -96,7 +127,7 @@
     "berufserfahren"
    ],
    "posted_at": "2026-07-20T12:01:06+00:00",
-   "age_days": 0.1
+   "age_days": 0.7
   }
  ]
 }
