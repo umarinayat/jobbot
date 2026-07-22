@@ -1,7 +1,29 @@
 {
- "generated_at": "2026-07-21T15:00:39+00:00",
- "count": 3,
+ "generated_at": "2026-07-22T04:13:38+00:00",
+ "count": 6,
  "jobs": [
+  {
+   "title": "Java Softwareentwickler/in mit Karriereambitionen - jetzt mit uns voll durchstarten!",
+   "company": "Auralis Group",
+   "url": "https://www.arbeitnow.com/jobs/companies/auralis-group/java-softwareentwickler-in-mit-karriereambitionen-jetzt-mit-uns-voll-durchstarten-markt-indersdorf-436151",
+   "location": "Markt Indersdorf",
+   "remote": true,
+   "source": "arbeitnow",
+   "score": 9,
+   "matched_skills": [
+    "react",
+    "vue",
+    "angular",
+    "ai",
+    "azure"
+   ],
+   "tags": [
+    "remote",
+    "software development"
+   ],
+   "posted_at": "2026-07-21T22:00:26+00:00",
+   "age_days": 0.3
+  },
   {
    "title": "Staff Software Engineer, Product (Montevideo)",
    "company": "LawnStarter",
@@ -38,7 +60,7 @@
     "datadog"
    ],
    "posted_at": "2026-07-09T14:43:46",
-   "age_days": 12.0
+   "age_days": 12.6
   },
   {
    "title": "Staff Product Engineer (Montevideo)",
@@ -76,7 +98,7 @@
     "datadog"
    ],
    "posted_at": "2026-07-09T14:30:17",
-   "age_days": 12.0
+   "age_days": 12.6
   },
   {
    "title": "Applied AI Product Strategy & Revenue Lead",
@@ -107,7 +129,45 @@
     "digital nomad"
    ],
    "posted_at": "2026-07-19T16:00:03+00:00",
-   "age_days": 2.0
+   "age_days": 2.5
+  },
+  {
+   "title": "Python and Kubernetes Software Engineer - Data, Workflows, AI/ML & Analytics",
+   "company": "Canonical Ltd.",
+   "url": "https://jobicy.com/jobs/149563-python-and-kubernetes-software-engineer-data-workflows-ai-ml-analytics",
+   "location": "Anywhere",
+   "remote": true,
+   "source": "jobicy",
+   "score": 4,
+   "matched_skills": [
+    "python",
+    "ai"
+   ],
+   "tags": [
+    "software engineering",
+    "full-time"
+   ],
+   "posted_at": "2026-07-21T16:20:33+00:00",
+   "age_days": 0.5
+  },
+  {
+   "title": "Web Frontend Engineer - JS, CSS, React, Flutter",
+   "company": "Canonical Ltd.",
+   "url": "https://jobicy.com/jobs/149527-web-frontend-engineer-js-css-react-flutter",
+   "location": "Anywhere",
+   "remote": true,
+   "source": "jobicy",
+   "score": 4,
+   "matched_skills": [
+    "react",
+    "ai"
+   ],
+   "tags": [
+    "software engineering",
+    "full-time"
+   ],
+   "posted_at": "2026-07-21T16:19:31+00:00",
+   "age_days": 0.5
   }
  ]
 }
