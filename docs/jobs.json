@@ -1,29 +1,7 @@
 {
- "generated_at": "2026-07-22T04:13:38+00:00",
- "count": 6,
+ "generated_at": "2026-07-22T15:01:08+00:00",
+ "count": 5,
  "jobs": [
-  {
-   "title": "Java Softwareentwickler/in mit Karriereambitionen - jetzt mit uns voll durchstarten!",
-   "company": "Auralis Group",
-   "url": "https://www.arbeitnow.com/jobs/companies/auralis-group/java-softwareentwickler-in-mit-karriereambitionen-jetzt-mit-uns-voll-durchstarten-markt-indersdorf-436151",
-   "location": "Markt Indersdorf",
-   "remote": true,
-   "source": "arbeitnow",
-   "score": 9,
-   "matched_skills": [
-    "react",
-    "vue",
-    "angular",
-    "ai",
-    "azure"
-   ],
-   "tags": [
-    "remote",
-    "software development"
-   ],
-   "posted_at": "2026-07-21T22:00:26+00:00",
-   "age_days": 0.3
-  },
   {
    "title": "Staff Software Engineer, Product (Montevideo)",
    "company": "LawnStarter",
@@ -60,7 +38,7 @@
     "datadog"
    ],
    "posted_at": "2026-07-09T14:43:46",
-   "age_days": 12.6
+   "age_days": 13.0
   },
   {
    "title": "Staff Product Engineer (Montevideo)",
@@ -98,7 +76,7 @@
     "datadog"
    ],
    "posted_at": "2026-07-09T14:30:17",
-   "age_days": 12.6
+   "age_days": 13.0
   },
   {
    "title": "Applied AI Product Strategy & Revenue Lead",
@@ -129,7 +107,7 @@
     "digital nomad"
    ],
    "posted_at": "2026-07-19T16:00:03+00:00",
-   "age_days": 2.5
+   "age_days": 3.0
   },
   {
    "title": "Python and Kubernetes Software Engineer - Data, Workflows, AI/ML & Analytics",
@@ -148,7 +126,7 @@
     "full-time"
    ],
    "posted_at": "2026-07-21T16:20:33+00:00",
-   "age_days": 0.5
+   "age_days": 0.9
   },
   {
    "title": "Web Frontend Engineer - JS, CSS, React, Flutter",
@@ -167,7 +145,7 @@
     "full-time"
    ],
    "posted_at": "2026-07-21T16:19:31+00:00",
-   "age_days": 0.5
+   "age_days": 0.9
   }
  ]
 }
