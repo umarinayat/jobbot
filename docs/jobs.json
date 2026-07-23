@@ -1,83 +1,7 @@
 {
- "generated_at": "2026-07-23T04:11:24+00:00",
- "count": 4,
+ "generated_at": "2026-07-23T15:04:27+00:00",
+ "count": 2,
  "jobs": [
-  {
-   "title": "Staff Software Engineer, Product (Montevideo)",
-   "company": "LawnStarter",
-   "url": "https://remotive.com/remote-jobs/software-development/staff-software-engineer-product-montevideo-2091058",
-   "location": "Uruguay",
-   "remote": true,
-   "source": "remotive",
-   "score": 7,
-   "matched_skills": [
-    "react",
-    "typescript",
-    "ai"
-   ],
-   "tags": [
-    "aws",
-    "backend",
-    "frontend",
-    "php",
-    "react",
-    "security",
-    "ui/ux",
-    "ai/ml",
-    "jira",
-    "react native",
-    "documentation",
-    "laravel",
-    "typescript",
-    "people management",
-    "prototyping",
-    "engineering management",
-    "marketplace",
-    "github",
-    "rest",
-    "datadog"
-   ],
-   "posted_at": "2026-07-09T14:43:46",
-   "age_days": 13.6
-  },
-  {
-   "title": "Staff Product Engineer (Montevideo)",
-   "company": "LawnStarter",
-   "url": "https://remotive.com/remote-jobs/product/staff-product-engineer-montevideo-2091054",
-   "location": "Uruguay",
-   "remote": true,
-   "source": "remotive",
-   "score": 7,
-   "matched_skills": [
-    "react",
-    "typescript",
-    "ai"
-   ],
-   "tags": [
-    "aws",
-    "backend",
-    "frontend",
-    "php",
-    "react",
-    "security",
-    "ui/ux",
-    "ai/ml",
-    "jira",
-    "react native",
-    "documentation",
-    "laravel",
-    "typescript",
-    "people management",
-    "prototyping",
-    "engineering management",
-    "marketplace",
-    "github",
-    "rest",
-    "datadog"
-   ],
-   "posted_at": "2026-07-09T14:30:17",
-   "age_days": 13.6
-  },
   {
    "title": "Backend Developer",
    "company": "albo",
@@ -112,7 +36,7 @@
     "digital nomad"
    ],
    "posted_at": "2026-07-20T22:49:57+00:00",
-   "age_days": 2.2
+   "age_days": 2.7
   },
   {
    "title": "Python and Kubernetes Software Engineer - Data, Workflows, AI/ML & Analytics",
@@ -131,7 +55,7 @@
     "full-time"
    ],
    "posted_at": "2026-07-21T16:20:33+00:00",
-   "age_days": 1.5
+   "age_days": 1.9
   }
  ]
 }
