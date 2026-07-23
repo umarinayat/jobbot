@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-07-22T15:01:08+00:00",
- "count": 5,
+ "generated_at": "2026-07-23T04:11:24+00:00",
+ "count": 4,
  "jobs": [
   {
    "title": "Staff Software Engineer, Product (Montevideo)",
@@ -38,7 +38,7 @@
     "datadog"
    ],
    "posted_at": "2026-07-09T14:43:46",
-   "age_days": 13.0
+   "age_days": 13.6
   },
   {
    "title": "Staff Product Engineer (Montevideo)",
@@ -76,38 +76,43 @@
     "datadog"
    ],
    "posted_at": "2026-07-09T14:30:17",
-   "age_days": 13.0
+   "age_days": 13.6
   },
   {
-   "title": "Applied AI Product Strategy & Revenue Lead",
-   "company": "Prime Intellect",
-   "url": "https://remoteOK.com/remote-jobs/remote-applied-ai-product-strategy-revenue-lead-prime-intellect-1135061",
-   "location": "San Francisco",
+   "title": "Backend Developer",
+   "company": "albo",
+   "url": "https://remoteOK.com/remote-jobs/remote-backend-developer-albo-1135248",
+   "location": "Ciudad de M\u00c3\u00a9xico, Ciudad de M\u00c3\u00a9xico, M\u00c3\u00a9xico",
    "remote": true,
    "source": "remoteok",
-   "score": 6,
+   "score": 5,
    "matched_skills": [
-    "langchain",
-    "llm",
-    "ai"
+    "mongodb",
+    "mysql",
+    "postgres"
    ],
    "tags": [
-    "sys admin",
-    "education",
-    "full stack",
-    "exec",
-    "technical",
-    "customer support",
     "dev",
+    "design",
+    "technical",
+    "testing",
+    "exec",
+    "quality assurance",
     "finance",
-    "legal",
-    "sales",
+    "java",
+    "cloud",
+    "nosql",
+    "sql",
+    "mongo",
+    "senior",
+    "sys admin",
     "golang",
     "engineer",
+    "backend",
     "digital nomad"
    ],
-   "posted_at": "2026-07-19T16:00:03+00:00",
-   "age_days": 3.0
+   "posted_at": "2026-07-20T22:49:57+00:00",
+   "age_days": 2.2
   },
   {
    "title": "Python and Kubernetes Software Engineer - Data, Workflows, AI/ML & Analytics",
@@ -126,26 +131,7 @@
     "full-time"
    ],
    "posted_at": "2026-07-21T16:20:33+00:00",
-   "age_days": 0.9
-  },
-  {
-   "title": "Web Frontend Engineer - JS, CSS, React, Flutter",
-   "company": "Canonical Ltd.",
-   "url": "https://jobicy.com/jobs/149527-web-frontend-engineer-js-css-react-flutter",
-   "location": "Anywhere",
-   "remote": true,
-   "source": "jobicy",
-   "score": 4,
-   "matched_skills": [
-    "react",
-    "ai"
-   ],
-   "tags": [
-    "software engineering",
-    "full-time"
-   ],
-   "posted_at": "2026-07-21T16:19:31+00:00",
-   "age_days": 0.9
+   "age_days": 1.5
   }
  ]
 }
