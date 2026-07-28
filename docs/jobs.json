@@ -1,53 +1,49 @@
 {
- "generated_at": "2026-07-28T03:56:58+00:00",
+ "generated_at": "2026-07-28T15:16:10+00:00",
  "count": 2,
  "jobs": [
   {
-   "title": "Senior Data Scientist (m/f/x)",
-   "company": "Makersite GmbH",
-   "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-senior-data-scientist-berlin-366454",
-   "location": "Remote job",
-   "remote": true,
-   "source": "arbeitnow",
-   "score": 11,
-   "matched_skills": [
-    "python",
-    "fastapi",
-    "langchain",
-    "ai",
-    "rag",
-    "azure"
-   ],
-   "tags": [
-    "engineering",
-    "remote",
-    "experienced",
-    "fulltime permanent"
-   ],
-   "posted_at": "2026-07-27T17:51:11+00:00",
-   "age_days": 0.4
-  },
-  {
-   "title": "Fullstack-Entwickler Java (m/w/d)",
-   "company": "IT42morrow IFT GmbH",
-   "url": "https://www.arbeitnow.com/jobs/companies/it42morrow-ift-gmbh/fullstack-entwickler-java-brandenburg-44893",
-   "location": "Brandenburg",
+   "title": "Full-Stack Developer (m/w/d) Python",
+   "company": "SEPPmail Deutschland GmbH",
+   "url": "https://www.arbeitnow.com/jobs/companies/seppmail-deutschland-gmbh/full-stack-developer-python-brunnthal-68420",
+   "location": "Brunnthal",
    "remote": true,
    "source": "arbeitnow",
    "score": 10,
    "matched_skills": [
     "react",
-    "angular",
-    "mongodb",
-    "mysql",
-    "azure"
+    "typescript",
+    "python",
+    "fastapi"
    ],
    "tags": [
     "remote",
     "software development"
    ],
-   "posted_at": "2026-07-27T16:30:30+00:00",
-   "age_days": 0.5
+   "posted_at": "2026-07-28T12:00:38+00:00",
+   "age_days": 0.1
+  },
+  {
+   "title": "Laravel Senior Backend Developer (m/w/d) - Skaliere mit uns auf Millionen-Traffic",
+   "company": "Kettner Edelmetalle",
+   "url": "https://www.arbeitnow.com/jobs/companies/kettner-edelmetalle/remote-laravel-senior-backend-developer-skaliere-mit-uns-auf-millionen-traffic-berlin-408399",
+   "location": "Homeoffice",
+   "remote": true,
+   "source": "arbeitnow",
+   "score": 6,
+   "matched_skills": [
+    "javascript",
+    "vue",
+    "vue.js"
+   ],
+   "tags": [
+    "it entwicklung",
+    "remote",
+    "experienced",
+    "fulltime permanent"
+   ],
+   "posted_at": "2026-07-28T11:31:18+00:00",
+   "age_days": 0.2
   }
  ]
 }
