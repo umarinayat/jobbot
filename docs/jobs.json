@@ -1,49 +1,28 @@
 {
- "generated_at": "2026-07-28T15:16:10+00:00",
- "count": 2,
+ "generated_at": "2026-07-29T04:08:34+00:00",
+ "count": 1,
  "jobs": [
   {
-   "title": "Full-Stack Developer (m/w/d) Python",
-   "company": "SEPPmail Deutschland GmbH",
-   "url": "https://www.arbeitnow.com/jobs/companies/seppmail-deutschland-gmbh/full-stack-developer-python-brunnthal-68420",
-   "location": "Brunnthal",
+   "title": "Full-Stack Developer, Junior/Mid-Level, f\u00fcr SaaS Produkt",
+   "company": "Affonso",
+   "url": "https://www.arbeitnow.com/jobs/companies/affonso/full-stack-developer-junior-mid-level-fur-saas-produkt-cologne-238972",
+   "location": "Cologne",
    "remote": true,
    "source": "arbeitnow",
-   "score": 10,
+   "score": 9,
    "matched_skills": [
     "react",
     "typescript",
-    "python",
-    "fastapi"
+    "next.js",
+    "ai"
    ],
    "tags": [
     "remote",
-    "software development"
+    "software development",
+    "berufseinstieg"
    ],
-   "posted_at": "2026-07-28T12:00:38+00:00",
-   "age_days": 0.1
-  },
-  {
-   "title": "Laravel Senior Backend Developer (m/w/d) - Skaliere mit uns auf Millionen-Traffic",
-   "company": "Kettner Edelmetalle",
-   "url": "https://www.arbeitnow.com/jobs/companies/kettner-edelmetalle/remote-laravel-senior-backend-developer-skaliere-mit-uns-auf-millionen-traffic-berlin-408399",
-   "location": "Homeoffice",
-   "remote": true,
-   "source": "arbeitnow",
-   "score": 6,
-   "matched_skills": [
-    "javascript",
-    "vue",
-    "vue.js"
-   ],
-   "tags": [
-    "it entwicklung",
-    "remote",
-    "experienced",
-    "fulltime permanent"
-   ],
-   "posted_at": "2026-07-28T11:31:18+00:00",
-   "age_days": 0.2
+   "posted_at": "2026-07-28T22:00:26+00:00",
+   "age_days": 0.3
   }
  ]
 }
