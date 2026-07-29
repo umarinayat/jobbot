@@ -1,28 +1,85 @@
 {
- "generated_at": "2026-07-29T04:08:34+00:00",
- "count": 1,
+ "generated_at": "2026-07-29T15:06:38+00:00",
+ "count": 3,
  "jobs": [
   {
-   "title": "Full-Stack Developer, Junior/Mid-Level, f\u00fcr SaaS Produkt",
-   "company": "Affonso",
-   "url": "https://www.arbeitnow.com/jobs/companies/affonso/full-stack-developer-junior-mid-level-fur-saas-produkt-cologne-238972",
-   "location": "Cologne",
+   "title": "Senior/Staff Product Engineer (Frontend) (m/f/d)",
+   "company": "epilot GmbH",
+   "url": "https://www.arbeitnow.com/jobs/companies/epilot-gmbh/remote-senior-staff-product-engineer-frontend-koln-102759",
+   "location": "Remote job",
+   "remote": true,
+   "source": "arbeitnow",
+   "score": 14,
+   "matched_skills": [
+    "react",
+    "node",
+    "node.js",
+    "typescript",
+    "javascript"
+   ],
+   "tags": [
+    "tech",
+    "remote",
+    "experienced",
+    "fulltime"
+   ],
+   "posted_at": "2026-07-29T08:50:17+00:00",
+   "age_days": 0.3
+  },
+  {
+   "title": "Senior/Staff Product Engineer (Full Stack) (m/f/d)",
+   "company": "epilot GmbH",
+   "url": "https://www.arbeitnow.com/jobs/companies/epilot-gmbh/remote-senior-staff-product-engineer-full-stack-koln-89000",
+   "location": "Remote job",
    "remote": true,
    "source": "arbeitnow",
    "score": 9,
    "matched_skills": [
     "react",
     "typescript",
-    "next.js",
+    "javascript",
+    "azure"
+   ],
+   "tags": [
+    "tech",
+    "remote",
+    "experienced",
+    "fulltime"
+   ],
+   "posted_at": "2026-07-29T08:50:17+00:00",
+   "age_days": 0.3
+  },
+  {
+   "title": "AI Intern",
+   "company": "CertifyOS",
+   "url": "https://remoteOK.com/remote-jobs/remote-ai-intern-certifyos-1135555",
+   "location": "Pune",
+   "remote": true,
+   "source": "remoteok",
+   "score": 4,
+   "matched_skills": [
+    "python",
     "ai"
    ],
    "tags": [
-    "remote",
-    "software development",
-    "berufseinstieg"
+    "design",
+    "sys admin",
+    "python",
+    "technical",
+    "dev",
+    "testing",
+    "java",
+    "cloud",
+    "git",
+    "api",
+    "ops",
+    "medical",
+    "recruiter",
+    "engineer",
+    "digital nomad"
    ],
-   "posted_at": "2026-07-28T22:00:26+00:00",
-   "age_days": 0.3
+   "posted_at": "2026-07-28T08:00:03+00:00",
+   "age_days": 1.3
   }
  ]
 }
