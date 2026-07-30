@@ -1,54 +1,7 @@
 {
- "generated_at": "2026-07-29T15:06:38+00:00",
- "count": 3,
+ "generated_at": "2026-07-30T03:52:47+00:00",
+ "count": 1,
  "jobs": [
-  {
-   "title": "Senior/Staff Product Engineer (Frontend) (m/f/d)",
-   "company": "epilot GmbH",
-   "url": "https://www.arbeitnow.com/jobs/companies/epilot-gmbh/remote-senior-staff-product-engineer-frontend-koln-102759",
-   "location": "Remote job",
-   "remote": true,
-   "source": "arbeitnow",
-   "score": 14,
-   "matched_skills": [
-    "react",
-    "node",
-    "node.js",
-    "typescript",
-    "javascript"
-   ],
-   "tags": [
-    "tech",
-    "remote",
-    "experienced",
-    "fulltime"
-   ],
-   "posted_at": "2026-07-29T08:50:17+00:00",
-   "age_days": 0.3
-  },
-  {
-   "title": "Senior/Staff Product Engineer (Full Stack) (m/f/d)",
-   "company": "epilot GmbH",
-   "url": "https://www.arbeitnow.com/jobs/companies/epilot-gmbh/remote-senior-staff-product-engineer-full-stack-koln-89000",
-   "location": "Remote job",
-   "remote": true,
-   "source": "arbeitnow",
-   "score": 9,
-   "matched_skills": [
-    "react",
-    "typescript",
-    "javascript",
-    "azure"
-   ],
-   "tags": [
-    "tech",
-    "remote",
-    "experienced",
-    "fulltime"
-   ],
-   "posted_at": "2026-07-29T08:50:17+00:00",
-   "age_days": 0.3
-  },
   {
    "title": "AI Intern",
    "company": "CertifyOS",
@@ -79,7 +32,7 @@
     "digital nomad"
    ],
    "posted_at": "2026-07-28T08:00:03+00:00",
-   "age_days": 1.3
+   "age_days": 1.8
   }
  ]
 }
