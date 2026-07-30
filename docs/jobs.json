@@ -1,7 +1,26 @@
 {
- "generated_at": "2026-07-30T03:52:47+00:00",
- "count": 1,
+ "generated_at": "2026-07-30T15:07:05+00:00",
+ "count": 2,
  "jobs": [
+  {
+   "title": "Senior Software Architekt & Python Developer bzw. Programmierer (m/w/d)",
+   "company": "U-Glow GmbH",
+   "url": "https://www.arbeitnow.com/jobs/companies/u-glow-gmbh/senior-software-architekt-python-developer-bzw-programmierer-mulheim-420887",
+   "location": "M\u00fclheim",
+   "remote": true,
+   "source": "arbeitnow",
+   "score": 5,
+   "matched_skills": [
+    "python",
+    "rag"
+   ],
+   "tags": [
+    "remote",
+    "it"
+   ],
+   "posted_at": "2026-07-30T09:30:38+00:00",
+   "age_days": 0.2
+  },
   {
    "title": "AI Intern",
    "company": "CertifyOS",
@@ -32,7 +51,7 @@
     "digital nomad"
    ],
    "posted_at": "2026-07-28T08:00:03+00:00",
-   "age_days": 1.8
+   "age_days": 2.3
   }
  ]
 }
