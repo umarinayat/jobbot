@@ -1,38 +1,5 @@
 {
- "generated_at": "2026-07-31T15:14:55+00:00",
- "count": 1,
- "jobs": [
-  {
-   "title": "AI Intern",
-   "company": "CertifyOS",
-   "url": "https://remoteOK.com/remote-jobs/remote-ai-intern-certifyos-1135555",
-   "location": "Pune",
-   "remote": true,
-   "source": "remoteok",
-   "score": 4,
-   "matched_skills": [
-    "python",
-    "ai"
-   ],
-   "tags": [
-    "design",
-    "sys admin",
-    "python",
-    "technical",
-    "dev",
-    "testing",
-    "java",
-    "cloud",
-    "git",
-    "api",
-    "ops",
-    "medical",
-    "recruiter",
-    "engineer",
-    "digital nomad"
-   ],
-   "posted_at": "2026-07-28T08:00:03+00:00",
-   "age_days": 3.3
-  }
- ]
+ "generated_at": "2026-08-01T04:17:47+00:00",
+ "count": 0,
+ "jobs": []
 }
