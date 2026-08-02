@@ -1,77 +1,7 @@
 {
- "generated_at": "2026-08-02T04:21:47+00:00",
- "count": 4,
+ "generated_at": "2026-08-02T14:25:36+00:00",
+ "count": 1,
  "jobs": [
-  {
-   "title": "Remote - Ingenieur / Software-Architekt / KI-Nutzer",
-   "company": "DAI Software GmbH",
-   "url": "https://www.arbeitnow.com/jobs/companies/dai-software-gmbh/remote-ingenieur-software-architekt-ki-nutzer-darmstadt-77943",
-   "location": "Darmstadt",
-   "remote": true,
-   "source": "arbeitnow",
-   "score": 13,
-   "matched_skills": [
-    "react",
-    "node",
-    "node.js",
-    "typescript",
-    "ai"
-   ],
-   "tags": [
-    "remote",
-    "it"
-   ],
-   "posted_at": "2026-08-01T16:00:49+00:00",
-   "age_days": 0.5
-  },
-  {
-   "title": "Senior Data Scientist (m/f/x)",
-   "company": "Makersite GmbH",
-   "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-senior-data-scientist-berlin-113549",
-   "location": "Remote job",
-   "remote": true,
-   "source": "arbeitnow",
-   "score": 11,
-   "matched_skills": [
-    "python",
-    "fastapi",
-    "langchain",
-    "ai",
-    "rag",
-    "azure"
-   ],
-   "tags": [
-    "engineering",
-    "remote",
-    "experienced",
-    "fulltime permanent"
-   ],
-   "posted_at": "2026-08-01T08:30:23+00:00",
-   "age_days": 0.8
-  },
-  {
-   "title": "Founding Engineer / Senior Full Stack (AI-native Freight Forwarder)",
-   "company": "Stetig",
-   "url": "https://www.arbeitnow.com/jobs/companies/stetig/founding-engineer-senior-full-stack-ai-native-freight-forwarder-frankfurt-am-main-208525",
-   "location": "Frankfurt am Main",
-   "remote": true,
-   "source": "arbeitnow",
-   "score": 10,
-   "matched_skills": [
-    "typescript",
-    "python",
-    "postgres",
-    "llm",
-    "ai"
-   ],
-   "tags": [
-    "remote",
-    "engineering",
-    "professional / experienced"
-   ],
-   "posted_at": "2026-08-01T12:59:02+00:00",
-   "age_days": 0.6
-  },
   {
    "title": "Product Engineer",
    "company": "SuperPlane",
@@ -93,7 +23,7 @@
     "ai"
    ],
    "posted_at": "2026-07-31T14:48:13+00:00",
-   "age_days": 1.6
+   "age_days": 2.0
   }
  ]
 }
