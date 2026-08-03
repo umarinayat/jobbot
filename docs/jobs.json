@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-03T04:26:04+00:00",
- "count": 1,
+ "generated_at": "2026-08-03T15:40:26+00:00",
+ "count": 2,
  "jobs": [
   {
    "title": "Product Engineer",
@@ -23,7 +23,27 @@
     "ai"
    ],
    "posted_at": "2026-07-31T14:48:13+00:00",
-   "age_days": 2.6
+   "age_days": 3.0
+  },
+  {
+   "title": "Fullstack-Entwickler mit Schwerpunkt Frontend (m/w/d)",
+   "company": "New Monday GmbH",
+   "url": "https://www.arbeitnow.com/jobs/companies/new-monday-gmbh/fullstack-entwickler-mit-schwerpunkt-frontend-berlin-357410",
+   "location": "Berlin",
+   "remote": true,
+   "source": "arbeitnow",
+   "score": 5,
+   "matched_skills": [
+    "typescript",
+    "angular"
+   ],
+   "tags": [
+    "remote",
+    "software development",
+    "berufserfahren"
+   ],
+   "posted_at": "2026-08-03T12:30:45+00:00",
+   "age_days": 0.1
   }
  ]
 }
