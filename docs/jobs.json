@@ -1,29 +1,5 @@
 {
- "generated_at": "2026-08-04T15:21:45+00:00",
- "count": 1,
- "jobs": [
-  {
-   "title": "Product Engineer",
-   "company": "SuperPlane",
-   "url": "https://remoteOK.com/remote-jobs/remote-product-engineer-superplane-1135739",
-   "location": "Remote",
-   "remote": true,
-   "source": "remoteok",
-   "score": 9,
-   "matched_skills": [
-    "react",
-    "typescript",
-    "javascript",
-    "ai"
-   ],
-   "tags": [
-    "golang",
-    "javascript",
-    "react",
-    "ai"
-   ],
-   "posted_at": "2026-07-31T14:48:13+00:00",
-   "age_days": 4.0
-  }
- ]
+ "generated_at": "2026-08-05T03:55:38+00:00",
+ "count": 0,
+ "jobs": []
 }
