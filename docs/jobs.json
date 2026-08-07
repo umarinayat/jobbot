@@ -1,7 +1,58 @@
 {
- "generated_at": "2026-08-06T15:14:04+00:00",
- "count": 1,
+ "generated_at": "2026-08-07T03:45:47+00:00",
+ "count": 2,
  "jobs": [
+  {
+   "title": "owlette",
+   "company": "Tridant",
+   "url": "https://remoteOK.com/remote-jobs/remote-owlette-tridant-1136206",
+   "location": "Fleet,",
+   "remote": true,
+   "source": "remoteok",
+   "score": 7,
+   "matched_skills": [
+    "node",
+    "typescript",
+    "ai"
+   ],
+   "tags": [
+    "education",
+    "non tech",
+    "finance",
+    "exec",
+    "saas",
+    "sys admin",
+    "vfx",
+    "c",
+    "embedded",
+    "infosec",
+    "technical",
+    "customer support",
+    "web dev",
+    "travel",
+    "html",
+    "ads",
+    "content writing",
+    "marketing",
+    "stats",
+    "golang",
+    "recruiter",
+    "engineer",
+    "consulting",
+    "dev",
+    "virtual assistant",
+    "firebase",
+    "cloud",
+    "typescript",
+    "node",
+    "api",
+    "apache",
+    "backend",
+    "digital nomad"
+   ],
+   "posted_at": "2026-08-05T15:43:23+00:00",
+   "age_days": 1.5
+  },
   {
    "title": "CovalFlow",
    "company": "CovalTech",
@@ -50,7 +101,7 @@
     "digital nomad"
    ],
    "posted_at": "2026-08-05T14:29:44+00:00",
-   "age_days": 1.0
+   "age_days": 1.6
   }
  ]
 }
