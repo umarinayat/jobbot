@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-07T03:45:47+00:00",
+ "generated_at": "2026-08-07T14:08:51+00:00",
  "count": 2,
  "jobs": [
   {
@@ -51,7 +51,7 @@
     "digital nomad"
    ],
    "posted_at": "2026-08-05T15:43:23+00:00",
-   "age_days": 1.5
+   "age_days": 1.9
   },
   {
    "title": "CovalFlow",
@@ -101,7 +101,7 @@
     "digital nomad"
    ],
    "posted_at": "2026-08-05T14:29:44+00:00",
-   "age_days": 1.6
+   "age_days": 2.0
   }
  ]
 }
