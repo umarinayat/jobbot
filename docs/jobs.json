@@ -1,7 +1,47 @@
 {
- "generated_at": "2026-08-08T02:51:58+00:00",
- "count": 2,
+ "generated_at": "2026-08-08T13:40:39+00:00",
+ "count": 3,
  "jobs": [
+  {
+   "title": "Senior React Full stack Developer",
+   "company": "Lemon.io",
+   "url": "https://remoteOK.com/remote-jobs/remote-senior-react-full-stack-developer-lemon-io-1136299",
+   "location": "Remote",
+   "remote": true,
+   "source": "remoteok",
+   "score": 30,
+   "matched_skills": [
+    "react",
+    "react.js",
+    "node",
+    "node.js",
+    "typescript",
+    "javascript",
+    "python",
+    "vue",
+    "angular",
+    "next.js",
+    "llm",
+    "ai",
+    "azure"
+   ],
+   "tags": [
+    "dev",
+    "engineer",
+    "senior",
+    "full time",
+    "python",
+    "aws",
+    "gcp",
+    "javascript",
+    "react",
+    "node",
+    "ruby",
+    "typescript"
+   ],
+   "posted_at": "2026-08-07T13:08:19+00:00",
+   "age_days": 1.0
+  },
   {
    "title": "owlette",
    "company": "Tridant",
@@ -51,7 +91,7 @@
     "digital nomad"
    ],
    "posted_at": "2026-08-05T15:43:23+00:00",
-   "age_days": 2.5
+   "age_days": 2.9
   },
   {
    "title": "CovalFlow",
@@ -101,7 +141,7 @@
     "digital nomad"
    ],
    "posted_at": "2026-08-05T14:29:44+00:00",
-   "age_days": 2.5
+   "age_days": 3.0
   }
  ]
 }
