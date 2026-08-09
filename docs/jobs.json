@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-08T13:40:39+00:00",
+ "generated_at": "2026-08-09T02:59:33+00:00",
  "count": 3,
  "jobs": [
   {
@@ -40,7 +40,7 @@
     "typescript"
    ],
    "posted_at": "2026-08-07T13:08:19+00:00",
-   "age_days": 1.0
+   "age_days": 1.6
   },
   {
    "title": "owlette",
@@ -91,7 +91,7 @@
     "digital nomad"
    ],
    "posted_at": "2026-08-05T15:43:23+00:00",
-   "age_days": 2.9
+   "age_days": 3.5
   },
   {
    "title": "CovalFlow",
@@ -141,7 +141,7 @@
     "digital nomad"
    ],
    "posted_at": "2026-08-05T14:29:44+00:00",
-   "age_days": 3.0
+   "age_days": 3.5
   }
  ]
 }
