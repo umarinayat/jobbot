@@ -1,70 +1,147 @@
 {
- "generated_at": "2026-08-10T14:18:34+00:00",
+ "generated_at": "2026-08-11T03:01:32+00:00",
  "count": 4,
  "jobs": [
   {
-   "title": "Junior Fullstack Engineer (m/w/d) TS, React, Next.js & AI 100% Remote",
-   "company": "NotarPartner GmbH",
-   "url": "https://www.arbeitnow.com/jobs/companies/notarpartner-gmbh/junior-fullstack-engineer-ts-react-nextjs-ai-100-remote-hamburg-425588",
-   "location": "Hamburg",
+   "title": "Senior React Full stack Developer",
+   "company": "Lemon.io",
+   "url": "https://remoteOK.com/remote-jobs/remote-senior-react-full-stack-developer-lemon-io-1136299",
+   "location": "Remote",
    "remote": true,
-   "source": "arbeitnow",
-   "score": 15,
+   "source": "remoteok",
+   "score": 30,
    "matched_skills": [
     "react",
+    "react.js",
     "node",
     "node.js",
     "typescript",
-    "next.js",
-    "ai"
-   ],
-   "tags": [
-    "remote",
-    "web development",
-    "berufserfahren"
-   ],
-   "posted_at": "2026-08-10T11:00:34+00:00",
-   "age_days": 0.1
-  },
-  {
-   "title": "Software Developer: Python (m/w/d)",
-   "company": "sync.blue\u00ae GmbH",
-   "url": "https://www.arbeitnow.com/jobs/companies/syncblue-gmbh/software-developer-python-haltern-am-see-400521",
-   "location": "Haltern am See",
-   "remote": true,
-   "source": "arbeitnow",
-   "score": 7,
-   "matched_skills": [
+    "javascript",
     "python",
     "vue",
-    "vue.js"
+    "angular",
+    "next.js",
+    "llm",
+    "ai",
+    "azure"
    ],
    "tags": [
-    "remote",
-    "software development"
+    "dev",
+    "engineer",
+    "senior",
+    "full time",
+    "python",
+    "aws",
+    "gcp",
+    "javascript",
+    "react",
+    "node",
+    "ruby",
+    "typescript"
    ],
-   "posted_at": "2026-08-10T11:30:44+00:00",
-   "age_days": 0.1
+   "posted_at": "2026-08-07T13:08:19+00:00",
+   "age_days": 3.6
   },
   {
-   "title": "Product Engineer",
-   "company": "MedMatic GmbH",
-   "url": "https://www.arbeitnow.com/jobs/companies/medmatic-gmbh/product-engineer-munich-30842",
-   "location": "Munich",
+   "title": "owlette",
+   "company": "Tridant",
+   "url": "https://remoteOK.com/remote-jobs/remote-owlette-tridant-1136206",
+   "location": "Fleet,",
    "remote": true,
-   "source": "arbeitnow",
-   "score": 4,
+   "source": "remoteok",
+   "score": 7,
    "matched_skills": [
-    "python",
+    "node",
+    "typescript",
     "ai"
    ],
    "tags": [
-    "remote",
-    "engineering",
-    "berufserfahren"
+    "education",
+    "non tech",
+    "finance",
+    "exec",
+    "saas",
+    "sys admin",
+    "vfx",
+    "c",
+    "embedded",
+    "infosec",
+    "technical",
+    "customer support",
+    "web dev",
+    "travel",
+    "html",
+    "ads",
+    "content writing",
+    "marketing",
+    "stats",
+    "golang",
+    "recruiter",
+    "engineer",
+    "consulting",
+    "dev",
+    "virtual assistant",
+    "firebase",
+    "cloud",
+    "typescript",
+    "node",
+    "api",
+    "apache",
+    "backend",
+    "digital nomad"
    ],
-   "posted_at": "2026-08-10T10:30:44+00:00",
-   "age_days": 0.2
+   "posted_at": "2026-08-05T15:43:23+00:00",
+   "age_days": 5.5
+  },
+  {
+   "title": "CovalFlow",
+   "company": "CovalTech",
+   "url": "https://remoteOK.com/remote-jobs/remote-covalflow-covaltech-1136207",
+   "location": "Full Sutton,",
+   "remote": true,
+   "source": "remoteok",
+   "score": 6,
+   "matched_skills": [
+    "node",
+    "typescript"
+   ],
+   "tags": [
+    "education",
+    "non tech",
+    "finance",
+    "exec",
+    "saas",
+    "sys admin",
+    "vfx",
+    "c",
+    "embedded",
+    "infosec",
+    "technical",
+    "customer support",
+    "web dev",
+    "travel",
+    "html",
+    "ads",
+    "content writing",
+    "marketing",
+    "stats",
+    "golang",
+    "recruiter",
+    "engineer",
+    "consulting",
+    "dev",
+    "virtual assistant",
+    "firebase",
+    "cloud",
+    "typescript",
+    "node",
+    "api",
+    "apache",
+    "backend",
+    "digital nomad"
+   ],
+   "posted_at": "2026-08-05T14:29:44+00:00",
+   "age_days": 5.5
   },
   {
    "title": "Software Engineer - Python - Container Images",
@@ -83,7 +160,7 @@
     "full-time"
    ],
    "posted_at": "2026-08-09T03:32:32+00:00",
-   "age_days": 1.4
+   "age_days": 2.0
   }
  ]
 }
