@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-11T03:01:32+00:00",
+ "generated_at": "2026-08-11T14:16:25+00:00",
  "count": 4,
  "jobs": [
   {
@@ -40,7 +40,7 @@
     "typescript"
    ],
    "posted_at": "2026-08-07T13:08:19+00:00",
-   "age_days": 3.6
+   "age_days": 4.0
   },
   {
    "title": "owlette",
@@ -91,7 +91,7 @@
     "digital nomad"
    ],
    "posted_at": "2026-08-05T15:43:23+00:00",
-   "age_days": 5.5
+   "age_days": 5.9
   },
   {
    "title": "CovalFlow",
@@ -141,7 +141,7 @@
     "digital nomad"
    ],
    "posted_at": "2026-08-05T14:29:44+00:00",
-   "age_days": 5.5
+   "age_days": 6.0
   },
   {
    "title": "Software Engineer - Python - Container Images",
@@ -160,7 +160,7 @@
     "full-time"
    ],
    "posted_at": "2026-08-09T03:32:32+00:00",
-   "age_days": 2.0
+   "age_days": 2.4
   }
  ]
 }
