@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-12T03:20:19+00:00",
- "count": 2,
+ "generated_at": "2026-08-12T14:17:51+00:00",
+ "count": 1,
  "jobs": [
   {
    "title": "Senior React Full stack Developer",
@@ -40,58 +40,7 @@
     "typescript"
    ],
    "posted_at": "2026-08-07T13:08:19+00:00",
-   "age_days": 4.6
-  },
-  {
-   "title": "owlette",
-   "company": "Tridant",
-   "url": "https://remoteOK.com/remote-jobs/remote-owlette-tridant-1136206",
-   "location": "Fleet,",
-   "remote": true,
-   "source": "remoteok",
-   "score": 7,
-   "matched_skills": [
-    "node",
-    "typescript",
-    "ai"
-   ],
-   "tags": [
-    "education",
-    "non tech",
-    "finance",
-    "exec",
-    "saas",
-    "sys admin",
-    "vfx",
-    "c",
-    "embedded",
-    "infosec",
-    "technical",
-    "customer support",
-    "web dev",
-    "travel",
-    "html",
-    "ads",
-    "content writing",
-    "marketing",
-    "stats",
-    "golang",
-    "recruiter",
-    "engineer",
-    "consulting",
-    "dev",
-    "virtual assistant",
-    "firebase",
-    "cloud",
-    "typescript",
-    "node",
-    "api",
-    "apache",
-    "backend",
-    "digital nomad"
-   ],
-   "posted_at": "2026-08-05T15:43:23+00:00",
-   "age_days": 6.5
+   "age_days": 5.0
   }
  ]
 }
