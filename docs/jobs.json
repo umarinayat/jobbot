@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-13T03:24:15+00:00",
+ "generated_at": "2026-08-13T14:19:48+00:00",
  "count": 2,
  "jobs": [
   {
@@ -40,32 +40,27 @@
     "typescript"
    ],
    "posted_at": "2026-08-07T13:08:19+00:00",
-   "age_days": 5.6
+   "age_days": 6.0
   },
   {
-   "title": "Senior Data Scientist (m/f/x)",
-   "company": "Makersite GmbH",
-   "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-senior-data-scientist-berlin-323426",
-   "location": "Remote job",
+   "title": "Senior Software Developer: Python (m/w/d)",
+   "company": "sync.blue\u00ae GmbH",
+   "url": "https://www.arbeitnow.com/jobs/companies/syncblue-gmbh/senior-software-developer-python-haltern-am-see-285434",
+   "location": "Haltern am See",
    "remote": true,
    "source": "arbeitnow",
-   "score": 11,
+   "score": 7,
    "matched_skills": [
     "python",
-    "fastapi",
-    "langchain",
-    "ai",
-    "rag",
-    "azure"
+    "vue",
+    "vue.js"
    ],
    "tags": [
-    "engineering",
     "remote",
-    "experienced",
-    "fulltime permanent"
+    "software development"
    ],
-   "posted_at": "2026-08-12T20:30:26+00:00",
-   "age_days": 0.3
+   "posted_at": "2026-08-13T09:00:42+00:00",
+   "age_days": 0.2
   }
  ]
 }
