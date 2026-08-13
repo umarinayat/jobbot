@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-12T14:17:51+00:00",
- "count": 1,
+ "generated_at": "2026-08-13T03:24:15+00:00",
+ "count": 2,
  "jobs": [
   {
    "title": "Senior React Full stack Developer",
@@ -40,7 +40,32 @@
     "typescript"
    ],
    "posted_at": "2026-08-07T13:08:19+00:00",
-   "age_days": 5.0
+   "age_days": 5.6
+  },
+  {
+   "title": "Senior Data Scientist (m/f/x)",
+   "company": "Makersite GmbH",
+   "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-senior-data-scientist-berlin-323426",
+   "location": "Remote job",
+   "remote": true,
+   "source": "arbeitnow",
+   "score": 11,
+   "matched_skills": [
+    "python",
+    "fastapi",
+    "langchain",
+    "ai",
+    "rag",
+    "azure"
+   ],
+   "tags": [
+    "engineering",
+    "remote",
+    "experienced",
+    "fulltime permanent"
+   ],
+   "posted_at": "2026-08-12T20:30:26+00:00",
+   "age_days": 0.3
   }
  ]
 }
