@@ -1,5 +1,26 @@
 {
- "generated_at": "2026-08-15T13:25:21+00:00",
- "count": 0,
- "jobs": []
+ "generated_at": "2026-08-16T02:19:10+00:00",
+ "count": 1,
+ "jobs": [
+  {
+   "title": "Founding Product Designer",
+   "company": "paddy",
+   "url": "https://www.arbeitnow.com/jobs/companies/paddy/founding-product-designer-bielefeld-417897",
+   "location": "Bielefeld",
+   "remote": true,
+   "source": "arbeitnow",
+   "score": 4,
+   "matched_skills": [
+    "react",
+    "ai"
+   ],
+   "tags": [
+    "remote",
+    "media",
+    "screen and web design"
+   ],
+   "posted_at": "2026-08-15T12:30:24+00:00",
+   "age_days": 0.6
+  }
+ ]
 }
