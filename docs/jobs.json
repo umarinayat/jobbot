@@ -1,26 +1,59 @@
 {
- "generated_at": "2026-08-16T13:26:21+00:00",
- "count": 1,
+ "generated_at": "2026-08-17T02:17:04+00:00",
+ "count": 2,
  "jobs": [
   {
-   "title": "Founding Product Designer",
-   "company": "paddy",
-   "url": "https://www.arbeitnow.com/jobs/companies/paddy/founding-product-designer-bielefeld-417897",
-   "location": "Bielefeld",
+   "title": "Senior Product Engineer, eComm (all gender)",
+   "company": "Distribusion Technologies",
+   "url": "https://www.arbeitnow.com/jobs/companies/distribusion-technologies/remote-senior-product-engineer-ecomm-all-gender-berlin-296049",
+   "location": "Remote job",
    "remote": true,
    "source": "arbeitnow",
+   "score": 7,
+   "matched_skills": [
+    "typescript",
+    "python",
+    "fastapi"
+   ],
+   "tags": [
+    "technology",
+    "remote",
+    "experienced",
+    "fulltime permanent"
+   ],
+   "posted_at": "2026-08-16T23:30:13+00:00",
+   "age_days": 0.1
+  },
+  {
+   "title": "Senior Software Engineer Case Execution",
+   "company": "Pivotal Health",
+   "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-case-execution-pivotal-health-1136795",
+   "location": "New York City",
+   "remote": true,
+   "source": "remoteok",
    "score": 4,
    "matched_skills": [
-    "react",
+    "python",
     "ai"
    ],
    "tags": [
-    "remote",
-    "media",
-    "screen and web design"
+    "dev",
+    "front end",
+    "python",
+    "customer support",
+    "design",
+    "admin",
+    "exec",
+    "senior",
+    "ops",
+    "sys admin",
+    "medical",
+    "engineer",
+    "backend",
+    "digital nomad"
    ],
-   "posted_at": "2026-08-15T12:30:24+00:00",
-   "age_days": 1.0
+   "posted_at": "2026-08-16T00:00:03+00:00",
+   "age_days": 1.1
   }
  ]
 }
