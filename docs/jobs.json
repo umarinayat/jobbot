@@ -1,29 +1,7 @@
 {
- "generated_at": "2026-08-17T02:17:04+00:00",
- "count": 2,
+ "generated_at": "2026-08-17T13:34:59+00:00",
+ "count": 1,
  "jobs": [
-  {
-   "title": "Senior Product Engineer, eComm (all gender)",
-   "company": "Distribusion Technologies",
-   "url": "https://www.arbeitnow.com/jobs/companies/distribusion-technologies/remote-senior-product-engineer-ecomm-all-gender-berlin-296049",
-   "location": "Remote job",
-   "remote": true,
-   "source": "arbeitnow",
-   "score": 7,
-   "matched_skills": [
-    "typescript",
-    "python",
-    "fastapi"
-   ],
-   "tags": [
-    "technology",
-    "remote",
-    "experienced",
-    "fulltime permanent"
-   ],
-   "posted_at": "2026-08-16T23:30:13+00:00",
-   "age_days": 0.1
-  },
   {
    "title": "Senior Software Engineer Case Execution",
    "company": "Pivotal Health",
@@ -53,7 +31,7 @@
     "digital nomad"
    ],
    "posted_at": "2026-08-16T00:00:03+00:00",
-   "age_days": 1.1
+   "age_days": 1.6
   }
  ]
 }
