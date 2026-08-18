@@ -1,7 +1,31 @@
 {
- "generated_at": "2026-08-17T13:34:59+00:00",
- "count": 1,
+ "generated_at": "2026-08-18T02:12:43+00:00",
+ "count": 2,
  "jobs": [
+  {
+   "title": "Senior Fullstack Entwickler Java / Angular (m/w/d)",
+   "company": "Rockstardevelopers GmbH",
+   "url": "https://www.arbeitnow.com/jobs/companies/rockstardevelopers-gmbh/senior-fullstack-entwickler-java-angular-stuttgart-184739",
+   "location": "Stuttgart",
+   "remote": true,
+   "source": "arbeitnow",
+   "score": 12,
+   "matched_skills": [
+    "react",
+    "typescript",
+    "angular",
+    "next.js",
+    "ai",
+    "azure"
+   ],
+   "tags": [
+    "remote",
+    "software development",
+    "berufserfahren"
+   ],
+   "posted_at": "2026-08-17T22:00:30+00:00",
+   "age_days": 0.2
+  },
   {
    "title": "Senior Software Engineer Case Execution",
    "company": "Pivotal Health",
@@ -31,7 +55,7 @@
     "digital nomad"
    ],
    "posted_at": "2026-08-16T00:00:03+00:00",
-   "age_days": 1.6
+   "age_days": 2.1
   }
  ]
 }
