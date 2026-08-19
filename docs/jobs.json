@@ -1,7 +1,64 @@
 {
- "generated_at": "2026-08-18T13:37:39+00:00",
- "count": 1,
+ "generated_at": "2026-08-19T02:16:18+00:00",
+ "count": 4,
  "jobs": [
+  {
+   "title": "Software Developer Linux Python Integrations (m/w/d) REMOTE",
+   "company": "Pont Connects e.K.",
+   "url": "https://www.arbeitnow.com/jobs/companies/pont-connects-ek/software-developer-linux-python-integrations-remote-dusseldorf-486714",
+   "location": "D\u00fcsseldorf",
+   "remote": true,
+   "source": "arbeitnow",
+   "score": 5,
+   "matched_skills": [
+    "javascript",
+    "python"
+   ],
+   "tags": [
+    "remote",
+    "it"
+   ],
+   "posted_at": "2026-08-18T17:00:34+00:00",
+   "age_days": 0.4
+  },
+  {
+   "title": "Senior Software Engineer, Backend",
+   "company": "Camunda",
+   "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-software-engineer-backend-118699",
+   "location": "Remote",
+   "remote": true,
+   "source": "arbeitnow",
+   "score": 4,
+   "matched_skills": [
+    "python",
+    "ai"
+   ],
+   "tags": [
+    "products",
+    "full time"
+   ],
+   "posted_at": "2026-08-18T23:40:19+00:00",
+   "age_days": 0.1
+  },
+  {
+   "title": "Distributed Systems Testing Software Engineer, Python / Go",
+   "company": "Canonical Ltd.",
+   "url": "https://jobicy.com/jobs/151013-distributed-systems-testing-software-engineer-python-go",
+   "location": "Anywhere",
+   "remote": true,
+   "source": "jobicy",
+   "score": 4,
+   "matched_skills": [
+    "python",
+    "ai"
+   ],
+   "tags": [
+    "qa &amp; testing",
+    "full-time"
+   ],
+   "posted_at": "2026-08-18T11:11:26+00:00",
+   "age_days": 0.6
+  },
   {
    "title": "Senior Software Engineer Case Execution",
    "company": "Pivotal Health",
@@ -31,7 +88,7 @@
     "digital nomad"
    ],
    "posted_at": "2026-08-16T00:00:03+00:00",
-   "age_days": 2.6
+   "age_days": 3.1
   }
  ]
 }
