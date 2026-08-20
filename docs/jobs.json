@@ -1,48 +1,29 @@
 {
- "generated_at": "2026-08-19T13:39:34+00:00",
- "count": 3,
+ "generated_at": "2026-08-20T02:14:27+00:00",
+ "count": 2,
  "jobs": [
   {
-   "title": "Frontend Software Engineer (100% Remote)",
-   "company": "Tether Operations Limited",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/frontend-software-engineer-100-remote-united-kindom-470934",
-   "location": "Remote job",
+   "title": "Full Stack Developer PHP / TypeScript in Hamburg oder Remote (m/w/d)",
+   "company": "DEMV Systems Gmbh",
+   "url": "https://www.arbeitnow.com/jobs/companies/demv-systems-gmbh/full-stack-developer-php-typescript-in-hamburg-oder-remote-27770",
+   "location": "Homeoffice",
    "remote": true,
    "source": "arbeitnow",
-   "score": 9,
+   "score": 11,
    "matched_skills": [
-    "react",
+    "node",
+    "node.js",
     "typescript",
-    "javascript",
-    "ai"
+    "javascript"
    ],
    "tags": [
-    "engineering",
+    "it",
     "remote",
     "experienced",
     "fulltime permanent"
    ],
-   "posted_at": "2026-08-19T06:30:11+00:00",
-   "age_days": 0.3
-  },
-  {
-   "title": "Distributed Systems Testing Software Engineer, Python / Go",
-   "company": "Canonical Ltd.",
-   "url": "https://jobicy.com/jobs/151013-distributed-systems-testing-software-engineer-python-go",
-   "location": "Anywhere",
-   "remote": true,
-   "source": "jobicy",
-   "score": 4,
-   "matched_skills": [
-    "python",
-    "ai"
-   ],
-   "tags": [
-    "qa &amp; testing",
-    "full-time"
-   ],
-   "posted_at": "2026-08-18T11:11:26+00:00",
-   "age_days": 1.1
+   "posted_at": "2026-08-19T23:30:07+00:00",
+   "age_days": 0.1
   },
   {
    "title": "Senior Software Engineer Case Execution",
@@ -73,7 +54,7 @@
     "digital nomad"
    ],
    "posted_at": "2026-08-16T00:00:03+00:00",
-   "age_days": 3.6
+   "age_days": 4.1
   }
  ]
 }
