@@ -1,30 +1,7 @@
 {
- "generated_at": "2026-08-20T02:14:27+00:00",
- "count": 2,
+ "generated_at": "2026-08-20T13:41:37+00:00",
+ "count": 1,
  "jobs": [
-  {
-   "title": "Full Stack Developer PHP / TypeScript in Hamburg oder Remote (m/w/d)",
-   "company": "DEMV Systems Gmbh",
-   "url": "https://www.arbeitnow.com/jobs/companies/demv-systems-gmbh/full-stack-developer-php-typescript-in-hamburg-oder-remote-27770",
-   "location": "Homeoffice",
-   "remote": true,
-   "source": "arbeitnow",
-   "score": 11,
-   "matched_skills": [
-    "node",
-    "node.js",
-    "typescript",
-    "javascript"
-   ],
-   "tags": [
-    "it",
-    "remote",
-    "experienced",
-    "fulltime permanent"
-   ],
-   "posted_at": "2026-08-19T23:30:07+00:00",
-   "age_days": 0.1
-  },
   {
    "title": "Senior Software Engineer Case Execution",
    "company": "Pivotal Health",
@@ -54,7 +31,7 @@
     "digital nomad"
    ],
    "posted_at": "2026-08-16T00:00:03+00:00",
-   "age_days": 4.1
+   "age_days": 4.6
   }
  ]
 }
