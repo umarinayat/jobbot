@@ -1,53 +1,31 @@
 {
- "generated_at": "2026-08-22T02:13:30+00:00",
+ "generated_at": "2026-08-22T13:26:42+00:00",
  "count": 2,
  "jobs": [
   {
-   "title": "Werkstudent Softwareentwicklung Schwerpunkt Security (m/w/d)",
-   "company": "Meierhofer",
-   "url": "https://www.arbeitnow.com/jobs/companies/meierhofer/remote-werkstudent-softwareentwicklung-schwerpunkt-security-leipzig-124861",
-   "location": "Leipzig",
+   "title": "Senior Data Scientist (m/f/x)",
+   "company": "Makersite GmbH",
+   "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-senior-data-scientist-berlin-309145",
+   "location": "Remote job",
    "remote": true,
    "source": "arbeitnow",
-   "score": 7,
+   "score": 11,
    "matched_skills": [
-    "typescript",
-    "vue",
-    "vue.js"
+    "python",
+    "fastapi",
+    "langchain",
+    "ai",
+    "rag",
+    "azure"
    ],
    "tags": [
-    "m\u00fcnchen",
-    "leipzig",
-    "hannover",
-    "berlin",
-    "passau",
-    "homeoffice",
+    "engineering",
     "remote",
-    "it-security",
-    "iso27001",
-    "cybersecurity",
-    "software security",
-    "secure software development",
-    "owasp",
-    "kryptographie",
-    "security engineering",
-    "informatik",
-    "computer science",
-    "software engineering",
-    "informationssicherheit",
-    "softwarentwicklung",
-    "fullstack development",
-    ".net",
-    "c#",
-    "medizininformatik student",
-    "informatik student",
-    "wirtschaftsinformatik student",
-    "student",
-    "working student",
-    "part time"
+    "experienced",
+    "fulltime permanent"
    ],
-   "posted_at": "2026-08-21T17:30:13+00:00",
-   "age_days": 0.4
+   "posted_at": "2026-08-22T08:30:14+00:00",
+   "age_days": 0.2
   },
   {
    "title": "Senior Software Engineer Case Execution",
@@ -78,7 +56,7 @@
     "digital nomad"
    ],
    "posted_at": "2026-08-16T00:00:03+00:00",
-   "age_days": 6.1
+   "age_days": 6.6
   }
  ]
 }
