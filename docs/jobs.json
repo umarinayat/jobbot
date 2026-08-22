@@ -1,27 +1,53 @@
 {
- "generated_at": "2026-08-21T13:40:20+00:00",
+ "generated_at": "2026-08-22T02:13:30+00:00",
  "count": 2,
  "jobs": [
   {
-   "title": "Senior Product Engineer, IMS (all genders)",
-   "company": "Distribusion Technologies",
-   "url": "https://www.arbeitnow.com/jobs/companies/distribusion-technologies/remote-senior-product-engineer-ims-all-genders-berlin-378345",
-   "location": "Remote job",
+   "title": "Werkstudent Softwareentwicklung Schwerpunkt Security (m/w/d)",
+   "company": "Meierhofer",
+   "url": "https://www.arbeitnow.com/jobs/companies/meierhofer/remote-werkstudent-softwareentwicklung-schwerpunkt-security-leipzig-124861",
+   "location": "Leipzig",
    "remote": true,
    "source": "arbeitnow",
-   "score": 4,
+   "score": 7,
    "matched_skills": [
-    "python",
-    "ai"
+    "typescript",
+    "vue",
+    "vue.js"
    ],
    "tags": [
-    "technology",
+    "m\u00fcnchen",
+    "leipzig",
+    "hannover",
+    "berlin",
+    "passau",
+    "homeoffice",
     "remote",
-    "experienced",
-    "fulltime permanent"
+    "it-security",
+    "iso27001",
+    "cybersecurity",
+    "software security",
+    "secure software development",
+    "owasp",
+    "kryptographie",
+    "security engineering",
+    "informatik",
+    "computer science",
+    "software engineering",
+    "informationssicherheit",
+    "softwarentwicklung",
+    "fullstack development",
+    ".net",
+    "c#",
+    "medizininformatik student",
+    "informatik student",
+    "wirtschaftsinformatik student",
+    "student",
+    "working student",
+    "part time"
    ],
-   "posted_at": "2026-08-21T08:30:14+00:00",
-   "age_days": 0.2
+   "posted_at": "2026-08-21T17:30:13+00:00",
+   "age_days": 0.4
   },
   {
    "title": "Senior Software Engineer Case Execution",
@@ -52,7 +78,7 @@
     "digital nomad"
    ],
    "posted_at": "2026-08-16T00:00:03+00:00",
-   "age_days": 5.6
+   "age_days": 6.1
   }
  ]
 }
