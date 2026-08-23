@@ -1,62 +1,79 @@
 {
- "generated_at": "2026-08-22T13:26:42+00:00",
- "count": 2,
+ "generated_at": "2026-08-23T02:21:12+00:00",
+ "count": 3,
  "jobs": [
   {
-   "title": "Senior Data Scientist (m/f/x)",
-   "company": "Makersite GmbH",
-   "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-senior-data-scientist-berlin-309145",
-   "location": "Remote job",
-   "remote": true,
-   "source": "arbeitnow",
-   "score": 11,
-   "matched_skills": [
-    "python",
-    "fastapi",
-    "langchain",
-    "ai",
-    "rag",
-    "azure"
-   ],
-   "tags": [
-    "engineering",
-    "remote",
-    "experienced",
-    "fulltime permanent"
-   ],
-   "posted_at": "2026-08-22T08:30:14+00:00",
-   "age_days": 0.2
-  },
-  {
-   "title": "Senior Software Engineer Case Execution",
-   "company": "Pivotal Health",
-   "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-case-execution-pivotal-health-1136795",
-   "location": "New York City",
+   "title": "DESARROLLADOR FULL STACK",
+   "company": "Kruger NearShore LLC - Rekluti",
+   "url": "https://remoteOK.com/remote-jobs/remote-desarrollador-full-stack-kruger-nearshore-llc-rekluti-1137062",
+   "location": "Remote",
    "remote": true,
    "source": "remoteok",
+   "score": 5,
+   "matched_skills": [
+    "python",
+    "angular"
+   ],
+   "tags": [
+    "full stack",
+    "front end",
+    "python",
+    "dev",
+    "testing",
+    "web dev",
+    "quality assurance",
+    "devops",
+    "c",
+    "cloud",
+    "nosql",
+    "git",
+    "flutter",
+    "angular",
+    "mobile",
+    "golang",
+    "backend",
+    "digital nomad"
+   ],
+   "posted_at": "2026-08-22T00:00:12+00:00",
+   "age_days": 1.1
+  },
+  {
+   "title": "Python and Kubernetes Software Engineer - Data, Workflows, AI/ML & Analytics",
+   "company": "Canonical Ltd.",
+   "url": "https://jobicy.com/jobs/149563-python-and-kubernetes-software-engineer-data-workflows-ai-ml-analytics",
+   "location": "Anywhere",
+   "remote": true,
+   "source": "jobicy",
    "score": 4,
    "matched_skills": [
     "python",
     "ai"
    ],
    "tags": [
-    "dev",
-    "front end",
-    "python",
-    "customer support",
-    "design",
-    "admin",
-    "exec",
-    "senior",
-    "ops",
-    "sys admin",
-    "medical",
-    "engineer",
-    "backend",
-    "digital nomad"
+    "software engineering",
+    "full-time"
    ],
-   "posted_at": "2026-08-16T00:00:03+00:00",
-   "age_days": 6.6
+   "posted_at": "2026-08-22T17:00:04+00:00",
+   "age_days": 0.4
+  },
+  {
+   "title": "Web Frontend Engineer - JS, CSS, React, Flutter",
+   "company": "Canonical Ltd.",
+   "url": "https://jobicy.com/jobs/149527-web-frontend-engineer-js-css-react-flutter",
+   "location": "Anywhere",
+   "remote": true,
+   "source": "jobicy",
+   "score": 4,
+   "matched_skills": [
+    "react",
+    "ai"
+   ],
+   "tags": [
+    "software engineering",
+    "full-time"
+   ],
+   "posted_at": "2026-08-22T16:35:06+00:00",
+   "age_days": 0.4
   }
  ]
 }
