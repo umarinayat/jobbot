@@ -1,7 +1,55 @@
 {
- "generated_at": "2026-08-24T02:20:12+00:00",
- "count": 3,
+ "generated_at": "2026-08-24T13:45:22+00:00",
+ "count": 5,
  "jobs": [
+  {
+   "title": "AI Engineer (m/f/d)",
+   "company": "Lucid Labs",
+   "url": "https://www.arbeitnow.com/jobs/companies/lucid-labs/ai-engineer-berlin-57173",
+   "location": "Berlin",
+   "remote": true,
+   "source": "arbeitnow",
+   "score": 18,
+   "matched_skills": [
+    "react",
+    "node",
+    "node.js",
+    "typescript",
+    "next.js",
+    "tailwind",
+    "llm",
+    "ai"
+   ],
+   "tags": [
+    "remote",
+    "consulting",
+    "engineering",
+    "professional / experienced"
+   ],
+   "posted_at": "2026-08-24T11:30:35+00:00",
+   "age_days": 0.1
+  },
+  {
+   "title": "Senior Python Developer (w/m/d) - Remote",
+   "company": "node.energy",
+   "url": "https://www.arbeitnow.com/jobs/companies/nodeenergy/senior-python-developer-remote-frankfurt-am-main-273878",
+   "location": "Frankfurt am Main",
+   "remote": true,
+   "source": "arbeitnow",
+   "score": 7,
+   "matched_skills": [
+    "node",
+    "python",
+    "azure"
+   ],
+   "tags": [
+    "remote",
+    "software development",
+    "berufserfahren"
+   ],
+   "posted_at": "2026-08-24T12:00:53+00:00",
+   "age_days": 0.1
+  },
   {
    "title": "DESARROLLADOR FULL STACK",
    "company": "Kruger NearShore LLC - Rekluti",
@@ -35,7 +83,7 @@
     "digital nomad"
    ],
    "posted_at": "2026-08-22T00:00:12+00:00",
-   "age_days": 2.1
+   "age_days": 2.6
   },
   {
    "title": "Python and Kubernetes Software Engineer - Data, Workflows, AI/ML & Analytics",
@@ -54,7 +102,7 @@
     "full-time"
    ],
    "posted_at": "2026-08-22T17:00:04+00:00",
-   "age_days": 1.4
+   "age_days": 1.9
   },
   {
    "title": "Web Frontend Engineer - JS, CSS, React, Flutter",
@@ -73,7 +121,7 @@
     "full-time"
    ],
    "posted_at": "2026-08-22T16:35:06+00:00",
-   "age_days": 1.4
+   "age_days": 1.9
   }
  ]
 }
