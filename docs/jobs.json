@@ -1,75 +1,75 @@
 {
- "generated_at": "2026-08-27T10:51:27+00:00",
+ "generated_at": "2026-08-27T22:43:56+00:00",
  "count": 4,
  "jobs": [
   {
-   "title": "(Senior) Fullstack Entwickler (m/w/d) Node.js",
-   "company": "ticket i/O GmbH",
-   "url": "https://www.arbeitnow.com/jobs/companies/ticket-io-gmbh/senior-fullstack-entwickler-nodejs-cologne-186803",
-   "location": "Cologne",
+   "title": "Flutter & Node.js Fullstack Engineer (f/m/d) - Fully Remote",
+   "company": "memodio",
+   "url": "https://www.arbeitnow.com/jobs/companies/memodio/flutter-nodejs-fullstack-engineer-fully-remote-potsdam-193068",
+   "location": "Potsdam",
    "remote": true,
    "source": "arbeitnow",
-   "score": 14,
+   "score": 10,
    "matched_skills": [
     "react",
     "node",
     "node.js",
-    "typescript",
-    "javascript"
-   ],
-   "tags": [
-    "remote",
-    "it"
-   ],
-   "posted_at": "2026-08-27T07:30:38+00:00",
-   "age_days": 0.1
-  },
-  {
-   "title": "Senior Data Scientist (m/f/x)",
-   "company": "Makersite GmbH",
-   "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-senior-data-scientist-berlin-194751",
-   "location": "Remote job",
-   "remote": true,
-   "source": "arbeitnow",
-   "score": 11,
-   "matched_skills": [
-    "python",
-    "fastapi",
-    "langchain",
-    "ai",
-    "rag",
-    "azure"
-   ],
-   "tags": [
-    "engineering",
-    "remote",
-    "experienced",
-    "fulltime permanent"
-   ],
-   "posted_at": "2026-08-27T02:30:25+00:00",
-   "age_days": 0.3
-  },
-  {
-   "title": "Python Backend Engineer (m/f/x)",
-   "company": "Makersite GmbH",
-   "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-python-backend-engineer-berlin-109807",
-   "location": "Remote job",
-   "remote": true,
-   "source": "arbeitnow",
-   "score": 6,
-   "matched_skills": [
-    "python",
-    "flask",
     "ai"
    ],
    "tags": [
-    "engineering",
     "remote",
-    "experienced",
-    "fulltime permanent"
+    "software development",
+    "freelance"
    ],
-   "posted_at": "2026-08-27T02:30:25+00:00",
+   "posted_at": "2026-08-27T15:30:47+00:00",
    "age_days": 0.3
+  },
+  {
+   "title": "Werkstudent Softwareentwicklung Schwerpunkt Security (m/w/d)",
+   "company": "Meierhofer",
+   "url": "https://www.arbeitnow.com/jobs/companies/meierhofer/remote-werkstudent-softwareentwicklung-schwerpunkt-security-leipzig-22829",
+   "location": "Leipzig",
+   "remote": true,
+   "source": "arbeitnow",
+   "score": 7,
+   "matched_skills": [
+    "typescript",
+    "vue",
+    "vue.js"
+   ],
+   "tags": [
+    "m\u00fcnchen",
+    "leipzig",
+    "hannover",
+    "berlin",
+    "passau",
+    "homeoffice",
+    "remote",
+    "it-security",
+    "iso27001",
+    "cybersecurity",
+    "software security",
+    "secure software development",
+    "owasp",
+    "kryptographie",
+    "security engineering",
+    "informatik",
+    "computer science",
+    "software engineering",
+    "informationssicherheit",
+    "softwarentwicklung",
+    "fullstack development",
+    ".net",
+    "c#",
+    "medizininformatik student",
+    "informatik student",
+    "wirtschaftsinformatik student",
+    "student",
+    "working student",
+    "part time"
+   ],
+   "posted_at": "2026-08-27T17:30:10+00:00",
+   "age_days": 0.2
   },
   {
    "title": "DESARROLLADOR FULL STACK",
@@ -104,7 +104,28 @@
     "digital nomad"
    ],
    "posted_at": "2026-08-22T00:00:12+00:00",
-   "age_days": 5.5
+   "age_days": 5.9
+  },
+  {
+   "title": "Lead-Entwickler Java Backend (m/w/d)",
+   "company": "virtual7 GmbH",
+   "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-lead-entwickler-java-backend-nurnberg-414025",
+   "location": "Homeoffice",
+   "remote": true,
+   "source": "arbeitnow",
+   "score": 4,
+   "matched_skills": [
+    "javascript",
+    "angular"
+   ],
+   "tags": [
+    "customer cluster social security",
+    "remote",
+    "experienced",
+    "fulltime permanent"
+   ],
+   "posted_at": "2026-08-27T17:30:31+00:00",
+   "age_days": 0.2
   }
  ]
 }
