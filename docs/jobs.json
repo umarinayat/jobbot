@@ -1,7 +1,76 @@
 {
- "generated_at": "2026-08-26T13:50:14+00:00",
- "count": 1,
+ "generated_at": "2026-08-27T10:51:27+00:00",
+ "count": 4,
  "jobs": [
+  {
+   "title": "(Senior) Fullstack Entwickler (m/w/d) Node.js",
+   "company": "ticket i/O GmbH",
+   "url": "https://www.arbeitnow.com/jobs/companies/ticket-io-gmbh/senior-fullstack-entwickler-nodejs-cologne-186803",
+   "location": "Cologne",
+   "remote": true,
+   "source": "arbeitnow",
+   "score": 14,
+   "matched_skills": [
+    "react",
+    "node",
+    "node.js",
+    "typescript",
+    "javascript"
+   ],
+   "tags": [
+    "remote",
+    "it"
+   ],
+   "posted_at": "2026-08-27T07:30:38+00:00",
+   "age_days": 0.1
+  },
+  {
+   "title": "Senior Data Scientist (m/f/x)",
+   "company": "Makersite GmbH",
+   "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-senior-data-scientist-berlin-194751",
+   "location": "Remote job",
+   "remote": true,
+   "source": "arbeitnow",
+   "score": 11,
+   "matched_skills": [
+    "python",
+    "fastapi",
+    "langchain",
+    "ai",
+    "rag",
+    "azure"
+   ],
+   "tags": [
+    "engineering",
+    "remote",
+    "experienced",
+    "fulltime permanent"
+   ],
+   "posted_at": "2026-08-27T02:30:25+00:00",
+   "age_days": 0.3
+  },
+  {
+   "title": "Python Backend Engineer (m/f/x)",
+   "company": "Makersite GmbH",
+   "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-python-backend-engineer-berlin-109807",
+   "location": "Remote job",
+   "remote": true,
+   "source": "arbeitnow",
+   "score": 6,
+   "matched_skills": [
+    "python",
+    "flask",
+    "ai"
+   ],
+   "tags": [
+    "engineering",
+    "remote",
+    "experienced",
+    "fulltime permanent"
+   ],
+   "posted_at": "2026-08-27T02:30:25+00:00",
+   "age_days": 0.3
+  },
   {
    "title": "DESARROLLADOR FULL STACK",
    "company": "Kruger NearShore LLC - Rekluti",
@@ -35,7 +104,7 @@
     "digital nomad"
    ],
    "posted_at": "2026-08-22T00:00:12+00:00",
-   "age_days": 4.6
+   "age_days": 5.5
   }
  ]
 }
