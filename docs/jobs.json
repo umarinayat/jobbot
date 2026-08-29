@@ -1,7 +1,106 @@
 {
- "generated_at": "2026-08-29T07:35:56+00:00",
- "count": 1,
+ "generated_at": "2026-08-29T16:56:58+00:00",
+ "count": 3,
  "jobs": [
+  {
+   "title": "Senior React Full-stack Developer",
+   "company": "Lemon.io",
+   "url": "https://remotive.com/remote-jobs/software-development/senior-react-full-stack-developer-2091101",
+   "location": "LATAM, Europe, USA, Canada, APAC",
+   "remote": true,
+   "source": "remotive",
+   "score": 29,
+   "matched_skills": [
+    "react",
+    "react.js",
+    "node",
+    "node.js",
+    "typescript",
+    "javascript",
+    "python",
+    "vue",
+    "angular",
+    "next.js",
+    "llm",
+    "ai"
+   ],
+   "tags": [
+    ".net",
+    "android",
+    "aws",
+    "backend",
+    "c",
+    "c#",
+    "c++",
+    "data science",
+    "fullstack",
+    "golang",
+    "ios",
+    "java",
+    "javascript",
+    "node.js",
+    "php",
+    "python",
+    "react",
+    "react js",
+    "ruby/rails",
+    "scala",
+    "shopify",
+    "swift",
+    "ui/ux",
+    "wordpress",
+    "blockchain",
+    "ai/ml",
+    "automation",
+    "project management",
+    "react native",
+    "rust",
+    "unity",
+    "electron",
+    "spring",
+    "laravel",
+    "ethereum",
+    "graphic design",
+    "typescript",
+    "angular",
+    "firebase",
+    "data engineering",
+    "site reliability",
+    "symfony",
+    "startup",
+    "marketplace",
+    "next.js",
+    "flutter"
+   ],
+   "posted_at": "2026-08-27T14:36:09",
+   "age_days": 2.1
+  },
+  {
+   "title": "Senior Full Stack Developer - B2B platform (Laravel + Nuxt/Vue)",
+   "company": "ScholarshipOwl",
+   "url": "https://www.arbeitnow.com/jobs/companies/scholarshipowl/remote-senior-full-stack-developer-b2b-platform-laravel-nuxt-vue-berlin-109213",
+   "location": "Remote job",
+   "remote": true,
+   "source": "arbeitnow",
+   "score": 13,
+   "matched_skills": [
+    "typescript",
+    "javascript",
+    "vue",
+    "mysql",
+    "tailwind",
+    "llm",
+    "ai"
+   ],
+   "tags": [
+    "development",
+    "remote",
+    "experienced",
+    "fulltime permanent"
+   ],
+   "posted_at": "2026-08-29T08:30:16+00:00",
+   "age_days": 0.4
+  },
   {
    "title": "DESARROLLADOR FULL STACK",
    "company": "Kruger NearShore LLC - Rekluti",
@@ -35,7 +134,7 @@
     "digital nomad"
    ],
    "posted_at": "2026-08-22T00:00:12+00:00",
-   "age_days": 7.3
+   "age_days": 7.7
   }
  ]
 }
