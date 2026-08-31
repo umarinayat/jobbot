@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-31T06:33:53+00:00",
+ "generated_at": "2026-08-31T19:20:49+00:00",
  "count": 2,
  "jobs": [
   {
@@ -73,7 +73,7 @@
     "flutter"
    ],
    "posted_at": "2026-08-27T14:36:09",
-   "age_days": 3.7
+   "age_days": 4.2
   },
   {
    "title": "DESARROLLADOR FULL STACK",
@@ -108,7 +108,7 @@
     "digital nomad"
    ],
    "posted_at": "2026-08-22T00:00:12+00:00",
-   "age_days": 9.3
+   "age_days": 9.8
   }
  ]
 }
