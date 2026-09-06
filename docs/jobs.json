@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-06T05:26:02+00:00",
- "count": 4,
+ "generated_at": "2026-09-06T15:56:32+00:00",
+ "count": 1,
  "jobs": [
   {
    "title": "Senior React Full-stack Developer",
@@ -73,76 +73,7 @@
     "flutter"
    ],
    "posted_at": "2026-08-27T14:36:09",
-   "age_days": 9.6
-  },
-  {
-   "title": "Senior Data Scientist (m/f/x)",
-   "company": "Makersite GmbH",
-   "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-senior-data-scientist-berlin-143991",
-   "location": "Remote job",
-   "remote": true,
-   "source": "arbeitnow",
-   "score": 11,
-   "matched_skills": [
-    "python",
-    "fastapi",
-    "langchain",
-    "ai",
-    "rag",
-    "azure"
-   ],
-   "tags": [
-    "engineering",
-    "remote",
-    "experienced",
-    "fulltime permanent"
-   ],
-   "posted_at": "2026-09-05T14:30:32+00:00",
-   "age_days": 0.6
-  },
-  {
-   "title": "Senior Fullstack Developer (a)",
-   "company": "Eticor GmbH",
-   "url": "https://www.arbeitnow.com/jobs/companies/eticor-gmbh/remote-senior-fullstack-developer-a-koln-421029",
-   "location": "Homeoffice",
-   "remote": true,
-   "source": "arbeitnow",
-   "score": 7,
-   "matched_skills": [
-    "react",
-    "typescript",
-    "ai"
-   ],
-   "tags": [
-    "product",
-    "remote",
-    "experienced",
-    "fulltime permanent"
-   ],
-   "posted_at": "2026-09-05T17:30:28+00:00",
-   "age_days": 0.5
-  },
-  {
-   "title": "Python Backend Engineer (m/f/x)",
-   "company": "Makersite GmbH",
-   "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-python-backend-engineer-berlin-203775",
-   "location": "Remote job",
-   "remote": true,
-   "source": "arbeitnow",
-   "score": 6,
-   "matched_skills": [
-    "python",
-    "flask",
-    "ai"
-   ],
-   "tags": [
-    "engineering",
-    "remote",
-    "experienced",
-    "fulltime permanent"
-   ],
-   "posted_at": "2026-09-05T14:30:32+00:00",
-   "age_days": 0.6
+   "age_days": 10.1
   }
  ]
 }
