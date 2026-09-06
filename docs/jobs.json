@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-05T15:44:41+00:00",
+ "generated_at": "2026-09-06T05:26:02+00:00",
  "count": 4,
  "jobs": [
   {
@@ -73,32 +73,7 @@
     "flutter"
    ],
    "posted_at": "2026-08-27T14:36:09",
-   "age_days": 9.0
-  },
-  {
-   "title": "Senior Software Engineer",
-   "company": "Nucs AI",
-   "url": "https://www.arbeitnow.com/jobs/companies/nucs-ai/remote-senior-software-engineer-berlin-462841",
-   "location": "Remote job",
-   "remote": true,
-   "source": "arbeitnow",
-   "score": 13,
-   "matched_skills": [
-    "react",
-    "typescript",
-    "python",
-    "flask",
-    "fastapi",
-    "ai"
-   ],
-   "tags": [
-    "engineering",
-    "remote",
-    "mid",
-    "fulltime permanent"
-   ],
-   "posted_at": "2026-09-05T08:30:28+00:00",
-   "age_days": 0.3
+   "age_days": 9.6
   },
   {
    "title": "Senior Data Scientist (m/f/x)",
@@ -123,7 +98,29 @@
     "fulltime permanent"
    ],
    "posted_at": "2026-09-05T14:30:32+00:00",
-   "age_days": 0.1
+   "age_days": 0.6
+  },
+  {
+   "title": "Senior Fullstack Developer (a)",
+   "company": "Eticor GmbH",
+   "url": "https://www.arbeitnow.com/jobs/companies/eticor-gmbh/remote-senior-fullstack-developer-a-koln-421029",
+   "location": "Homeoffice",
+   "remote": true,
+   "source": "arbeitnow",
+   "score": 7,
+   "matched_skills": [
+    "react",
+    "typescript",
+    "ai"
+   ],
+   "tags": [
+    "product",
+    "remote",
+    "experienced",
+    "fulltime permanent"
+   ],
+   "posted_at": "2026-09-05T17:30:28+00:00",
+   "age_days": 0.5
   },
   {
    "title": "Python Backend Engineer (m/f/x)",
@@ -145,7 +142,7 @@
     "fulltime permanent"
    ],
    "posted_at": "2026-09-05T14:30:32+00:00",
-   "age_days": 0.1
+   "age_days": 0.6
   }
  ]
 }
