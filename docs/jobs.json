@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-08T05:32:42+00:00",
+ "generated_at": "2026-09-08T17:00:11+00:00",
  "count": 3,
  "jobs": [
   {
@@ -73,29 +73,31 @@
     "flutter"
    ],
    "posted_at": "2026-08-27T14:36:09",
-   "age_days": 11.6
+   "age_days": 12.1
   },
   {
-   "title": "D\u00e9veloppeur fullstack confirm\u00e9 H/F (C#, .Net, Angular)",
-   "company": "N2JSoft",
-   "url": "https://www.arbeitnow.fr/jobs/companies/n2jsoft/remote-developpeur-fullstack-confirme-h-f-c-net-angular-lyon-461414",
-   "location": "Poste \u00e0 distance",
+   "title": "Fullstack Web-Entwickler (m/w/d)",
+   "company": "SHAPE DACH GmbH",
+   "url": "https://www.arbeitnow.com/jobs/companies/shape-dach-gmbh/fullstack-web-entwickler-hamburg-478554",
+   "location": "Hamburg",
    "remote": true,
    "source": "arbeitnow",
-   "score": 6,
+   "score": 13,
    "matched_skills": [
     "typescript",
-    "angular",
-    "azure"
+    "javascript",
+    "vue",
+    "vue.js",
+    "llm",
+    "rag"
    ],
    "tags": [
-    "dev",
     "remote",
-    "mid",
-    "fulltime permanent"
+    "software development",
+    "berufserfahren"
    ],
-   "posted_at": "2026-09-06T16:30:03+00:00",
-   "age_days": 1.5
+   "posted_at": "2026-09-08T13:00:36+00:00",
+   "age_days": 0.2
   },
   {
    "title": "Senior Backend Engineer",
@@ -117,7 +119,7 @@
     "fulltime permanent"
    ],
    "posted_at": "2026-09-06T19:30:08+00:00",
-   "age_days": 1.4
+   "age_days": 1.9
   }
  ]
 }
