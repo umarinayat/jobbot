@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-08T17:00:11+00:00",
- "count": 3,
+ "generated_at": "2026-09-09T05:39:39+00:00",
+ "count": 2,
  "jobs": [
   {
    "title": "Senior React Full-stack Developer",
@@ -73,53 +73,29 @@
     "flutter"
    ],
    "posted_at": "2026-08-27T14:36:09",
-   "age_days": 12.1
+   "age_days": 12.6
   },
   {
-   "title": "Fullstack Web-Entwickler (m/w/d)",
-   "company": "SHAPE DACH GmbH",
-   "url": "https://www.arbeitnow.com/jobs/companies/shape-dach-gmbh/fullstack-web-entwickler-hamburg-478554",
-   "location": "Hamburg",
+   "title": "Senior Full-Stack Developer (m/w/d) - TypeScript / Next.js",
+   "company": "yannick.digital GmbH",
+   "url": "https://www.arbeitnow.com/jobs/companies/yannickdigital-gmbh/senior-full-stack-developer-typescript-nextjs-berlin-101785",
+   "location": "Berlin",
    "remote": true,
    "source": "arbeitnow",
-   "score": 13,
+   "score": 10,
    "matched_skills": [
+    "react",
     "typescript",
-    "javascript",
-    "vue",
-    "vue.js",
-    "llm",
-    "rag"
-   ],
-   "tags": [
-    "remote",
-    "software development",
-    "berufserfahren"
-   ],
-   "posted_at": "2026-09-08T13:00:36+00:00",
-   "age_days": 0.2
-  },
-  {
-   "title": "Senior Backend Engineer",
-   "company": "Payflows",
-   "url": "https://www.arbeitnow.fr/jobs/companies/payflows/remote-senior-backend-engineer-paris-324081",
-   "location": "Remote job",
-   "remote": true,
-   "source": "arbeitnow",
-   "score": 5,
-   "matched_skills": [
-    "python",
-    "fastapi",
+    "next.js",
+    "tailwind",
     "ai"
    ],
    "tags": [
-    "tech",
     "remote",
-    "experienced",
-    "fulltime permanent"
+    "software development"
    ],
-   "posted_at": "2026-09-06T19:30:08+00:00",
-   "age_days": 1.9
+   "posted_at": "2026-09-08T22:00:39+00:00",
+   "age_days": 0.3
   }
  ]
 }
