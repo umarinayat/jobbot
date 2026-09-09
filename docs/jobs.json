@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-09T05:39:39+00:00",
- "count": 2,
+ "generated_at": "2026-09-09T16:59:04+00:00",
+ "count": 1,
  "jobs": [
   {
    "title": "Senior React Full-stack Developer",
@@ -73,29 +73,7 @@
     "flutter"
    ],
    "posted_at": "2026-08-27T14:36:09",
-   "age_days": 12.6
-  },
-  {
-   "title": "Senior Full-Stack Developer (m/w/d) - TypeScript / Next.js",
-   "company": "yannick.digital GmbH",
-   "url": "https://www.arbeitnow.com/jobs/companies/yannickdigital-gmbh/senior-full-stack-developer-typescript-nextjs-berlin-101785",
-   "location": "Berlin",
-   "remote": true,
-   "source": "arbeitnow",
-   "score": 10,
-   "matched_skills": [
-    "react",
-    "typescript",
-    "next.js",
-    "tailwind",
-    "ai"
-   ],
-   "tags": [
-    "remote",
-    "software development"
-   ],
-   "posted_at": "2026-09-08T22:00:39+00:00",
-   "age_days": 0.3
+   "age_days": 13.1
   }
  ]
 }
