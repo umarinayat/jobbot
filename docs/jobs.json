@@ -1,7 +1,32 @@
 {
- "generated_at": "2026-09-10T16:51:32+00:00",
- "count": 2,
+ "generated_at": "2026-09-11T05:33:30+00:00",
+ "count": 3,
  "jobs": [
+  {
+   "title": "Backend Engineer - Wallets (100% Remote)",
+   "company": "Tether Operations Limited",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/backend-engineer-wallets-100-remote-london-355455",
+   "location": "Remote job",
+   "remote": true,
+   "source": "arbeitnow",
+   "score": 13,
+   "matched_skills": [
+    "node",
+    "node.js",
+    "javascript",
+    "mongodb",
+    "mysql",
+    "ai"
+   ],
+   "tags": [
+    "development",
+    "remote",
+    "experienced",
+    "fulltime permanent"
+   ],
+   "posted_at": "2026-09-11T00:30:14+00:00",
+   "age_days": 0.2
+  },
   {
    "title": "Senior AI Engineer \u2013 Notebooks",
    "company": "Datadog",
@@ -19,7 +44,7 @@
     "dev eng"
    ],
    "posted_at": "2026-09-10T14:55:30+00:00",
-   "age_days": 0.1
+   "age_days": 0.6
   },
   {
    "title": "Software Engineer - Python - Container Images",
@@ -38,7 +63,7 @@
     "full-time"
    ],
    "posted_at": "2026-09-10T04:25:18+00:00",
-   "age_days": 0.5
+   "age_days": 1.0
   }
  ]
 }
