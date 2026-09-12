@@ -1,25 +1,36 @@
 {
- "generated_at": "2026-09-12T05:19:26+00:00",
+ "generated_at": "2026-09-12T15:59:02+00:00",
  "count": 1,
  "jobs": [
   {
-   "title": "(Senior) Software Engineer - Data Integration Focus - Remote (m/f/d)",
-   "company": "praxipal",
-   "url": "https://www.arbeitnow.com/jobs/companies/praxipal/senior-software-engineer-data-integration-focus-remote-416977",
-   "location": "Remote",
+   "title": "Freelance Software / Data / AI Engineer (m/w/d) - Development | Data | AI",
+   "company": "Nexgate IT GmbH",
+   "url": "https://www.arbeitnow.com/jobs/companies/nexgate-it-gmbh/freelance-software-data-ai-engineer-development-data-ai-bad-homburg-260868",
+   "location": "Bad Homburg",
    "remote": true,
    "source": "arbeitnow",
-   "score": 7,
+   "score": 28,
    "matched_skills": [
+    "react",
+    "node",
+    "node.js",
     "typescript",
+    "javascript",
     "python",
-    "ai"
+    "vue",
+    "vue.js",
+    "angular",
+    "llm",
+    "ai",
+    "rag"
    ],
    "tags": [
-    "engineering",
-    "full time"
+    "remote",
+    "software development",
+    "freelance",
+    "berufserfahren"
    ],
-   "posted_at": "2026-09-11T23:40:10+00:00",
+   "posted_at": "2026-09-12T12:00:24+00:00",
    "age_days": 0.2
   }
  ]
