@@ -1,5 +1,26 @@
 {
- "generated_at": "2026-09-11T16:50:55+00:00",
- "count": 0,
- "jobs": []
+ "generated_at": "2026-09-12T05:19:26+00:00",
+ "count": 1,
+ "jobs": [
+  {
+   "title": "(Senior) Software Engineer - Data Integration Focus - Remote (m/f/d)",
+   "company": "praxipal",
+   "url": "https://www.arbeitnow.com/jobs/companies/praxipal/senior-software-engineer-data-integration-focus-remote-416977",
+   "location": "Remote",
+   "remote": true,
+   "source": "arbeitnow",
+   "score": 7,
+   "matched_skills": [
+    "typescript",
+    "python",
+    "ai"
+   ],
+   "tags": [
+    "engineering",
+    "full time"
+   ],
+   "posted_at": "2026-09-11T23:40:10+00:00",
+   "age_days": 0.2
+  }
+ ]
 }
