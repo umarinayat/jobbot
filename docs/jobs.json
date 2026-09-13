@@ -1,5 +1,28 @@
 {
- "generated_at": "2026-09-13T05:35:10+00:00",
- "count": 0,
- "jobs": []
+ "generated_at": "2026-09-13T16:47:36+00:00",
+ "count": 1,
+ "jobs": [
+  {
+   "title": "Senior Backend Engineer (Python) - Remote",
+   "company": "Breathment",
+   "url": "https://www.arbeitnow.com/jobs/companies/breathment/senior-backend-engineer-python-remote-munich-2605",
+   "location": "Munich",
+   "remote": true,
+   "source": "arbeitnow",
+   "score": 6,
+   "matched_skills": [
+    "python",
+    "fastapi",
+    "mongodb"
+   ],
+   "tags": [
+    "remote",
+    "development",
+    "contract",
+    "professional / experienced"
+   ],
+   "posted_at": "2026-09-13T14:00:23+00:00",
+   "age_days": 0.1
+  }
+ ]
 }
