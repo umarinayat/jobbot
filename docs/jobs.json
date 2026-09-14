@@ -1,28 +1,31 @@
 {
- "generated_at": "2026-09-14T05:40:19+00:00",
+ "generated_at": "2026-09-14T18:18:38+00:00",
  "count": 1,
  "jobs": [
   {
-   "title": "Senior Backend Engineer (Python) - Remote",
-   "company": "Breathment",
-   "url": "https://www.arbeitnow.com/jobs/companies/breathment/senior-backend-engineer-python-remote-munich-2605",
-   "location": "Munich",
+   "title": "Technical Lead - GPU Infrastructure",
+   "company": "Tether Operations Limited",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/remote-technical-lead-gpu-infrastructure-london-173561",
+   "location": "Remote job",
    "remote": true,
    "source": "arbeitnow",
-   "score": 6,
+   "score": 14,
    "matched_skills": [
-    "python",
-    "fastapi",
-    "mongodb"
+    "react",
+    "node",
+    "node.js",
+    "javascript",
+    "llm",
+    "ai"
    ],
    "tags": [
+    "data",
     "remote",
-    "development",
-    "contract",
-    "professional / experienced"
+    "experienced",
+    "fulltime permanent"
    ],
-   "posted_at": "2026-09-13T14:00:23+00:00",
-   "age_days": 0.7
+   "posted_at": "2026-09-14T15:30:37+00:00",
+   "age_days": 0.1
   }
  ]
 }
