@@ -1,7 +1,79 @@
 {
- "generated_at": "2026-09-17T05:40:07+00:00",
- "count": 2,
+ "generated_at": "2026-09-17T17:25:30+00:00",
+ "count": 5,
  "jobs": [
+  {
+   "title": "Senior/Staff Product Engineer (Frontend) (m/f/d)",
+   "company": "epilot GmbH",
+   "url": "https://www.arbeitnow.com/jobs/companies/epilot-gmbh/remote-senior-staff-product-engineer-frontend-koln-341906",
+   "location": "Remote job",
+   "remote": true,
+   "source": "arbeitnow",
+   "score": 14,
+   "matched_skills": [
+    "react",
+    "node",
+    "node.js",
+    "typescript",
+    "javascript"
+   ],
+   "tags": [
+    "tech",
+    "remote",
+    "experienced",
+    "fulltime"
+   ],
+   "posted_at": "2026-09-17T14:30:02+00:00",
+   "age_days": 0.1
+  },
+  {
+   "title": "Technical Lead - GPU Infrastructure",
+   "company": "Tether Operations Limited",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/remote-technical-lead-gpu-infrastructure-london-392611",
+   "location": "Remote job",
+   "remote": true,
+   "source": "arbeitnow",
+   "score": 14,
+   "matched_skills": [
+    "react",
+    "node",
+    "node.js",
+    "javascript",
+    "llm",
+    "ai"
+   ],
+   "tags": [
+    "data",
+    "remote",
+    "experienced",
+    "fulltime permanent"
+   ],
+   "posted_at": "2026-09-17T12:30:30+00:00",
+   "age_days": 0.2
+  },
+  {
+   "title": "Senior/Staff Product Engineer (Full Stack) (m/f/d)",
+   "company": "epilot GmbH",
+   "url": "https://www.arbeitnow.com/jobs/companies/epilot-gmbh/remote-senior-staff-product-engineer-full-stack-koln-435694",
+   "location": "Remote job",
+   "remote": true,
+   "source": "arbeitnow",
+   "score": 9,
+   "matched_skills": [
+    "react",
+    "typescript",
+    "javascript",
+    "azure"
+   ],
+   "tags": [
+    "tech",
+    "remote",
+    "experienced",
+    "fulltime"
+   ],
+   "posted_at": "2026-09-17T14:30:02+00:00",
+   "age_days": 0.1
+  },
   {
    "title": "Edge Functions Engineer",
    "company": "Supabase",
@@ -19,7 +91,7 @@
     "full-time"
    ],
    "posted_at": "2026-09-16T15:41:40+00:00",
-   "age_days": 0.6
+   "age_days": 1.1
   },
   {
    "title": "Software Engineer - Auth",
@@ -38,7 +110,7 @@
     "full-time"
    ],
    "posted_at": "2026-09-16T15:41:37+00:00",
-   "age_days": 0.6
+   "age_days": 1.1
   }
  ]
 }
