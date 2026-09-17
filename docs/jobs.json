@@ -1,5 +1,44 @@
 {
- "generated_at": "2026-09-16T17:26:56+00:00",
- "count": 0,
- "jobs": []
+ "generated_at": "2026-09-17T05:40:07+00:00",
+ "count": 2,
+ "jobs": [
+  {
+   "title": "Edge Functions Engineer",
+   "company": "Supabase",
+   "url": "https://jobicy.com/jobs/153452-edge-functions-engineer",
+   "location": "Anywhere",
+   "remote": true,
+   "source": "jobicy",
+   "score": 4,
+   "matched_skills": [
+    "typescript",
+    "postgres"
+   ],
+   "tags": [
+    "software engineering",
+    "full-time"
+   ],
+   "posted_at": "2026-09-16T15:41:40+00:00",
+   "age_days": 0.6
+  },
+  {
+   "title": "Software Engineer - Auth",
+   "company": "Supabase",
+   "url": "https://jobicy.com/jobs/153449-software-engineer-auth",
+   "location": "Anywhere",
+   "remote": true,
+   "source": "jobicy",
+   "score": 4,
+   "matched_skills": [
+    "typescript",
+    "postgres"
+   ],
+   "tags": [
+    "software engineering",
+    "full-time"
+   ],
+   "posted_at": "2026-09-16T15:41:37+00:00",
+   "age_days": 0.6
+  }
+ ]
 }
