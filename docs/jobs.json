@@ -1,26 +1,5 @@
 {
- "generated_at": "2026-09-18T16:53:43+00:00",
- "count": 1,
- "jobs": [
-  {
-   "title": "Senior Fullstack Engineer (all identities)",
-   "company": "Caspar Health",
-   "url": "https://www.arbeitnow.com/jobs/companies/caspar-health/senior-fullstack-engineer-all-identities-berlin-177404",
-   "location": "Berlin",
-   "remote": true,
-   "source": "arbeitnow",
-   "score": 6,
-   "matched_skills": [
-    "react",
-    "typescript"
-   ],
-   "tags": [
-    "remote",
-    "software development",
-    "professional / experienced"
-   ],
-   "posted_at": "2026-09-18T13:30:31+00:00",
-   "age_days": 0.1
-  }
- ]
+ "generated_at": "2026-09-19T05:25:20+00:00",
+ "count": 0,
+ "jobs": []
 }
