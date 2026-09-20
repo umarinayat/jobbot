@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-20T05:38:10+00:00",
- "count": 4,
+ "generated_at": "2026-09-20T16:39:41+00:00",
+ "count": 3,
  "jobs": [
   {
    "title": "Senior .NET Full-stack Developer",
@@ -69,7 +69,64 @@
     "flutter"
    ],
    "posted_at": "2026-09-17T13:22:05",
-   "age_days": 2.7
+   "age_days": 3.1
+  },
+  {
+   "title": "Senior Shopify Developer",
+   "company": "Sanctuary Computer Inc",
+   "url": "https://remotive.com/remote-jobs/software-development/senior-shopify-developer-2091140",
+   "location": "Worldwide",
+   "remote": true,
+   "source": "remotive",
+   "score": 12,
+   "matched_skills": [
+    "node",
+    "node.js",
+    "typescript",
+    "next.js",
+    "tailwind"
+   ],
+   "tags": [
+    "admin",
+    "api",
+    "backend",
+    "css",
+    "frontend",
+    "fullstack",
+    "graphql",
+    "node.js",
+    "postgresql",
+    "redux",
+    "seo",
+    "shopify",
+    "video",
+    "open source",
+    "paas",
+    "figma",
+    "documentation",
+    "analytics",
+    "brand design",
+    "typescript",
+    "redis",
+    "cypress",
+    "iot",
+    "runtime",
+    "json",
+    "responsive",
+    "prismic",
+    "motion design",
+    "testing",
+    "themes",
+    "next.js",
+    "cms",
+    "jest",
+    "rest",
+    "web sockets",
+    "performance optimization",
+    "mobile development"
+   ],
+   "posted_at": "2026-09-18T15:10:28",
+   "age_days": 2.1
   },
   {
    "title": "Senior Shopify Developer",
@@ -94,75 +151,7 @@
     "shopify"
    ],
    "posted_at": "2026-09-18T13:29:53+00:00",
-   "age_days": 1.7
-  },
-  {
-   "title": "AI Developer (m/f/d)",
-   "company": "Partspace",
-   "url": "https://www.arbeitnow.com/jobs/companies/partspace/remote-ai-developer-nurnberg-177325",
-   "location": "N\u00fcrnberg",
-   "remote": true,
-   "source": "arbeitnow",
-   "score": 5,
-   "matched_skills": [
-    "python",
-    "ai",
-    "azure"
-   ],
-   "tags": [
-    "c#",
-    ".net",
-    ".net core",
-    "apis",
-    "azure devops",
-    "software developer",
-    "clean code",
-    "solid",
-    "ocr",
-    "ml engineer",
-    "deep learning",
-    "c++",
-    "ai",
-    "machine learning",
-    "deep learning",
-    "computer vision",
-    "document ai",
-    "multimodal ai",
-    "llms",
-    "mlops",
-    "scalable systems",
-    "api development",
-    "data engineering",
-    "lay",
-    "remote",
-    "saas",
-    "cad",
-    "cam",
-    "experienced",
-    "permanent",
-    "full time"
-   ],
-   "posted_at": "2026-09-19T20:09:15+00:00",
-   "age_days": 0.4
-  },
-  {
-   "title": "Distributed Systems Testing Software Engineer, Python / Go",
-   "company": "Canonical",
-   "url": "https://jobicy.com/jobs/151013-distributed-systems-testing-software-engineer-python-go",
-   "location": "Anywhere",
-   "remote": true,
-   "source": "jobicy",
-   "score": 4,
-   "matched_skills": [
-    "python",
-    "ai"
-   ],
-   "tags": [
-    "qa & testing",
-    "full-time"
-   ],
-   "posted_at": "2026-09-19T08:55:09+00:00",
-   "age_days": 0.9
+   "age_days": 2.1
   }
  ]
 }
