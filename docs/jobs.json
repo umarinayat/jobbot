@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-20T16:39:41+00:00",
- "count": 3,
+ "generated_at": "2026-09-21T05:47:59+00:00",
+ "count": 4,
  "jobs": [
   {
    "title": "Senior .NET Full-stack Developer",
@@ -69,7 +69,7 @@
     "flutter"
    ],
    "posted_at": "2026-09-17T13:22:05",
-   "age_days": 3.1
+   "age_days": 3.7
   },
   {
    "title": "Senior Shopify Developer",
@@ -126,7 +126,7 @@
     "mobile development"
    ],
    "posted_at": "2026-09-18T15:10:28",
-   "age_days": 2.1
+   "age_days": 2.6
   },
   {
    "title": "Senior Shopify Developer",
@@ -151,7 +151,51 @@
     "shopify"
    ],
    "posted_at": "2026-09-18T13:29:53+00:00",
-   "age_days": 2.1
+   "age_days": 2.7
+  },
+  {
+   "title": "Senior .NET Software Engineer",
+   "company": "OkWhen",
+   "url": "https://remoteOK.com/remote-jobs/remote-senior-net-software-engineer-okwhen-1137411",
+   "location": "Remote",
+   "remote": true,
+   "source": "remoteok",
+   "score": 7,
+   "matched_skills": [
+    "typescript",
+    "angular",
+    "ai",
+    "azure"
+   ],
+   "tags": [
+    "dev",
+    "design",
+    "c sharp",
+    "saas",
+    "sys admin",
+    "infosec",
+    "education",
+    "technical",
+    "testing",
+    "web dev",
+    "xamarin",
+    "c",
+    "cloud",
+    "git",
+    "typescript",
+    "angular",
+    "mobile",
+    "exec",
+    "content writing",
+    "senior",
+    "ops",
+    "medical",
+    "engineer",
+    "backend",
+    "digital nomad"
+   ],
+   "posted_at": "2026-09-20T00:00:31+00:00",
+   "age_days": 1.2
   }
  ]
 }
