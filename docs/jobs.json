@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-22T17:29:15+00:00",
- "count": 4,
+ "generated_at": "2026-09-23T05:26:15+00:00",
+ "count": 5,
  "jobs": [
   {
    "title": "Senior .NET Full-stack Developer",
@@ -69,7 +69,7 @@
     "flutter"
    ],
    "posted_at": "2026-09-17T13:22:05",
-   "age_days": 5.2
+   "age_days": 5.7
   },
   {
    "title": "Senior Shopify Developer",
@@ -126,7 +126,7 @@
     "mobile development"
    ],
    "posted_at": "2026-09-18T15:10:28",
-   "age_days": 4.1
+   "age_days": 4.6
   },
   {
    "title": "Senior Shopify Developer",
@@ -151,7 +151,29 @@
     "shopify"
    ],
    "posted_at": "2026-09-18T13:29:53+00:00",
-   "age_days": 4.2
+   "age_days": 4.7
+  },
+  {
+   "title": "Senior Full Stack Engineer, Agentic Workflows (m/f/d)",
+   "company": "RobCo",
+   "url": "https://www.arbeitnow.com/jobs/companies/robco/remote-senior-full-stack-engineer-agentic-workflows-412321",
+   "location": "Remote",
+   "remote": true,
+   "source": "arbeitnow",
+   "score": 11,
+   "matched_skills": [
+    "typescript",
+    "python",
+    "llm",
+    "ai",
+    "rag"
+   ],
+   "tags": [
+    "solutions",
+    "full time"
+   ],
+   "posted_at": "2026-09-23T02:40:08+00:00",
+   "age_days": 0.1
   },
   {
    "title": "Senior .NET Software Engineer",
@@ -195,7 +217,7 @@
     "digital nomad"
    ],
    "posted_at": "2026-09-20T00:00:31+00:00",
-   "age_days": 2.7
+   "age_days": 3.2
   }
  ]
 }
