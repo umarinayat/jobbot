@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-24T05:46:29+00:00",
- "count": 6,
+ "generated_at": "2026-09-24T17:42:19+00:00",
+ "count": 5,
  "jobs": [
   {
    "title": "Senior .NET Full-stack Developer",
@@ -69,7 +69,7 @@
     "flutter"
    ],
    "posted_at": "2026-09-17T13:22:05",
-   "age_days": 6.7
+   "age_days": 7.2
   },
   {
    "title": "Frontend Engineer",
@@ -111,48 +111,7 @@
     "digital nomad"
    ],
    "posted_at": "2026-09-23T00:00:04+00:00",
-   "age_days": 1.2
-  },
-  {
-   "title": "Backend Engineer - Agentic AI (m/w/d)",
-   "company": "Getpress Gmbh",
-   "url": "https://www.arbeitnow.com/jobs/companies/getpress-gmbh/remote-backend-engineer-agentic-ai-berlin-446366",
-   "location": "Berlin",
-   "remote": true,
-   "source": "arbeitnow",
-   "score": 15,
-   "matched_skills": [
-    "typescript",
-    "python",
-    "next.js",
-    "fastapi",
-    "langchain",
-    "ai",
-    "rag"
-   ],
-   "tags": [
-    "backend engineer",
-    "backend developer",
-    "ai agents",
-    "ki-agenten",
-    "agentic ai",
-    "langgraph",
-    "langchain",
-    "multi-agent-system",
-    "python",
-    "typescript",
-    "postgresql",
-    "vektorendatenbank",
-    "rag",
-    "docker",
-    "kubernetes",
-    "remote",
-    "experienced",
-    "permanent",
-    "full time"
-   ],
-   "posted_at": "2026-09-23T23:09:37+00:00",
-   "age_days": 0.3
+   "age_days": 1.7
   },
   {
    "title": "Senior Shopify Developer",
@@ -209,7 +168,7 @@
     "mobile development"
    ],
    "posted_at": "2026-09-18T15:10:28",
-   "age_days": 5.6
+   "age_days": 6.1
   },
   {
    "title": "Senior Shopify Developer",
@@ -234,7 +193,7 @@
     "shopify"
    ],
    "posted_at": "2026-09-18T13:29:53+00:00",
-   "age_days": 5.7
+   "age_days": 6.2
   },
   {
    "title": "Senior .NET Software Engineer",
@@ -278,7 +237,7 @@
     "digital nomad"
    ],
    "posted_at": "2026-09-20T00:00:31+00:00",
-   "age_days": 4.2
+   "age_days": 4.7
   }
  ]
 }
