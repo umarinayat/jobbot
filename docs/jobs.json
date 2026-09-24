@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-23T17:39:14+00:00",
- "count": 8,
+ "generated_at": "2026-09-24T05:46:29+00:00",
+ "count": 6,
  "jobs": [
   {
    "title": "Senior .NET Full-stack Developer",
@@ -69,32 +69,90 @@
     "flutter"
    ],
    "posted_at": "2026-09-17T13:22:05",
-   "age_days": 6.2
+   "age_days": 6.7
   },
   {
-   "title": "AI Product Engineer",
-   "company": "paddy",
-   "url": "https://www.arbeitnow.com/jobs/companies/paddy/ai-product-engineer-bielefeld-415380",
-   "location": "Bielefeld",
+   "title": "Frontend Engineer",
+   "company": "Bjak",
+   "url": "https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137420",
+   "location": "Singapore",
    "remote": true,
-   "source": "arbeitnow",
-   "score": 19,
+   "source": "remoteok",
+   "score": 20,
    "matched_skills": [
     "react",
+    "react.js",
     "node",
     "node.js",
     "typescript",
+    "javascript",
     "next.js",
-    "llm",
+    "ai"
+   ],
+   "tags": [
+    "front end",
+    "design",
+    "react",
+    "graphql",
+    "react.js",
+    "technical",
+    "web dev",
+    "javascript",
+    "css",
+    "chatbot",
+    "html",
+    "typescript",
+    "node",
+    "node.js",
+    "exec",
+    "sys admin",
+    "engineer",
+    "backend",
+    "digital nomad"
+   ],
+   "posted_at": "2026-09-23T00:00:04+00:00",
+   "age_days": 1.2
+  },
+  {
+   "title": "Backend Engineer - Agentic AI (m/w/d)",
+   "company": "Getpress Gmbh",
+   "url": "https://www.arbeitnow.com/jobs/companies/getpress-gmbh/remote-backend-engineer-agentic-ai-berlin-446366",
+   "location": "Berlin",
+   "remote": true,
+   "source": "arbeitnow",
+   "score": 15,
+   "matched_skills": [
+    "typescript",
+    "python",
+    "next.js",
+    "fastapi",
+    "langchain",
     "ai",
     "rag"
    ],
    "tags": [
+    "backend engineer",
+    "backend developer",
+    "ai agents",
+    "ki-agenten",
+    "agentic ai",
+    "langgraph",
+    "langchain",
+    "multi-agent-system",
+    "python",
+    "typescript",
+    "postgresql",
+    "vektorendatenbank",
+    "rag",
+    "docker",
+    "kubernetes",
     "remote",
-    "software development"
+    "experienced",
+    "permanent",
+    "full time"
    ],
-   "posted_at": "2026-09-23T16:30:39+00:00",
-   "age_days": 0.0
+   "posted_at": "2026-09-23T23:09:37+00:00",
+   "age_days": 0.3
   },
   {
    "title": "Senior Shopify Developer",
@@ -151,7 +209,7 @@
     "mobile development"
    ],
    "posted_at": "2026-09-18T15:10:28",
-   "age_days": 5.1
+   "age_days": 5.6
   },
   {
    "title": "Senior Shopify Developer",
@@ -176,28 +234,7 @@
     "shopify"
    ],
    "posted_at": "2026-09-18T13:29:53+00:00",
-   "age_days": 5.2
-  },
-  {
-   "title": "Senior Python Developer (w/m/d) - Remote",
-   "company": "node.energy",
-   "url": "https://www.arbeitnow.com/jobs/companies/nodeenergy/senior-python-developer-remote-frankfurt-am-main-250296",
-   "location": "Frankfurt am Main",
-   "remote": true,
-   "source": "arbeitnow",
-   "score": 7,
-   "matched_skills": [
-    "node",
-    "python",
-    "azure"
-   ],
-   "tags": [
-    "remote",
-    "software development",
-    "berufserfahren"
-   ],
-   "posted_at": "2026-09-23T14:00:30+00:00",
-   "age_days": 0.2
+   "age_days": 5.7
   },
   {
    "title": "Senior .NET Software Engineer",
@@ -241,45 +278,7 @@
     "digital nomad"
    ],
    "posted_at": "2026-09-20T00:00:31+00:00",
-   "age_days": 3.7
-  },
-  {
-   "title": "Python and Kubernetes Software Engineer - Data, Workflows, AI/ML & Analytics",
-   "company": "Canonical",
-   "url": "https://jobicy.com/jobs/149563-python-and-kubernetes-software-engineer-data-workflows-ai-ml-analytics",
-   "location": "Anywhere",
-   "remote": true,
-   "source": "jobicy",
-   "score": 4,
-   "matched_skills": [
-    "python",
-    "ai"
-   ],
-   "tags": [
-    "software engineering",
-    "full-time"
-   ],
-   "posted_at": "2026-09-23T04:00:14+00:00",
-   "age_days": 0.6
-  },
-  {
-   "title": "Web Frontend Engineer - JS, CSS, React, Flutter",
-   "company": "Canonical",
-   "url": "https://jobicy.com/jobs/149527-web-frontend-engineer-js-css-react-flutter",
-   "location": "Anywhere",
-   "remote": true,
-   "source": "jobicy",
-   "score": 4,
-   "matched_skills": [
-    "react",
-    "ai"
-   ],
-   "tags": [
-    "software engineering",
-    "full-time"
-   ],
-   "posted_at": "2026-09-23T03:55:10+00:00",
-   "age_days": 0.6
+   "age_days": 4.2
   }
  ]
 }
