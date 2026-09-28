@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-28T06:15:18+00:00",
- "count": 7,
+ "generated_at": "2026-09-28T19:57:25+00:00",
+ "count": 8,
  "jobs": [
   {
    "title": "Senior .NET Full-stack Developer",
@@ -69,7 +69,7 @@
     "flutter"
    ],
    "posted_at": "2026-09-17T13:22:05",
-   "age_days": 10.7
+   "age_days": 11.3
   },
   {
    "title": "Frontend Engineer",
@@ -111,7 +111,33 @@
     "digital nomad"
    ],
    "posted_at": "2026-09-23T00:00:04+00:00",
-   "age_days": 5.3
+   "age_days": 5.8
+  },
+  {
+   "title": "AI Product Engineer",
+   "company": "paddy",
+   "url": "https://www.arbeitnow.com/jobs/companies/paddy/ai-product-engineer-bielefeld-8892",
+   "location": "Bielefeld",
+   "remote": true,
+   "source": "arbeitnow",
+   "score": 16,
+   "matched_skills": [
+    "react",
+    "typescript",
+    "next.js",
+    "postgres",
+    "tailwind",
+    "llm",
+    "ai",
+    "rag",
+    "azure"
+   ],
+   "tags": [
+    "remote",
+    "software development"
+   ],
+   "posted_at": "2026-09-28T14:00:56+00:00",
+   "age_days": 0.2
   },
   {
    "title": "Senior Shopify Developer",
@@ -168,7 +194,7 @@
     "mobile development"
    ],
    "posted_at": "2026-09-18T15:10:28",
-   "age_days": 9.6
+   "age_days": 10.2
   },
   {
    "title": "Senior Shopify Developer",
@@ -193,56 +219,27 @@
     "shopify"
    ],
    "posted_at": "2026-09-18T13:29:53+00:00",
-   "age_days": 9.7
+   "age_days": 10.3
   },
   {
-   "title": "Senior Data Scientist (m/f/x)",
-   "company": "Makersite GmbH",
-   "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-senior-data-scientist-berlin-388379",
-   "location": "Remote job",
+   "title": "Senior Experience Engineer",
+   "company": "Parity",
+   "url": "https://www.arbeitnow.com/jobs/companies/parity/remote-senior-experience-engineer-129490",
+   "location": "Remote",
    "remote": true,
    "source": "arbeitnow",
-   "score": 11,
-   "matched_skills": [
-    "python",
-    "fastapi",
-    "langchain",
-    "ai",
-    "rag",
-    "azure"
-   ],
-   "tags": [
-    "engineering",
-    "remote",
-    "experienced",
-    "fulltime permanent"
-   ],
-   "posted_at": "2026-09-27T17:30:16+00:00",
-   "age_days": 0.5
-  },
-  {
-   "title": "Full Stack Senior Software Developer",
-   "company": "cross-ING AG",
-   "url": "https://www.arbeitnow.ch/jobs/companies/cross-ing-ag/remote-full-stack-senior-software-developer-bern-4969",
-   "location": "Homeoffice",
-   "remote": true,
-   "source": "arbeitnow",
-   "score": 11,
+   "score": 7,
    "matched_skills": [
     "react",
-    "javascript",
-    "vue",
-    "vue.js",
-    "mongodb"
+    "typescript",
+    "ai"
    ],
    "tags": [
-    "mehrere standorte",
-    "remote",
-    "mid",
-    "fulltime permanent"
+    "acceleration",
+    "full time"
    ],
-   "posted_at": "2026-09-27T23:30:29+00:00",
-   "age_days": 0.3
+   "posted_at": "2026-09-28T17:40:07+00:00",
+   "age_days": 0.1
   },
   {
    "title": "Senior .NET Software Engineer",
@@ -286,7 +283,56 @@
     "digital nomad"
    ],
    "posted_at": "2026-09-20T00:00:31+00:00",
-   "age_days": 8.3
+   "age_days": 8.8
+  },
+  {
+   "title": "AI Developer (m/f/d)",
+   "company": "Partspace",
+   "url": "https://www.arbeitnow.com/jobs/companies/partspace/remote-ai-developer-nurnberg-225660",
+   "location": "N\u00fcrnberg",
+   "remote": true,
+   "source": "arbeitnow",
+   "score": 5,
+   "matched_skills": [
+    "python",
+    "ai",
+    "azure"
+   ],
+   "tags": [
+    "c#",
+    ".net",
+    ".net core",
+    "apis",
+    "azure devops",
+    "software developer",
+    "clean code",
+    "solid",
+    "ocr",
+    "ml engineer",
+    "deep learning",
+    "c++",
+    "ai",
+    "machine learning",
+    "deep learning",
+    "computer vision",
+    "document ai",
+    "multimodal ai",
+    "llms",
+    "mlops",
+    "scalable systems",
+    "api development",
+    "data engineering",
+    "lay",
+    "remote",
+    "saas",
+    "cad",
+    "cam",
+    "experienced",
+    "permanent",
+    "full time"
+   ],
+   "posted_at": "2026-09-28T17:09:27+00:00",
+   "age_days": 0.1
   }
  ]
 }
