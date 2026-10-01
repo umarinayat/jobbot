@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-30T18:14:24+00:00",
+ "generated_at": "2026-10-01T06:45:32+00:00",
  "count": 7,
  "jobs": [
   {
@@ -69,7 +69,7 @@
     "flutter"
    ],
    "posted_at": "2026-09-17T13:22:05",
-   "age_days": 13.2
+   "age_days": 13.7
   },
   {
    "title": "Frontend Engineer",
@@ -111,7 +111,7 @@
     "digital nomad"
    ],
    "posted_at": "2026-09-23T00:00:04+00:00",
-   "age_days": 7.8
+   "age_days": 8.3
   },
   {
    "title": "Senior Shopify Developer",
@@ -168,7 +168,7 @@
     "mobile development"
    ],
    "posted_at": "2026-09-18T15:10:28",
-   "age_days": 12.1
+   "age_days": 12.6
   },
   {
    "title": "Senior Shopify Developer",
@@ -193,7 +193,7 @@
     "shopify"
    ],
    "posted_at": "2026-09-18T13:29:53+00:00",
-   "age_days": 12.2
+   "age_days": 12.7
   },
   {
    "title": "Senior Software Engineer, Quality",
@@ -214,7 +214,7 @@
     "full time"
    ],
    "posted_at": "2026-09-28T23:40:08+00:00",
-   "age_days": 1.8
+   "age_days": 2.3
   },
   {
    "title": "Senior Experience Engineer",
@@ -234,7 +234,7 @@
     "full time"
    ],
    "posted_at": "2026-09-30T11:40:03+00:00",
-   "age_days": 0.3
+   "age_days": 0.8
   },
   {
    "title": "Senior .NET Software Engineer",
@@ -278,7 +278,7 @@
     "digital nomad"
    ],
    "posted_at": "2026-09-20T00:00:31+00:00",
-   "age_days": 10.8
+   "age_days": 11.3
   }
  ]
 }
