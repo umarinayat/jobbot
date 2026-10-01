@@ -1,76 +1,7 @@
 {
- "generated_at": "2026-10-01T06:45:32+00:00",
+ "generated_at": "2026-10-01T18:40:00+00:00",
  "count": 7,
  "jobs": [
-  {
-   "title": "Senior .NET Full-stack Developer",
-   "company": "Lemon.io",
-   "url": "https://remotive.com/remote-jobs/software-development/senior-net-full-stack-developer-2091130",
-   "location": "Northern America, LATAM, Europe, APAC",
-   "remote": true,
-   "source": "remotive",
-   "score": 26,
-   "matched_skills": [
-    "react",
-    "node",
-    "node.js",
-    "typescript",
-    "javascript",
-    "python",
-    "vue",
-    "angular",
-    "next.js",
-    "llm",
-    "ai"
-   ],
-   "tags": [
-    ".net",
-    "android",
-    "c",
-    "c#",
-    "c++",
-    "data science",
-    "fullstack",
-    "golang",
-    "ios",
-    "java",
-    "javascript",
-    "node.js",
-    "php",
-    "python",
-    "react",
-    "ruby/rails",
-    "scala",
-    "shopify",
-    "swift",
-    "ui/ux",
-    "wordpress",
-    "blockchain",
-    "ai/ml",
-    "automation",
-    "project management",
-    "react native",
-    "rust",
-    "unity",
-    "electron",
-    "spring",
-    "laravel",
-    "ethereum",
-    "graphic design",
-    "typescript",
-    "angular",
-    "firebase",
-    "data engineering",
-    "site reliability",
-    "symfony",
-    "startup",
-    "marketplace",
-    "next.js",
-    "flutter"
-   ],
-   "posted_at": "2026-09-17T13:22:05",
-   "age_days": 13.7
-  },
   {
    "title": "Frontend Engineer",
    "company": "Bjak",
@@ -111,7 +42,7 @@
     "digital nomad"
    ],
    "posted_at": "2026-09-23T00:00:04+00:00",
-   "age_days": 8.3
+   "age_days": 8.8
   },
   {
    "title": "Senior Shopify Developer",
@@ -168,7 +99,7 @@
     "mobile development"
    ],
    "posted_at": "2026-09-18T15:10:28",
-   "age_days": 12.6
+   "age_days": 13.1
   },
   {
    "title": "Senior Shopify Developer",
@@ -193,7 +124,7 @@
     "shopify"
    ],
    "posted_at": "2026-09-18T13:29:53+00:00",
-   "age_days": 12.7
+   "age_days": 13.2
   },
   {
    "title": "Senior Software Engineer, Quality",
@@ -214,7 +145,28 @@
     "full time"
    ],
    "posted_at": "2026-09-28T23:40:08+00:00",
-   "age_days": 2.3
+   "age_days": 2.8
+  },
+  {
+   "title": "Web Developer | Full Time (m/w/d)",
+   "company": "CONROO GmbH",
+   "url": "https://www.arbeitnow.com/jobs/companies/conroo-gmbh/web-developer-full-time-munich-243414",
+   "location": "Munich",
+   "remote": true,
+   "source": "arbeitnow",
+   "score": 7,
+   "matched_skills": [
+    "typescript",
+    "vue",
+    "vue.js"
+   ],
+   "tags": [
+    "remote",
+    "web development",
+    "professional / experienced"
+   ],
+   "posted_at": "2026-10-01T15:00:36+00:00",
+   "age_days": 0.2
   },
   {
    "title": "Senior Experience Engineer",
@@ -234,7 +186,7 @@
     "full time"
    ],
    "posted_at": "2026-09-30T11:40:03+00:00",
-   "age_days": 0.8
+   "age_days": 1.3
   },
   {
    "title": "Senior .NET Software Engineer",
@@ -278,7 +230,7 @@
     "digital nomad"
    ],
    "posted_at": "2026-09-20T00:00:31+00:00",
-   "age_days": 11.3
+   "age_days": 11.8
   }
  ]
 }
