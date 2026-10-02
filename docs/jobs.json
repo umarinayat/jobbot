@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-02T06:35:00+00:00",
- "count": 5,
+ "generated_at": "2026-10-02T18:10:28+00:00",
+ "count": 4,
  "jobs": [
   {
    "title": "Frontend Engineer",
@@ -42,89 +42,30 @@
     "digital nomad"
    ],
    "posted_at": "2026-09-23T00:00:04+00:00",
-   "age_days": 9.3
+   "age_days": 9.8
   },
   {
-   "title": "Senior Shopify Developer",
-   "company": "Sanctuary Computer Inc",
-   "url": "https://remotive.com/remote-jobs/software-development/senior-shopify-developer-2091140",
-   "location": "Worldwide",
+   "title": "Frontend Softwareentwickler (m/w/d)",
+   "company": "TecFox GmbH",
+   "url": "https://www.arbeitnow.com/jobs/companies/tecfox-gmbh/frontend-softwareentwickler-braunschweig-442037",
+   "location": "Braunschweig",
    "remote": true,
-   "source": "remotive",
+   "source": "arbeitnow",
    "score": 12,
    "matched_skills": [
-    "node",
-    "node.js",
+    "react",
     "typescript",
-    "next.js",
-    "tailwind"
+    "vue",
+    "vue.js",
+    "angular"
    ],
    "tags": [
-    "admin",
-    "api",
-    "backend",
-    "css",
-    "frontend",
-    "fullstack",
-    "graphql",
-    "node.js",
-    "postgresql",
-    "redux",
-    "seo",
-    "shopify",
-    "video",
-    "open source",
-    "paas",
-    "figma",
-    "documentation",
-    "analytics",
-    "brand design",
-    "typescript",
-    "redis",
-    "cypress",
-    "iot",
-    "runtime",
-    "json",
-    "responsive",
-    "prismic",
-    "motion design",
-    "testing",
-    "themes",
-    "next.js",
-    "cms",
-    "jest",
-    "rest",
-    "web sockets",
-    "performance optimization",
-    "mobile development"
+    "remote",
+    "software development",
+    "berufserfahren"
    ],
-   "posted_at": "2026-09-18T15:10:28",
-   "age_days": 13.6
-  },
-  {
-   "title": "Senior Shopify Developer",
-   "company": "Sanctuary Computer",
-   "url": "https://remoteOK.com/remote-jobs/remote-senior-shopify-developer-sanctuary-computer-1137405",
-   "location": "Remote",
-   "remote": true,
-   "source": "remoteok",
-   "score": 12,
-   "matched_skills": [
-    "node",
-    "node.js",
-    "typescript",
-    "next.js",
-    "tailwind"
-   ],
-   "tags": [
-    "dev",
-    "engineer",
-    "senior",
-    "front end",
-    "shopify"
-   ],
-   "posted_at": "2026-09-18T13:29:53+00:00",
-   "age_days": 13.7
+   "posted_at": "2026-10-02T12:30:53+00:00",
+   "age_days": 0.2
   },
   {
    "title": "Senior Experience Engineer",
@@ -144,7 +85,7 @@
     "full time"
    ],
    "posted_at": "2026-09-30T11:40:03+00:00",
-   "age_days": 1.8
+   "age_days": 2.3
   },
   {
    "title": "Senior .NET Software Engineer",
@@ -188,7 +129,7 @@
     "digital nomad"
    ],
    "posted_at": "2026-09-20T00:00:31+00:00",
-   "age_days": 12.3
+   "age_days": 12.8
   }
  ]
 }
