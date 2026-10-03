@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-02T18:10:28+00:00",
- "count": 4,
+ "generated_at": "2026-10-03T05:59:10+00:00",
+ "count": 3,
  "jobs": [
   {
    "title": "Frontend Engineer",
@@ -42,50 +42,7 @@
     "digital nomad"
    ],
    "posted_at": "2026-09-23T00:00:04+00:00",
-   "age_days": 9.8
-  },
-  {
-   "title": "Frontend Softwareentwickler (m/w/d)",
-   "company": "TecFox GmbH",
-   "url": "https://www.arbeitnow.com/jobs/companies/tecfox-gmbh/frontend-softwareentwickler-braunschweig-442037",
-   "location": "Braunschweig",
-   "remote": true,
-   "source": "arbeitnow",
-   "score": 12,
-   "matched_skills": [
-    "react",
-    "typescript",
-    "vue",
-    "vue.js",
-    "angular"
-   ],
-   "tags": [
-    "remote",
-    "software development",
-    "berufserfahren"
-   ],
-   "posted_at": "2026-10-02T12:30:53+00:00",
-   "age_days": 0.2
-  },
-  {
-   "title": "Senior Experience Engineer",
-   "company": "Parity",
-   "url": "https://www.arbeitnow.ch/jobs/companies/parity/remote-senior-experience-engineer-217975",
-   "location": "Remote",
-   "remote": true,
-   "source": "arbeitnow",
-   "score": 7,
-   "matched_skills": [
-    "react",
-    "typescript",
-    "ai"
-   ],
-   "tags": [
-    "acceleration",
-    "full time"
-   ],
-   "posted_at": "2026-09-30T11:40:03+00:00",
-   "age_days": 2.3
+   "age_days": 10.2
   },
   {
    "title": "Senior .NET Software Engineer",
@@ -129,7 +86,56 @@
     "digital nomad"
    ],
    "posted_at": "2026-09-20T00:00:31+00:00",
-   "age_days": 12.8
+   "age_days": 13.2
+  },
+  {
+   "title": "AI Developer (m/f/d)",
+   "company": "Partspace",
+   "url": "https://www.arbeitnow.com/jobs/companies/partspace/remote-ai-developer-nurnberg-350342",
+   "location": "N\u00fcrnberg",
+   "remote": true,
+   "source": "arbeitnow",
+   "score": 5,
+   "matched_skills": [
+    "python",
+    "ai",
+    "azure"
+   ],
+   "tags": [
+    "c#",
+    ".net",
+    ".net core",
+    "apis",
+    "azure devops",
+    "software developer",
+    "clean code",
+    "solid",
+    "ocr",
+    "ml engineer",
+    "deep learning",
+    "c++",
+    "ai",
+    "machine learning",
+    "deep learning",
+    "computer vision",
+    "document ai",
+    "multimodal ai",
+    "llms",
+    "mlops",
+    "scalable systems",
+    "api development",
+    "data engineering",
+    "lay",
+    "remote",
+    "saas",
+    "cad",
+    "cam",
+    "experienced",
+    "permanent",
+    "full time"
+   ],
+   "posted_at": "2026-10-03T02:09:31+00:00",
+   "age_days": 0.2
   }
  ]
 }
