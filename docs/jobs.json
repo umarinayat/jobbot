@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-06T18:44:06+00:00",
- "count": 5,
+ "generated_at": "2026-10-07T06:47:26+00:00",
+ "count": 3,
  "jobs": [
   {
    "title": "Senior React Full-stack Developer",
@@ -76,49 +76,7 @@
     "flutter"
    ],
    "posted_at": "2026-10-02T13:30:06",
-   "age_days": 4.2
-  },
-  {
-   "title": "Frontend Engineer",
-   "company": "Bjak",
-   "url": "https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137420",
-   "location": "Singapore",
-   "remote": true,
-   "source": "remoteok",
-   "score": 20,
-   "matched_skills": [
-    "react",
-    "react.js",
-    "node",
-    "node.js",
-    "typescript",
-    "javascript",
-    "next.js",
-    "ai"
-   ],
-   "tags": [
-    "front end",
-    "design",
-    "react",
-    "graphql",
-    "react.js",
-    "technical",
-    "web dev",
-    "javascript",
-    "css",
-    "chatbot",
-    "html",
-    "typescript",
-    "node",
-    "node.js",
-    "exec",
-    "sys admin",
-    "engineer",
-    "backend",
-    "digital nomad"
-   ],
-   "posted_at": "2026-09-23T00:00:04+00:00",
-   "age_days": 13.8
+   "age_days": 4.7
   },
   {
    "title": "Software Engineer / AI Code Trainer (Python, Web, Full Stack)",
@@ -162,55 +120,29 @@
     "scripting"
    ],
    "posted_at": "2026-10-05T05:15:43",
-   "age_days": 1.6
+   "age_days": 2.1
   },
   {
-   "title": "Full-Stack Softwareentwickler (m/w/d) React/Next.js oder Angular + Nest.js/Node.js - 100% Remote",
-   "company": "FastRocket GmbH",
-   "url": "https://www.arbeitnow.com/jobs/companies/fastrocket-gmbh/full-stack-softwareentwickler-react-nextjs-oder-angular-nestjs-nodejs-100-remote-regen-7823",
-   "location": "Regen",
+   "title": "Technical Lead (f/m/d)",
+   "company": "Boardwise GmbH",
+   "url": "https://www.arbeitnow.com/jobs/companies/boardwise-gmbh/technical-lead-berlin-450039",
+   "location": "Berlin",
    "remote": true,
    "source": "arbeitnow",
-   "score": 17,
+   "score": 10,
    "matched_skills": [
     "react",
-    "node",
-    "node.js",
     "typescript",
-    "angular",
-    "next.js",
+    "javascript",
+    "ai",
     "azure"
    ],
    "tags": [
     "remote",
-    "software development"
+    "software development",
+    "professional / experienced"
    ],
-   "posted_at": "2026-10-06T14:01:01+00:00",
-   "age_days": 0.2
-  },
-  {
-   "title": "Full Stack Developer (node.js)",
-   "company": "Delta Capita",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/delta-capita/remote-full-stack-developer-nodejs-ipswich-346396",
-   "location": "Remote job",
-   "remote": true,
-   "source": "arbeitnow",
-   "score": 16,
-   "matched_skills": [
-    "react",
-    "node",
-    "node.js",
-    "typescript",
-    "javascript",
-    "express"
-   ],
-   "tags": [
-    "mach",
-    "remote",
-    "mid",
-    "fulltime permanent"
-   ],
-   "posted_at": "2026-10-06T15:30:03+00:00",
+   "posted_at": "2026-10-07T05:31:06+00:00",
    "age_days": 0.1
   }
  ]
