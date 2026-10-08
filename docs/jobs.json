@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-07T19:11:01+00:00",
+ "generated_at": "2026-10-08T06:56:27+00:00",
  "count": 2,
  "jobs": [
   {
@@ -76,7 +76,7 @@
     "flutter"
    ],
    "posted_at": "2026-10-02T13:30:06",
-   "age_days": 5.2
+   "age_days": 5.7
   },
   {
    "title": "Software Engineer / AI Code Trainer (Python, Web, Full Stack)",
@@ -120,7 +120,7 @@
     "scripting"
    ],
    "posted_at": "2026-10-05T05:15:43",
-   "age_days": 2.6
+   "age_days": 3.1
   }
  ]
 }
