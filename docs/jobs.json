@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-13T07:17:56+00:00",
- "count": 3,
+ "generated_at": "2026-10-13T19:42:13+00:00",
+ "count": 5,
  "jobs": [
   {
    "title": "Senior React Full-stack Developer",
@@ -76,7 +76,7 @@
     "flutter"
    ],
    "posted_at": "2026-10-02T13:30:06",
-   "age_days": 10.7
+   "age_days": 11.3
   },
   {
    "title": "Senior React Full stack Developer",
@@ -117,7 +117,7 @@
     "full stack"
    ],
    "posted_at": "2026-10-09T13:09:18+00:00",
-   "age_days": 3.8
+   "age_days": 4.3
   },
   {
    "title": "Software Engineer / AI Code Trainer (Python, Web, Full Stack)",
@@ -161,7 +161,54 @@
     "scripting"
    ],
    "posted_at": "2026-10-05T05:15:43",
-   "age_days": 8.1
+   "age_days": 8.6
+  },
+  {
+   "title": "Technical Customer Support Specialist",
+   "company": "Happyrobot.ai",
+   "url": "https://www.arbeitnow.com/jobs/companies/happyrobotai/remote-technical-customer-support-specialist-148934",
+   "location": "Remote",
+   "remote": true,
+   "source": "arbeitnow",
+   "score": 18,
+   "matched_skills": [
+    "react",
+    "node",
+    "node.js",
+    "typescript",
+    "python",
+    "llm",
+    "ai"
+   ],
+   "tags": [
+    "engineering",
+    "full time"
+   ],
+   "posted_at": "2026-10-13T17:40:45+00:00",
+   "age_days": 0.1
+  },
+  {
+   "title": "Backend Engineer",
+   "company": "Duna",
+   "url": "https://www.arbeitnow.nl/jobs/companies/duna/remote-backend-engineer-400498",
+   "location": "Remote",
+   "remote": true,
+   "source": "arbeitnow",
+   "score": 13,
+   "matched_skills": [
+    "node",
+    "node.js",
+    "typescript",
+    "express",
+    "postgres",
+    "ai"
+   ],
+   "tags": [
+    "engineering",
+    "full time"
+   ],
+   "posted_at": "2026-10-13T17:40:48+00:00",
+   "age_days": 0.1
   }
  ]
 }
