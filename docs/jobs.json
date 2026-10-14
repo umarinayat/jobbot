@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-13T19:42:13+00:00",
- "count": 5,
+ "generated_at": "2026-10-14T05:43:17+00:00",
+ "count": 7,
  "jobs": [
   {
    "title": "Senior React Full-stack Developer",
@@ -76,7 +76,7 @@
     "flutter"
    ],
    "posted_at": "2026-10-02T13:30:06",
-   "age_days": 11.3
+   "age_days": 11.7
   },
   {
    "title": "Senior React Full stack Developer",
@@ -117,7 +117,7 @@
     "full stack"
    ],
    "posted_at": "2026-10-09T13:09:18+00:00",
-   "age_days": 4.3
+   "age_days": 4.7
   },
   {
    "title": "Software Engineer / AI Code Trainer (Python, Web, Full Stack)",
@@ -161,13 +161,13 @@
     "scripting"
    ],
    "posted_at": "2026-10-05T05:15:43",
-   "age_days": 8.6
+   "age_days": 9.0
   },
   {
-   "title": "Technical Customer Support Specialist",
-   "company": "Happyrobot.ai",
-   "url": "https://www.arbeitnow.com/jobs/companies/happyrobotai/remote-technical-customer-support-specialist-148934",
-   "location": "Remote",
+   "title": "Senior/Leading Software Engineer (fintech)",
+   "company": "TechBiz Global GmbH",
+   "url": "https://www.arbeitnow.com/jobs/companies/techbiz-global-gmbh/remote-senior-leading-software-engineer-fintech-berlin-481208",
+   "location": "Remote job",
    "remote": true,
    "source": "arbeitnow",
    "score": 18,
@@ -176,38 +176,76 @@
     "node",
     "node.js",
     "typescript",
+    "javascript",
+    "angular",
+    "mysql"
+   ],
+   "tags": [
+    "engineering",
+    "remote",
+    "experienced",
+    "fulltime permanent"
+   ],
+   "posted_at": "2026-10-13T20:30:11+00:00",
+   "age_days": 0.4
+  },
+  {
+   "title": "Full-Stack Engineer (Frontend-Leaning) - CreativeMusic",
+   "company": "ElevenLabs",
+   "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-full-stack-engineer-frontend-leaning-creativemusic-231100",
+   "location": "Remote",
+   "remote": true,
+   "source": "arbeitnow",
+   "score": 7,
+   "matched_skills": [
+    "react",
+    "typescript",
+    "ai"
+   ],
+   "tags": [
+    "engineering & product",
+    "full time"
+   ],
+   "posted_at": "2026-10-14T02:40:19+00:00",
+   "age_days": 0.1
+  },
+  {
+   "title": "Applied AI Engineer",
+   "company": "ElevenLabs",
+   "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-applied-ai-engineer-67980",
+   "location": "Remote",
+   "remote": true,
+   "source": "arbeitnow",
+   "score": 6,
+   "matched_skills": [
     "python",
     "llm",
     "ai"
    ],
    "tags": [
-    "engineering",
+    "growth",
     "full time"
    ],
-   "posted_at": "2026-10-13T17:40:45+00:00",
+   "posted_at": "2026-10-14T02:40:19+00:00",
    "age_days": 0.1
   },
   {
-   "title": "Backend Engineer",
-   "company": "Duna",
-   "url": "https://www.arbeitnow.nl/jobs/companies/duna/remote-backend-engineer-400498",
+   "title": "Mobile Engineer - ElevenMusic",
+   "company": "ElevenLabs",
+   "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-mobile-engineer-elevenmusic-186129",
    "location": "Remote",
    "remote": true,
    "source": "arbeitnow",
-   "score": 13,
+   "score": 4,
    "matched_skills": [
-    "node",
-    "node.js",
-    "typescript",
-    "express",
-    "postgres",
+    "react",
     "ai"
    ],
    "tags": [
-    "engineering",
+    "engineering & product",
     "full time"
    ],
-   "posted_at": "2026-10-13T17:40:48+00:00",
+   "posted_at": "2026-10-14T02:40:19+00:00",
    "age_days": 0.1
   }
  ]
