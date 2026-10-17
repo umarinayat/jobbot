@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-17T05:15:30+00:00",
- "count": 4,
+ "generated_at": "2026-10-17T16:05:01+00:00",
+ "count": 7,
  "jobs": [
   {
    "title": "Senior React Full stack Developer",
@@ -41,7 +41,7 @@
     "full stack"
    ],
    "posted_at": "2026-10-09T13:09:18+00:00",
-   "age_days": 7.7
+   "age_days": 8.1
   },
   {
    "title": "Senior Software Engineer II Applied AI",
@@ -91,7 +91,7 @@
     "digital nomad"
    ],
    "posted_at": "2026-10-15T16:00:03+00:00",
-   "age_days": 1.6
+   "age_days": 2.0
   },
   {
    "title": "Full-Stack Engineer \u2014 AI Authoring Platform",
@@ -116,8 +116,8 @@
     "freelance",
     "professional / experienced"
    ],
-   "posted_at": "2026-10-16T23:00:34+00:00",
-   "age_days": 0.3
+   "posted_at": "2026-10-17T11:47:20+00:00",
+   "age_days": 0.2
   },
   {
    "title": "Senior Scientific Data Engineer",
@@ -142,7 +142,68 @@
     "mid-senior"
    ],
    "posted_at": "2026-10-16T11:20:05+00:00",
-   "age_days": 0.7
+   "age_days": 1.2
+  },
+  {
+   "title": "Java Softwareentwickler/in mit Karriereambitionen - jetzt mit uns voll durchstarten!",
+   "company": "Auralis Group",
+   "url": "https://www.arbeitnow.com/jobs/companies/auralis-group/java-softwareentwickler-in-mit-karriereambitionen-jetzt-mit-uns-voll-durchstarten-berlin-458768",
+   "location": "Berlin",
+   "remote": true,
+   "source": "arbeitnow",
+   "score": 9,
+   "matched_skills": [
+    "react",
+    "vue",
+    "angular",
+    "ai",
+    "azure"
+   ],
+   "tags": [
+    "remote",
+    "software development",
+    "unbefristeter arbeitsvertrag"
+   ],
+   "posted_at": "2026-10-17T14:32:18+00:00",
+   "age_days": 0.1
+  },
+  {
+   "title": "Edge Functions Engineer",
+   "company": "Supabase",
+   "url": "https://jobicy.com/jobs/153452-edge-functions-engineer",
+   "location": "Anywhere",
+   "remote": true,
+   "source": "jobicy",
+   "score": 4,
+   "matched_skills": [
+    "typescript",
+    "postgres"
+   ],
+   "tags": [
+    "software engineering",
+    "full-time"
+   ],
+   "posted_at": "2026-10-17T04:15:08+00:00",
+   "age_days": 0.5
+  },
+  {
+   "title": "Software Engineer - Auth",
+   "company": "Supabase",
+   "url": "https://jobicy.com/jobs/153449-software-engineer-auth",
+   "location": "Anywhere",
+   "remote": true,
+   "source": "jobicy",
+   "score": 4,
+   "matched_skills": [
+    "typescript",
+    "postgres"
+   ],
+   "tags": [
+    "software engineering",
+    "full-time"
+   ],
+   "posted_at": "2026-10-17T04:15:06+00:00",
+   "age_days": 0.5
   }
  ]
 }
