@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-16T17:08:46+00:00",
- "count": 5,
+ "generated_at": "2026-10-17T05:15:30+00:00",
+ "count": 4,
  "jobs": [
   {
    "title": "Senior React Full stack Developer",
@@ -41,7 +41,7 @@
     "full stack"
    ],
    "posted_at": "2026-10-09T13:09:18+00:00",
-   "age_days": 7.2
+   "age_days": 7.7
   },
   {
    "title": "Senior Software Engineer II Applied AI",
@@ -91,7 +91,33 @@
     "digital nomad"
    ],
    "posted_at": "2026-10-15T16:00:03+00:00",
-   "age_days": 1.0
+   "age_days": 1.6
+  },
+  {
+   "title": "Full-Stack Engineer \u2014 AI Authoring Platform",
+   "company": "Tracium GmbH",
+   "url": "https://www.arbeitnow.com/jobs/companies/tracium-gmbh/full-stack-engineer-ai-authoring-platform-hamburg-483900",
+   "location": "Hamburg",
+   "remote": true,
+   "source": "arbeitnow",
+   "score": 16,
+   "matched_skills": [
+    "react",
+    "node",
+    "node.js",
+    "typescript",
+    "python",
+    "ai"
+   ],
+   "tags": [
+    "remote",
+    "software development",
+    "freelancer / indepedent contractor",
+    "freelance",
+    "professional / experienced"
+   ],
+   "posted_at": "2026-10-16T23:00:34+00:00",
+   "age_days": 0.3
   },
   {
    "title": "Senior Scientific Data Engineer",
@@ -116,52 +142,7 @@
     "mid-senior"
    ],
    "posted_at": "2026-10-16T11:20:05+00:00",
-   "age_days": 0.2
-  },
-  {
-   "title": "Frontend Softwareentwickler (m/w/d)",
-   "company": "TecFox GmbH",
-   "url": "https://www.arbeitnow.com/jobs/companies/tecfox-gmbh/frontend-softwareentwickler-berlin-250708",
-   "location": "Berlin",
-   "remote": true,
-   "source": "arbeitnow",
-   "score": 12,
-   "matched_skills": [
-    "react",
-    "typescript",
-    "vue",
-    "vue.js",
-    "angular"
-   ],
-   "tags": [
-    "remote",
-    "web development",
-    "unbefristeter arbeitsvertrag",
-    "berufserfahren"
-   ],
-   "posted_at": "2026-10-16T13:01:21+00:00",
-   "age_days": 0.2
-  },
-  {
-   "title": "Founding Engineer (Remote or Hybrid - EEA/UK)",
-   "company": "Tarebase",
-   "url": "https://www.arbeitnow.com/jobs/companies/tarebase/founding-engineer-remote-eea-uk-berlin-162955",
-   "location": "Berlin",
-   "remote": true,
-   "source": "arbeitnow",
-   "score": 4,
-   "matched_skills": [
-    "typescript",
-    "ai"
-   ],
-   "tags": [
-    "remote",
-    "software development",
-    "permanent employment",
-    "professional / experienced"
-   ],
-   "posted_at": "2026-10-16T15:17:34+00:00",
-   "age_days": 0.1
+   "age_days": 0.7
   }
  ]
 }
