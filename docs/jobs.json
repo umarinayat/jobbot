@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-19T05:36:40+00:00",
- "count": 5,
+ "generated_at": "2026-10-19T18:56:52+00:00",
+ "count": 7,
  "jobs": [
   {
    "title": "Senior React Full stack Developer",
@@ -41,7 +41,7 @@
     "full stack"
    ],
    "posted_at": "2026-10-09T13:09:18+00:00",
-   "age_days": 9.7
+   "age_days": 10.2
   },
   {
    "title": "Senior Software Engineer II Applied AI",
@@ -91,33 +91,34 @@
     "digital nomad"
    ],
    "posted_at": "2026-10-15T16:00:03+00:00",
-   "age_days": 3.6
+   "age_days": 4.1
   },
   {
-   "title": "Full-Stack & Mobile Engineer",
-   "company": "NAIRON",
-   "url": "https://www.arbeitnow.com/jobs/companies/nairon/full-stack-mobile-engineer-berlin-182046",
-   "location": "Berlin",
+   "title": "Full-stack Developer",
+   "company": "ADOMIK",
+   "url": "https://www.arbeitnow.fr/jobs/companies/adomik/full-stack-developer-paris-258791",
+   "location": "Paris",
    "remote": true,
    "source": "arbeitnow",
-   "score": 14,
+   "score": 15,
    "matched_skills": [
     "react",
     "typescript",
     "python",
-    "next.js",
-    "fastapi",
+    "mongodb",
+    "mysql",
     "tailwind",
     "ai"
    ],
    "tags": [
     "remote",
-    "system and network administration",
-    "permanent employment",
+    "development",
+    "self-employed/freelance (auto-entrepreneur/ind\u00e9pendant)",
+    "freelance",
     "professional / experienced"
    ],
-   "posted_at": "2026-10-18T19:30:58+00:00",
-   "age_days": 0.4
+   "posted_at": "2026-10-19T17:00:57+00:00",
+   "age_days": 0.1
   },
   {
    "title": "Software Engineer AI Coding Tasks",
@@ -143,7 +144,7 @@
     "c plus plus"
    ],
    "posted_at": "2026-10-17T01:09:20+00:00",
-   "age_days": 2.2
+   "age_days": 2.7
   },
   {
    "title": "Head of Technology",
@@ -167,7 +168,61 @@
     "front end"
    ],
    "posted_at": "2026-10-16T17:55:35+00:00",
-   "age_days": 2.5
+   "age_days": 3.0
+  },
+  {
+   "title": "Software Engineer, AI Coding Tasks",
+   "company": "Askable",
+   "url": "https://remotive.com/remote-jobs/software-development/software-engineer-ai-coding-tasks-2091158",
+   "location": "Worldwide",
+   "remote": true,
+   "source": "remotive",
+   "score": 7,
+   "matched_skills": [
+    "typescript",
+    "python",
+    "ai"
+   ],
+   "tags": [
+    "c++",
+    "docker",
+    "git",
+    "go",
+    "java",
+    "python",
+    "security",
+    "ai/ml",
+    "rust",
+    "typescript",
+    "distributed systems",
+    "solid",
+    "linux/unix",
+    "testing",
+    "infrastructure"
+   ],
+   "posted_at": "2026-10-17T16:04:29",
+   "age_days": 2.1
+  },
+  {
+   "title": "Senior Fullstack Engineer (all identities)",
+   "company": "Caspar Health",
+   "url": "https://www.arbeitnow.com/jobs/companies/caspar-health/senior-fullstack-engineer-all-identities-berlin-295064",
+   "location": "Berlin",
+   "remote": true,
+   "source": "arbeitnow",
+   "score": 6,
+   "matched_skills": [
+    "react",
+    "typescript"
+   ],
+   "tags": [
+    "remote",
+    "software development",
+    "permanent employment",
+    "professional / experienced"
+   ],
+   "posted_at": "2026-10-19T15:01:26+00:00",
+   "age_days": 0.2
   }
  ]
 }
