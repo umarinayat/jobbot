@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-18T16:19:11+00:00",
- "count": 4,
+ "generated_at": "2026-10-19T05:36:40+00:00",
+ "count": 5,
  "jobs": [
   {
    "title": "Senior React Full stack Developer",
@@ -41,7 +41,7 @@
     "full stack"
    ],
    "posted_at": "2026-10-09T13:09:18+00:00",
-   "age_days": 9.1
+   "age_days": 9.7
   },
   {
    "title": "Senior Software Engineer II Applied AI",
@@ -91,7 +91,33 @@
     "digital nomad"
    ],
    "posted_at": "2026-10-15T16:00:03+00:00",
-   "age_days": 3.0
+   "age_days": 3.6
+  },
+  {
+   "title": "Full-Stack & Mobile Engineer",
+   "company": "NAIRON",
+   "url": "https://www.arbeitnow.com/jobs/companies/nairon/full-stack-mobile-engineer-berlin-182046",
+   "location": "Berlin",
+   "remote": true,
+   "source": "arbeitnow",
+   "score": 14,
+   "matched_skills": [
+    "react",
+    "typescript",
+    "python",
+    "next.js",
+    "fastapi",
+    "tailwind",
+    "ai"
+   ],
+   "tags": [
+    "remote",
+    "system and network administration",
+    "permanent employment",
+    "professional / experienced"
+   ],
+   "posted_at": "2026-10-18T19:30:58+00:00",
+   "age_days": 0.4
   },
   {
    "title": "Software Engineer AI Coding Tasks",
@@ -117,7 +143,7 @@
     "c plus plus"
    ],
    "posted_at": "2026-10-17T01:09:20+00:00",
-   "age_days": 1.6
+   "age_days": 2.2
   },
   {
    "title": "Head of Technology",
@@ -141,7 +167,7 @@
     "front end"
    ],
    "posted_at": "2026-10-16T17:55:35+00:00",
-   "age_days": 1.9
+   "age_days": 2.5
   }
  ]
 }
