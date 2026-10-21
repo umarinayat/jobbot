@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-20T17:43:40+00:00",
- "count": 11,
+ "generated_at": "2026-10-21T05:39:13+00:00",
+ "count": 10,
  "jobs": [
   {
    "title": "Senior React Full stack Developer",
@@ -41,7 +41,7 @@
     "full stack"
    ],
    "posted_at": "2026-10-09T13:09:18+00:00",
-   "age_days": 11.2
+   "age_days": 11.7
   },
   {
    "title": "Senior Software Engineer II Applied AI",
@@ -91,7 +91,7 @@
     "digital nomad"
    ],
    "posted_at": "2026-10-15T16:00:03+00:00",
-   "age_days": 5.1
+   "age_days": 5.6
   },
   {
    "title": "Software Engineer, Applied AI",
@@ -114,7 +114,7 @@
     "full time"
    ],
    "posted_at": "2026-10-20T14:40:40+00:00",
-   "age_days": 0.1
+   "age_days": 0.6
   },
   {
    "title": "Full Stack Blockchain Engineer for RWA market",
@@ -138,7 +138,7 @@
     "professional / experienced"
    ],
    "posted_at": "2026-10-20T16:01:05+00:00",
-   "age_days": 0.1
+   "age_days": 0.6
   },
   {
    "title": "Software Engineer AI Coding Tasks",
@@ -164,7 +164,7 @@
     "c plus plus"
    ],
    "posted_at": "2026-10-17T01:09:20+00:00",
-   "age_days": 3.7
+   "age_days": 4.2
   },
   {
    "title": "Head of Technology",
@@ -188,7 +188,7 @@
     "front end"
    ],
    "posted_at": "2026-10-16T17:55:35+00:00",
-   "age_days": 4.0
+   "age_days": 4.5
   },
   {
    "title": "Software Engineer, Front End & Design",
@@ -209,7 +209,7 @@
     "full time"
    ],
    "posted_at": "2026-10-20T14:40:40+00:00",
-   "age_days": 0.1
+   "age_days": 0.6
   },
   {
    "title": "Software Engineer, AI Coding Tasks",
@@ -242,7 +242,7 @@
     "infrastructure"
    ],
    "posted_at": "2026-10-17T16:04:29",
-   "age_days": 3.1
+   "age_days": 3.6
   },
   {
    "title": "Software Engineer, Computer Vision",
@@ -261,7 +261,7 @@
     "full time"
    ],
    "posted_at": "2026-10-20T14:40:40+00:00",
-   "age_days": 0.1
+   "age_days": 0.6
   },
   {
    "title": "Software Engineer, Robotics",
@@ -280,25 +280,6 @@
     "full time"
    ],
    "posted_at": "2026-10-20T14:40:40+00:00",
-   "age_days": 0.1
-  },
-  {
-   "title": "Distributed Systems Testing Software Engineer, Python / Go",
-   "company": "Canonical",
-   "url": "https://jobicy.com/jobs/151013-distributed-systems-testing-software-engineer-python-go",
-   "location": "Anywhere",
-   "remote": true,
-   "source": "jobicy",
-   "score": 4,
-   "matched_skills": [
-    "python",
-    "ai"
-   ],
-   "tags": [
-    "qa & testing",
-    "full-time"
-   ],
-   "posted_at": "2026-10-20T03:15:13+00:00",
    "age_days": 0.6
   }
  ]
