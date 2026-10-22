@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-21T17:50:01+00:00",
- "count": 8,
+ "generated_at": "2026-10-22T05:40:24+00:00",
+ "count": 7,
  "jobs": [
   {
    "title": "Senior React Full stack Developer",
@@ -41,7 +41,7 @@
     "full stack"
    ],
    "posted_at": "2026-10-09T13:09:18+00:00",
-   "age_days": 12.2
+   "age_days": 12.7
   },
   {
    "title": "Senior Software Engineer II Applied AI",
@@ -91,31 +91,7 @@
     "digital nomad"
    ],
    "posted_at": "2026-10-15T16:00:03+00:00",
-   "age_days": 6.1
-  },
-  {
-   "title": "Full Stack Blockchain Engineer for RWA market",
-   "company": "Blockvora",
-   "url": "https://www.arbeitnow.ch/jobs/companies/blockvora/full-stack-blockchain-engineer-for-rwa-market-zug-393337",
-   "location": "Zug",
-   "remote": true,
-   "source": "arbeitnow",
-   "score": 10,
-   "matched_skills": [
-    "react",
-    "typescript",
-    "javascript",
-    "next.js"
-   ],
-   "tags": [
-    "remote",
-    "software development",
-    "freelancer / indepedent contractor",
-    "freelance",
-    "professional / experienced"
-   ],
-   "posted_at": "2026-10-20T16:01:05+00:00",
-   "age_days": 1.1
+   "age_days": 6.6
   },
   {
    "title": "Software Engineer AI Coding Tasks",
@@ -141,7 +117,7 @@
     "c plus plus"
    ],
    "posted_at": "2026-10-17T01:09:20+00:00",
-   "age_days": 4.7
+   "age_days": 5.2
   },
   {
    "title": "Head of Technology",
@@ -165,7 +141,7 @@
     "front end"
    ],
    "posted_at": "2026-10-16T17:55:35+00:00",
-   "age_days": 5.0
+   "age_days": 5.5
   },
   {
    "title": "Software Engineer, AI Coding Tasks",
@@ -198,7 +174,7 @@
     "infrastructure"
    ],
    "posted_at": "2026-10-17T16:04:29",
-   "age_days": 4.1
+   "age_days": 4.6
   },
   {
    "title": "Senior Fullstack Engineer (all identities)",
@@ -219,7 +195,7 @@
     "professional / experienced"
    ],
    "posted_at": "2026-10-21T15:31:31+00:00",
-   "age_days": 0.1
+   "age_days": 0.6
   },
   {
    "title": "Python Cloud Native Software Engineer (76078)",
@@ -239,7 +215,7 @@
     "unbefristeter arbeitsvertrag"
    ],
    "posted_at": "2026-10-21T15:00:50+00:00",
-   "age_days": 0.1
+   "age_days": 0.6
   }
  ]
 }
