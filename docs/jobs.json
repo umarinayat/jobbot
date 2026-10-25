@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-24T16:24:33+00:00",
- "count": 11,
+ "generated_at": "2026-10-25T05:35:06+00:00",
+ "count": 8,
  "jobs": [
   {
    "title": "Senior DevOps Engineer",
@@ -43,7 +43,7 @@
     "remote work"
    ],
    "posted_at": "2026-10-22T12:58:28+00:00",
-   "age_days": 2.1
+   "age_days": 2.7
   },
   {
    "title": "Senior Software Engineer II Applied AI",
@@ -93,7 +93,7 @@
     "digital nomad"
    ],
    "posted_at": "2026-10-15T16:00:03+00:00",
-   "age_days": 9.0
+   "age_days": 9.6
   },
   {
    "title": "Full-Stack Engineer \u2014 AI Authoring Platform",
@@ -119,30 +119,7 @@
     "professional / experienced"
    ],
    "posted_at": "2026-10-24T14:00:46+00:00",
-   "age_days": 0.1
-  },
-  {
-   "title": "Backend Engineer",
-   "company": "Blockvora",
-   "url": "https://www.arbeitnow.ch/jobs/companies/blockvora/backend-engineer-zug-145470",
-   "location": "Zug",
-   "remote": true,
-   "source": "arbeitnow",
-   "score": 12,
-   "matched_skills": [
-    "node",
-    "node.js",
-    "typescript",
-    "python"
-   ],
-   "tags": [
-    "remote",
-    "software development",
-    "permanent employment",
-    "professional / experienced"
-   ],
-   "posted_at": "2026-10-23T18:00:51+00:00",
-   "age_days": 0.9
+   "age_days": 0.6
   },
   {
    "title": "Senior Frontend Engineer",
@@ -185,7 +162,7 @@
     "digital nomad"
    ],
    "posted_at": "2026-10-23T16:00:12+00:00",
-   "age_days": 1.0
+   "age_days": 1.6
   },
   {
    "title": "Senior Backend Engineer",
@@ -210,7 +187,7 @@
     "node"
    ],
    "posted_at": "2026-10-21T14:29:21+00:00",
-   "age_days": 3.1
+   "age_days": 3.6
   },
   {
    "title": "Software Engineer AI Coding Tasks",
@@ -236,7 +213,7 @@
     "c plus plus"
    ],
    "posted_at": "2026-10-17T01:09:20+00:00",
-   "age_days": 7.6
+   "age_days": 8.2
   },
   {
    "title": "Head of Technology",
@@ -260,7 +237,7 @@
     "front end"
    ],
    "posted_at": "2026-10-16T17:55:35+00:00",
-   "age_days": 7.9
+   "age_days": 8.5
   },
   {
    "title": "Software Engineer, AI Coding Tasks",
@@ -293,47 +270,7 @@
     "infrastructure"
    ],
    "posted_at": "2026-10-17T16:04:29",
-   "age_days": 7.0
-  },
-  {
-   "title": "Blockchain Engineer",
-   "company": "Blockvora",
-   "url": "https://www.arbeitnow.ch/jobs/companies/blockvora/blockchain-engineer-zug-291866",
-   "location": "Zug",
-   "remote": true,
-   "source": "arbeitnow",
-   "score": 6,
-   "matched_skills": [
-    "node",
-    "node.js"
-   ],
-   "tags": [
-    "remote",
-    "software development",
-    "permanent employment",
-    "professional / experienced"
-   ],
-   "posted_at": "2026-10-23T19:00:48+00:00",
-   "age_days": 0.9
-  },
-  {
-   "title": "Python and Kubernetes Software Engineer - Data, Workflows, AI/ML & Analytics",
-   "company": "Canonical",
-   "url": "https://jobicy.com/jobs/149563-python-and-kubernetes-software-engineer-data-workflows-ai-ml-analytics",
-   "location": "Anywhere",
-   "remote": true,
-   "source": "jobicy",
-   "score": 4,
-   "matched_skills": [
-    "python",
-    "ai"
-   ],
-   "tags": [
-    "software engineering",
-    "full-time"
-   ],
-   "posted_at": "2026-10-24T03:40:36+00:00",
-   "age_days": 0.5
+   "age_days": 7.6
   }
  ]
 }
