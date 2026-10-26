@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-26T05:42:34+00:00",
- "count": 7,
+ "generated_at": "2026-10-26T18:59:17+00:00",
+ "count": 9,
  "jobs": [
   {
    "title": "Senior DevOps Engineer",
@@ -43,7 +43,7 @@
     "remote work"
    ],
    "posted_at": "2026-10-22T12:58:28+00:00",
-   "age_days": 3.7
+   "age_days": 4.3
   },
   {
    "title": "Senior Software Engineer II Applied AI",
@@ -93,7 +93,7 @@
     "digital nomad"
    ],
    "posted_at": "2026-10-15T16:00:03+00:00",
-   "age_days": 10.6
+   "age_days": 11.1
   },
   {
    "title": "Senior Frontend Engineer",
@@ -136,7 +136,7 @@
     "digital nomad"
    ],
    "posted_at": "2026-10-23T16:00:12+00:00",
-   "age_days": 2.6
+   "age_days": 3.1
   },
   {
    "title": "Senior Backend Engineer",
@@ -161,7 +161,30 @@
     "node"
    ],
    "posted_at": "2026-10-21T14:29:21+00:00",
-   "age_days": 4.6
+   "age_days": 5.2
+  },
+  {
+   "title": "Java Softwareentwickler/in mit Karriereambitionen - jetzt mit uns voll durchstarten!",
+   "company": "Auralis Group",
+   "url": "https://www.arbeitnow.com/jobs/companies/auralis-group/java-softwareentwickler-in-mit-karriereambitionen-jetzt-mit-uns-voll-durchstarten-berlin-212802",
+   "location": "Berlin",
+   "remote": true,
+   "source": "arbeitnow",
+   "score": 9,
+   "matched_skills": [
+    "react",
+    "vue",
+    "angular",
+    "ai",
+    "azure"
+   ],
+   "tags": [
+    "remote",
+    "software development",
+    "unbefristeter arbeitsvertrag"
+   ],
+   "posted_at": "2026-10-26T16:30:51+00:00",
+   "age_days": 0.1
   },
   {
    "title": "Software Engineer AI Coding Tasks",
@@ -187,7 +210,7 @@
     "c plus plus"
    ],
    "posted_at": "2026-10-17T01:09:20+00:00",
-   "age_days": 9.2
+   "age_days": 9.7
   },
   {
    "title": "Head of Technology",
@@ -211,7 +234,7 @@
     "front end"
    ],
    "posted_at": "2026-10-16T17:55:35+00:00",
-   "age_days": 9.5
+   "age_days": 10.0
   },
   {
    "title": "Software Engineer, AI Coding Tasks",
@@ -244,7 +267,31 @@
     "infrastructure"
    ],
    "posted_at": "2026-10-17T16:04:29",
-   "age_days": 8.6
+   "age_days": 9.1
+  },
+  {
+   "title": "Senior Software Engineer",
+   "company": "Klardaten",
+   "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-klardaten-1137571",
+   "location": "Remote",
+   "remote": true,
+   "source": "remoteok",
+   "score": 6,
+   "matched_skills": [
+    "typescript",
+    "javascript",
+    "ai"
+   ],
+   "tags": [
+    "dev",
+    "senior",
+    "javascript",
+    "typescript",
+    "full stack",
+    "api"
+   ],
+   "posted_at": "2026-10-25T12:34:21+00:00",
+   "age_days": 1.3
   }
  ]
 }
