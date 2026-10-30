@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-30T06:42:53+00:00",
- "count": 11,
+ "generated_at": "2026-10-30T18:22:13+00:00",
+ "count": 9,
  "jobs": [
   {
    "title": "Senior DevOps Engineer",
@@ -43,7 +43,31 @@
     "remote work"
    ],
    "posted_at": "2026-10-22T12:58:28+00:00",
-   "age_days": 7.7
+   "age_days": 8.2
+  },
+  {
+   "title": "Senior Full-Stack Developer (m/w/d) \u2013 Schwerpunkt TypeScript & SaaS-Plattform",
+   "company": "IT Studio Rech GmbH",
+   "url": "https://www.arbeitnow.com/jobs/companies/it-studio-rech-gmbh/senior-full-stack-developer-schwerpunkt-typescript-saas-plattform-berlin-229612",
+   "location": "Berlin",
+   "remote": true,
+   "source": "arbeitnow",
+   "score": 13,
+   "matched_skills": [
+    "react",
+    "node",
+    "node.js",
+    "typescript",
+    "ai"
+   ],
+   "tags": [
+    "remote",
+    "web development",
+    "unbefristeter arbeitsvertrag",
+    "berufserfahren"
+   ],
+   "posted_at": "2026-10-30T12:31:45+00:00",
+   "age_days": 0.2
   },
   {
    "title": "Senior Software Engineer LATAM",
@@ -74,7 +98,7 @@
     "digital nomad"
    ],
    "posted_at": "2026-10-26T08:00:06+00:00",
-   "age_days": 3.9
+   "age_days": 4.4
   },
   {
    "title": "Senior Frontend Engineer",
@@ -117,7 +141,7 @@
     "digital nomad"
    ],
    "posted_at": "2026-10-23T16:00:12+00:00",
-   "age_days": 6.6
+   "age_days": 7.1
   },
   {
    "title": "Senior Backend Engineer",
@@ -142,28 +166,7 @@
     "node"
    ],
    "posted_at": "2026-10-21T14:29:21+00:00",
-   "age_days": 8.7
-  },
-  {
-   "title": "Sales Engineer (EMEA)",
-   "company": "Constructor",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/constructor/remote-sales-engineer-emea-473220",
-   "location": "Remote",
-   "remote": true,
-   "source": "arbeitnow",
-   "score": 9,
-   "matched_skills": [
-    "typescript",
-    "javascript",
-    "python",
-    "ai"
-   ],
-   "tags": [
-    "sales",
-    "full time"
-   ],
-   "posted_at": "2026-10-30T00:40:16+00:00",
-   "age_days": 0.3
+   "age_days": 9.2
   },
   {
    "title": "Senior AWS Platform Engineer",
@@ -185,30 +188,7 @@
     "fulltime permanent"
    ],
    "posted_at": "2026-10-29T18:31:07+00:00",
-   "age_days": 0.5
-  },
-  {
-   "title": "Senior Product Engineer (AI)",
-   "company": "Tellent",
-   "url": "https://www.arbeitnow.nl/jobs/companies/tellent/remote-senior-product-engineer-ai-amsterdam-25086",
-   "location": "Remote job",
-   "remote": true,
-   "source": "arbeitnow",
-   "score": 9,
-   "matched_skills": [
-    "typescript",
-    "python",
-    "llm",
-    "ai"
-   ],
-   "tags": [
-    "1. r&d",
-    "remote",
-    "mid",
-    "fulltime fixed term"
-   ],
-   "posted_at": "2026-10-29T15:31:20+00:00",
-   "age_days": 0.6
+   "age_days": 1.0
   },
   {
    "title": "Software Engineer AI Coding Tasks",
@@ -234,31 +214,7 @@
     "c plus plus"
    ],
    "posted_at": "2026-10-17T01:09:20+00:00",
-   "age_days": 13.2
-  },
-  {
-   "title": "Head of Technology",
-   "company": "Sanctuary Computer",
-   "url": "https://remoteOK.com/remote-jobs/remote-head-of-technology-sanctuary-computer-1137537",
-   "location": "Remote",
-   "remote": true,
-   "source": "remoteok",
-   "score": 9,
-   "matched_skills": [
-    "react",
-    "typescript",
-    "next.js",
-    "postgres"
-   ],
-   "tags": [
-    "dev",
-    "engineer",
-    "senior",
-    "full stack",
-    "front end"
-   ],
-   "posted_at": "2026-10-16T17:55:35+00:00",
-   "age_days": 13.5
+   "age_days": 13.7
   },
   {
    "title": "Software Engineer, AI Coding Tasks",
@@ -291,7 +247,7 @@
     "infrastructure"
    ],
    "posted_at": "2026-10-17T16:04:29",
-   "age_days": 12.6
+   "age_days": 13.1
   },
   {
    "title": "Senior Software Engineer",
@@ -315,7 +271,7 @@
     "api"
    ],
    "posted_at": "2026-10-25T12:34:21+00:00",
-   "age_days": 4.8
+   "age_days": 5.2
   }
  ]
 }
