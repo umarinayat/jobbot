@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-31T06:33:33+00:00",
- "count": 6,
+ "generated_at": "2026-10-31T17:28:55+00:00",
+ "count": 7,
  "jobs": [
   {
    "title": "Senior DevOps Engineer",
@@ -43,7 +43,55 @@
     "remote work"
    ],
    "posted_at": "2026-10-22T12:58:28+00:00",
-   "age_days": 8.7
+   "age_days": 9.2
+  },
+  {
+   "title": "Full-Stack Developer",
+   "company": "Fluence International, Inc.",
+   "url": "https://remotive.com/remote-jobs/software-development/full-stack-developer-2091165",
+   "location": "Worldwide",
+   "remote": true,
+   "source": "remotive",
+   "score": 13,
+   "matched_skills": [
+    "react",
+    "typescript",
+    "javascript",
+    "next.js",
+    "llm",
+    "ai"
+   ],
+   "tags": [
+    "admin",
+    "api",
+    "aws",
+    "backend",
+    "cloud",
+    "docker",
+    "frontend",
+    "fullstack",
+    "javascript",
+    "react",
+    "security",
+    "ui/ux",
+    "ai/ml",
+    "automation",
+    "documentation",
+    "healthcare",
+    "typescript",
+    "web applications",
+    "solid",
+    "json",
+    "serverless",
+    "next.js",
+    "github",
+    "rest",
+    "mental health",
+    "baas",
+    "datadog"
+   ],
+   "posted_at": "2026-10-29T18:22:41",
+   "age_days": 2.0
   },
   {
    "title": "Senior Software Engineer LATAM",
@@ -74,7 +122,7 @@
     "digital nomad"
    ],
    "posted_at": "2026-10-26T08:00:06+00:00",
-   "age_days": 4.9
+   "age_days": 5.4
   },
   {
    "title": "Senior Frontend Engineer",
@@ -117,7 +165,7 @@
     "digital nomad"
    ],
    "posted_at": "2026-10-23T16:00:12+00:00",
-   "age_days": 7.6
+   "age_days": 8.1
   },
   {
    "title": "Senior Backend Engineer",
@@ -142,40 +190,7 @@
     "node"
    ],
    "posted_at": "2026-10-21T14:29:21+00:00",
-   "age_days": 9.7
-  },
-  {
-   "title": "Software Engineer, AI Coding Tasks",
-   "company": "Askable",
-   "url": "https://remotive.com/remote-jobs/software-development/software-engineer-ai-coding-tasks-2091158",
-   "location": "Worldwide",
-   "remote": true,
-   "source": "remotive",
-   "score": 7,
-   "matched_skills": [
-    "typescript",
-    "python",
-    "ai"
-   ],
-   "tags": [
-    "c++",
-    "docker",
-    "git",
-    "go",
-    "java",
-    "python",
-    "security",
-    "ai/ml",
-    "rust",
-    "typescript",
-    "distributed systems",
-    "solid",
-    "linux/unix",
-    "testing",
-    "infrastructure"
-   ],
-   "posted_at": "2026-10-17T16:04:29",
-   "age_days": 13.6
+   "age_days": 10.1
   },
   {
    "title": "Senior Software Engineer",
@@ -199,7 +214,26 @@
     "api"
    ],
    "posted_at": "2026-10-25T12:34:21+00:00",
-   "age_days": 5.7
+   "age_days": 6.2
+  },
+  {
+   "title": "Senior Product Builder - Hub",
+   "company": "Camunda",
+   "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-product-builder-hub-71141",
+   "location": "Remote",
+   "remote": true,
+   "source": "arbeitnow",
+   "score": 4,
+   "matched_skills": [
+    "react",
+    "ai"
+   ],
+   "tags": [
+    "products",
+    "full time"
+   ],
+   "posted_at": "2026-10-31T15:40:13+00:00",
+   "age_days": 0.1
   }
  ]
 }
