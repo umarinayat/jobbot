@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-04T07:10:18+00:00",
- "count": 6,
+ "generated_at": "2026-11-04T20:13:05+00:00",
+ "count": 7,
  "jobs": [
   {
    "title": "Senior DevOps Engineer",
@@ -43,7 +43,7 @@
     "remote work"
    ],
    "posted_at": "2026-10-22T12:58:28+00:00",
-   "age_days": 12.8
+   "age_days": 13.3
   },
   {
    "title": "Full-Stack Developer",
@@ -91,7 +91,7 @@
     "datadog"
    ],
    "posted_at": "2026-10-29T18:22:41",
-   "age_days": 5.5
+   "age_days": 6.1
   },
   {
    "title": "Senior Software Engineer LATAM",
@@ -122,54 +122,51 @@
     "digital nomad"
    ],
    "posted_at": "2026-10-26T08:00:06+00:00",
-   "age_days": 9.0
+   "age_days": 9.5
   },
   {
-   "title": "Senior Backend Engineer",
-   "company": "DuckDuckGo",
-   "url": "https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-duckduckgo-1137551",
+   "title": "Tech lead",
+   "company": "Ringbook Limited",
+   "url": "https://remoteOK.com/remote-jobs/remote-tech-lead-ringbook-limited-1137673",
    "location": "Remote",
    "remote": true,
    "source": "remoteok",
-   "score": 11,
+   "score": 7,
    "matched_skills": [
-    "node",
-    "node.js",
-    "javascript",
-    "ai",
-    "rag"
+    "react",
+    "typescript",
+    "ai"
    ],
    "tags": [
-    "backend",
-    "perl",
-    "golang",
-    "javascript",
-    "node"
+    "dev",
+    "exec",
+    "accounting",
+    "saas"
    ],
-   "posted_at": "2026-10-21T14:29:21+00:00",
-   "age_days": 13.7
+   "posted_at": "2026-11-03T14:53:55+00:00",
+   "age_days": 1.2
   },
   {
-   "title": "Full-Stack-Entwickler*in (Next.js) \u2013 Remote",
-   "company": "Itze-Bits GmbH",
-   "url": "https://www.arbeitnow.com/jobs/companies/itze-bits-gmbh/full-stack-entwicklerin-nextjs-remote-berlin-336824",
+   "title": "Software Developer .NET C# (all genders)",
+   "company": "Vexcash AG",
+   "url": "https://www.arbeitnow.com/jobs/companies/vexcash-ag/software-developer-net-c-all-genders-berlin-300964",
    "location": "Berlin",
    "remote": true,
    "source": "arbeitnow",
    "score": 6,
    "matched_skills": [
     "typescript",
-    "next.js",
-    "ai"
+    "javascript",
+    "azure"
    ],
    "tags": [
     "remote",
-    "web development",
-    "werkstudent",
-    "working student",
-    "berufserfahren"
+    "private banking",
+    "freelancer / indepedent contractor",
+    "freelance",
+    "professional / experienced"
    ],
-   "posted_at": "2026-11-03T23:00:34+00:00",
+   "posted_at": "2026-11-04T14:00:56+00:00",
    "age_days": 0.3
   },
   {
@@ -194,7 +191,28 @@
     "api"
    ],
    "posted_at": "2026-10-25T12:34:21+00:00",
-   "age_days": 9.8
+   "age_days": 10.3
+  },
+  {
+   "title": "Python / Django Entwickler (m/w/d) \u2013 Fullstack, REST, CI/CD",
+   "company": "Rockstardevelopers GmbH",
+   "url": "https://www.arbeitnow.com/jobs/companies/rockstardevelopers-gmbh/python-django-entwickler-fullstack-rest-ci-cd-stuttgart-166406",
+   "location": "Stuttgart",
+   "remote": true,
+   "source": "arbeitnow",
+   "score": 5,
+   "matched_skills": [
+    "javascript",
+    "python"
+   ],
+   "tags": [
+    "remote",
+    "software development",
+    "unbefristeter arbeitsvertrag",
+    "berufserfahren"
+   ],
+   "posted_at": "2026-11-04T15:30:58+00:00",
+   "age_days": 0.2
   }
  ]
 }
