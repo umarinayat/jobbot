@@ -1,49 +1,32 @@
 {
- "generated_at": "2026-11-05T07:38:26+00:00",
- "count": 5,
+ "generated_at": "2026-11-05T20:26:45+00:00",
+ "count": 6,
  "jobs": [
   {
-   "title": "Senior DevOps Engineer",
-   "company": "Lemon.io",
-   "url": "https://remoteOK.com/remote-jobs/remote-senior-devops-engineer-lemon-io-1137557",
+   "title": "Software Engineer",
+   "company": "Claims",
+   "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-claims-1137685",
    "location": "Remote",
    "remote": true,
    "source": "remoteok",
-   "score": 27,
+   "score": 17,
    "matched_skills": [
     "react",
-    "node",
-    "node.js",
     "typescript",
     "javascript",
     "python",
-    "vue",
-    "angular",
     "next.js",
+    "fastapi",
     "llm",
-    "ai",
-    "azure"
+    "ai"
    ],
    "tags": [
-    "devops",
-    "engineer",
     "dev",
-    "python",
-    "golang",
-    "aws",
-    "gcp",
-    "kubernetes",
-    "sql",
-    "linux",
-    "ansible",
     "ai",
-    "full time",
-    "full stack",
-    "remote",
-    "remote work"
+    "blockchain"
    ],
-   "posted_at": "2026-10-22T12:58:28+00:00",
-   "age_days": 13.8
+   "posted_at": "2026-11-04T15:09:09+00:00",
+   "age_days": 1.2
   },
   {
    "title": "Full-Stack Developer",
@@ -91,7 +74,7 @@
     "datadog"
    ],
    "posted_at": "2026-10-29T18:22:41",
-   "age_days": 6.6
+   "age_days": 7.1
   },
   {
    "title": "Senior Software Engineer LATAM",
@@ -122,7 +105,7 @@
     "digital nomad"
    ],
    "posted_at": "2026-10-26T08:00:06+00:00",
-   "age_days": 10.0
+   "age_days": 10.5
   },
   {
    "title": "Tech lead",
@@ -144,7 +127,28 @@
     "saas"
    ],
    "posted_at": "2026-11-03T14:53:55+00:00",
-   "age_days": 1.7
+   "age_days": 2.2
+  },
+  {
+   "title": "Blockchain Engineer",
+   "company": "Blockvora",
+   "url": "https://www.arbeitnow.ch/jobs/companies/blockvora/blockchain-engineer-zug-400842",
+   "location": "Zug",
+   "remote": true,
+   "source": "arbeitnow",
+   "score": 6,
+   "matched_skills": [
+    "node",
+    "node.js"
+   ],
+   "tags": [
+    "remote",
+    "software development",
+    "permanent employment",
+    "professional / experienced"
+   ],
+   "posted_at": "2026-11-05T17:31:13+00:00",
+   "age_days": 0.1
   },
   {
    "title": "Senior Software Engineer",
@@ -168,7 +172,7 @@
     "api"
    ],
    "posted_at": "2026-10-25T12:34:21+00:00",
-   "age_days": 10.8
+   "age_days": 11.3
   }
  ]
 }
