@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-05T20:26:45+00:00",
- "count": 6,
+ "generated_at": "2026-11-06T07:34:31+00:00",
+ "count": 8,
  "jobs": [
   {
    "title": "Software Engineer",
@@ -26,7 +26,7 @@
     "blockchain"
    ],
    "posted_at": "2026-11-04T15:09:09+00:00",
-   "age_days": 1.2
+   "age_days": 1.7
   },
   {
    "title": "Full-Stack Developer",
@@ -74,7 +74,7 @@
     "datadog"
    ],
    "posted_at": "2026-10-29T18:22:41",
-   "age_days": 7.1
+   "age_days": 7.5
   },
   {
    "title": "Senior Software Engineer LATAM",
@@ -105,7 +105,30 @@
     "digital nomad"
    ],
    "posted_at": "2026-10-26T08:00:06+00:00",
-   "age_days": 10.5
+   "age_days": 11.0
+  },
+  {
+   "title": "Senior/Staff Product Engineer (Full Stack) (m/f/d)",
+   "company": "epilot GmbH",
+   "url": "https://www.arbeitnow.com/jobs/companies/epilot-gmbh/remote-senior-staff-product-engineer-full-stack-koln-16323",
+   "location": "Remote job",
+   "remote": true,
+   "source": "arbeitnow",
+   "score": 9,
+   "matched_skills": [
+    "react",
+    "typescript",
+    "javascript",
+    "azure"
+   ],
+   "tags": [
+    "tech",
+    "remote",
+    "experienced",
+    "fulltime"
+   ],
+   "posted_at": "2026-11-06T03:31:45+00:00",
+   "age_days": 0.2
   },
   {
    "title": "Tech lead",
@@ -127,7 +150,7 @@
     "saas"
    ],
    "posted_at": "2026-11-03T14:53:55+00:00",
-   "age_days": 2.2
+   "age_days": 2.7
   },
   {
    "title": "Blockchain Engineer",
@@ -148,7 +171,7 @@
     "professional / experienced"
    ],
    "posted_at": "2026-11-05T17:31:13+00:00",
-   "age_days": 0.1
+   "age_days": 0.6
   },
   {
    "title": "Senior Software Engineer",
@@ -172,7 +195,26 @@
     "api"
    ],
    "posted_at": "2026-10-25T12:34:21+00:00",
-   "age_days": 11.3
+   "age_days": 11.8
+  },
+  {
+   "title": "Software Engineer, Operations Research",
+   "company": "Circuithub",
+   "url": "https://www.arbeitnow.com/jobs/companies/circuithub/remote-software-engineer-operations-research-57308",
+   "location": "Remote",
+   "remote": true,
+   "source": "arbeitnow",
+   "score": 4,
+   "matched_skills": [
+    "python",
+    "ai"
+   ],
+   "tags": [
+    "software engineering",
+    "full time"
+   ],
+   "posted_at": "2026-11-06T06:40:11+00:00",
+   "age_days": 0.0
   }
  ]
 }
