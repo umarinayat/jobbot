@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-08T06:53:09+00:00",
- "count": 10,
+ "generated_at": "2026-11-08T18:12:26+00:00",
+ "count": 8,
  "jobs": [
   {
    "title": "Senior Vue Developer",
@@ -41,7 +41,7 @@
     "front end"
    ],
    "posted_at": "2026-11-05T12:45:45+00:00",
-   "age_days": 2.8
+   "age_days": 3.2
   },
   {
    "title": "Software Engineer",
@@ -67,7 +67,7 @@
     "blockchain"
    ],
    "posted_at": "2026-11-04T15:09:09+00:00",
-   "age_days": 3.7
+   "age_days": 4.1
   },
   {
    "title": "Feltsense AI Engineer",
@@ -105,7 +105,7 @@
     "digital nomad"
    ],
    "posted_at": "2026-11-05T16:00:07+00:00",
-   "age_days": 2.6
+   "age_days": 3.1
   },
   {
    "title": "Full-Stack Developer",
@@ -153,7 +153,7 @@
     "datadog"
    ],
    "posted_at": "2026-10-29T18:22:41",
-   "age_days": 9.5
+   "age_days": 10.0
   },
   {
    "title": "Senior Software Engineer LATAM",
@@ -184,7 +184,7 @@
     "digital nomad"
    ],
    "posted_at": "2026-10-26T08:00:06+00:00",
-   "age_days": 13.0
+   "age_days": 13.4
   },
   {
    "title": "AI Developer",
@@ -225,7 +225,7 @@
     "digital nomad"
    ],
    "posted_at": "2026-11-07T00:00:02+00:00",
-   "age_days": 1.3
+   "age_days": 1.8
   },
   {
    "title": "Tech lead",
@@ -247,69 +247,26 @@
     "saas"
    ],
    "posted_at": "2026-11-03T14:53:55+00:00",
-   "age_days": 4.7
+   "age_days": 5.1
   },
   {
-   "title": "Senior Software Engineer",
-   "company": "Klardaten",
-   "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-klardaten-1137571",
-   "location": "Remote",
-   "remote": true,
-   "source": "remoteok",
-   "score": 6,
-   "matched_skills": [
-    "typescript",
-    "javascript",
-    "ai"
-   ],
-   "tags": [
-    "dev",
-    "senior",
-    "javascript",
-    "typescript",
-    "full stack",
-    "api"
-   ],
-   "posted_at": "2026-10-25T12:34:21+00:00",
-   "age_days": 13.8
-  },
-  {
-   "title": "Full-Stack Engineer (Backend Leaning) - Payments Engineering",
-   "company": "ElevenLabs",
-   "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-full-stack-engineer-backend-leaning-payments-engineering-222551",
+   "title": "Senior Fullstack Software Engineer (Ruby/React & TS)",
+   "company": "Pennylane SAS",
+   "url": "https://www.arbeitnow.fr/jobs/companies/pennylane-sas/remote-senior-fullstack-software-engineer-ruby-react-ts-388753",
    "location": "Remote",
    "remote": true,
    "source": "arbeitnow",
    "score": 4,
    "matched_skills": [
-    "python",
+    "react",
     "ai"
    ],
    "tags": [
-    "engineering & product",
+    "tech",
     "full time"
    ],
-   "posted_at": "2026-11-08T00:40:11+00:00",
-   "age_days": 0.3
-  },
-  {
-   "title": "Full-Stack Engineer (Backend Leaning) - Platform Engineering",
-   "company": "ElevenLabs",
-   "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-full-stack-engineer-backend-leaning-platform-engineering-280315",
-   "location": "Remote",
-   "remote": true,
-   "source": "arbeitnow",
-   "score": 4,
-   "matched_skills": [
-    "python",
-    "ai"
-   ],
-   "tags": [
-    "engineering & product",
-    "full time"
-   ],
-   "posted_at": "2026-11-08T00:40:11+00:00",
-   "age_days": 0.3
+   "posted_at": "2026-11-08T15:40:18+00:00",
+   "age_days": 0.1
   }
  ]
 }
