@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-09T07:33:16+00:00",
- "count": 8,
+ "generated_at": "2026-11-09T22:49:58+00:00",
+ "count": 7,
  "jobs": [
   {
    "title": "Senior Vue Developer",
@@ -41,7 +41,7 @@
     "front end"
    ],
    "posted_at": "2026-11-05T12:45:45+00:00",
-   "age_days": 3.8
+   "age_days": 4.4
   },
   {
    "title": "Software Engineer",
@@ -67,7 +67,7 @@
     "blockchain"
    ],
    "posted_at": "2026-11-04T15:09:09+00:00",
-   "age_days": 4.7
+   "age_days": 5.3
   },
   {
    "title": "Feltsense AI Engineer",
@@ -105,7 +105,7 @@
     "digital nomad"
    ],
    "posted_at": "2026-11-05T16:00:07+00:00",
-   "age_days": 3.6
+   "age_days": 4.3
   },
   {
    "title": "Full-Stack Developer",
@@ -153,38 +153,7 @@
     "datadog"
    ],
    "posted_at": "2026-10-29T18:22:41",
-   "age_days": 10.5
-  },
-  {
-   "title": "Senior Software Engineer LATAM",
-   "company": "Wagmo",
-   "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-latam-wagmo-1137572",
-   "location": "Remote",
-   "remote": true,
-   "source": "remoteok",
-   "score": 12,
-   "matched_skills": [
-    "react",
-    "typescript",
-    "python",
-    "llm",
-    "ai"
-   ],
-   "tags": [
-    "dev",
-    "design",
-    "react",
-    "sys admin",
-    "python",
-    "django",
-    "typescript",
-    "senior",
-    "medical",
-    "engineer",
-    "digital nomad"
-   ],
-   "posted_at": "2026-10-26T08:00:06+00:00",
-   "age_days": 14.0
+   "age_days": 11.2
   },
   {
    "title": "AI Developer",
@@ -225,7 +194,7 @@
     "digital nomad"
    ],
    "posted_at": "2026-11-07T00:00:02+00:00",
-   "age_days": 2.3
+   "age_days": 3.0
   },
   {
    "title": "Tech lead",
@@ -247,26 +216,43 @@
     "saas"
    ],
    "posted_at": "2026-11-03T14:53:55+00:00",
-   "age_days": 5.7
+   "age_days": 6.3
   },
   {
-   "title": "Senior Fullstack Software Engineer (Ruby/React & TS)",
-   "company": "Pennylane SAS",
-   "url": "https://www.arbeitnow.fr/jobs/companies/pennylane-sas/remote-senior-fullstack-software-engineer-ruby-react-ts-388753",
-   "location": "Remote",
+   "title": "UI Developer",
+   "company": "RainFocus",
+   "url": "https://remoteOK.com/remote-jobs/remote-ui-developer-rainfocus-1137704",
+   "location": "Any State",
    "remote": true,
-   "source": "arbeitnow",
-   "score": 4,
+   "source": "remoteok",
+   "score": 5,
    "matched_skills": [
     "react",
-    "ai"
+    "javascript"
    ],
    "tags": [
-    "tech",
-    "full time"
+    "dev",
+    "design",
+    "react",
+    "front end",
+    "customer support",
+    "web dev",
+    "javascript",
+    "java",
+    "css",
+    "html",
+    "git",
+    "exec",
+    "senior",
+    "ops",
+    "marketing",
+    "photoshop",
+    "ads",
+    "backend",
+    "digital nomad"
    ],
-   "posted_at": "2026-11-08T15:40:18+00:00",
-   "age_days": 0.7
+   "posted_at": "2026-11-08T16:00:03+00:00",
+   "age_days": 1.3
   }
  ]
 }
