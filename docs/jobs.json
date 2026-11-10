@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T07:57:10+00:00",
+ "generated_at": "2026-11-10T20:09:48+00:00",
  "count": 7,
  "jobs": [
   {
@@ -41,7 +41,7 @@
     "front end"
    ],
    "posted_at": "2026-11-05T12:45:45+00:00",
-   "age_days": 4.8
+   "age_days": 5.3
   },
   {
    "title": "Software Engineer",
@@ -67,7 +67,7 @@
     "blockchain"
    ],
    "posted_at": "2026-11-04T15:09:09+00:00",
-   "age_days": 5.7
+   "age_days": 6.2
   },
   {
    "title": "Feltsense AI Engineer",
@@ -105,7 +105,7 @@
     "digital nomad"
    ],
    "posted_at": "2026-11-05T16:00:07+00:00",
-   "age_days": 4.7
+   "age_days": 5.2
   },
   {
    "title": "Full-Stack Developer",
@@ -153,7 +153,7 @@
     "datadog"
    ],
    "posted_at": "2026-10-29T18:22:41",
-   "age_days": 11.6
+   "age_days": 12.1
   },
   {
    "title": "AI Developer",
@@ -194,7 +194,7 @@
     "digital nomad"
    ],
    "posted_at": "2026-11-07T00:00:02+00:00",
-   "age_days": 3.3
+   "age_days": 3.8
   },
   {
    "title": "Tech lead",
@@ -216,7 +216,7 @@
     "saas"
    ],
    "posted_at": "2026-11-03T14:53:55+00:00",
-   "age_days": 6.7
+   "age_days": 7.2
   },
   {
    "title": "UI Developer",
@@ -252,7 +252,7 @@
     "digital nomad"
    ],
    "posted_at": "2026-11-08T16:00:03+00:00",
-   "age_days": 1.7
+   "age_days": 2.2
   }
  ]
 }
