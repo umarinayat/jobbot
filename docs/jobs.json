@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-13T07:32:43+00:00",
- "count": 7,
+ "generated_at": "2026-11-13T20:14:24+00:00",
+ "count": 9,
  "jobs": [
   {
    "title": "Senior React Full-stack Developer",
@@ -74,7 +74,7 @@
     "flutter"
    ],
    "posted_at": "2026-11-10T14:25:05",
-   "age_days": 2.7
+   "age_days": 3.2
   },
   {
    "title": "Senior Vue Developer",
@@ -115,7 +115,83 @@
     "front end"
    ],
    "posted_at": "2026-11-05T12:45:45+00:00",
-   "age_days": 7.8
+   "age_days": 8.3
+  },
+  {
+   "title": "Senior Data Engineer",
+   "company": "Lemon.io",
+   "url": "https://remotive.com/remote-jobs/data/senior-data-engineer-2091137",
+   "location": "LATAM, Europe, USA, Canada, APAC",
+   "remote": true,
+   "source": "remotive",
+   "score": 27,
+   "matched_skills": [
+    "react",
+    "node",
+    "node.js",
+    "typescript",
+    "javascript",
+    "python",
+    "vue",
+    "angular",
+    "next.js",
+    "llm",
+    "ai",
+    "azure"
+   ],
+   "tags": [
+    ".net",
+    "android",
+    "apache",
+    "aws",
+    "azure",
+    "c",
+    "c#",
+    "c++",
+    "data science",
+    "fullstack",
+    "golang",
+    "ios",
+    "java",
+    "javascript",
+    "magento",
+    "node.js",
+    "php",
+    "python",
+    "react",
+    "ruby/rails",
+    "scala",
+    "shopify",
+    "sql",
+    "swift",
+    "ui/ux",
+    "wordpress",
+    "blockchain",
+    "ai/ml",
+    "automation",
+    "project management",
+    "react native",
+    "rust",
+    "unity",
+    "electron",
+    "spring",
+    "data analysis",
+    "laravel",
+    "ethereum",
+    "graphic design",
+    "typescript",
+    "angular",
+    "gcp",
+    "firebase",
+    "snowflake",
+    "site reliability",
+    "symfony",
+    "next.js",
+    "infrastructure",
+    "flutter"
+   ],
+   "posted_at": "2026-11-11T18:39:59",
+   "age_days": 2.1
   },
   {
    "title": "Software Engineer",
@@ -141,7 +217,7 @@
     "blockchain"
    ],
    "posted_at": "2026-11-04T15:09:09+00:00",
-   "age_days": 8.7
+   "age_days": 9.2
   },
   {
    "title": "Feltsense AI Engineer",
@@ -179,7 +255,29 @@
     "digital nomad"
    ],
    "posted_at": "2026-11-05T16:00:07+00:00",
-   "age_days": 7.6
+   "age_days": 8.2
+  },
+  {
+   "title": "Senior Cloud Engineer",
+   "company": "Luscii",
+   "url": "https://www.arbeitnow.nl/jobs/companies/luscii/remote-senior-cloud-engineer-utrecht-183144",
+   "location": "Remote job",
+   "remote": true,
+   "source": "arbeitnow",
+   "score": 9,
+   "matched_skills": [
+    "node",
+    "node.js",
+    "typescript"
+   ],
+   "tags": [
+    "software development",
+    "remote",
+    "mid",
+    "fulltime permanent"
+   ],
+   "posted_at": "2026-11-13T09:31:33+00:00",
+   "age_days": 0.4
   },
   {
    "title": "AI Developer",
@@ -220,7 +318,7 @@
     "digital nomad"
    ],
    "posted_at": "2026-11-07T00:00:02+00:00",
-   "age_days": 6.3
+   "age_days": 6.8
   },
   {
    "title": "Tech lead",
@@ -242,7 +340,7 @@
     "saas"
    ],
    "posted_at": "2026-11-03T14:53:55+00:00",
-   "age_days": 9.7
+   "age_days": 10.2
   },
   {
    "title": "UI Developer",
@@ -278,7 +376,7 @@
     "digital nomad"
    ],
    "posted_at": "2026-11-08T16:00:03+00:00",
-   "age_days": 4.6
+   "age_days": 5.2
   }
  ]
 }
