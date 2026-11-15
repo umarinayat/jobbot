@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T07:27:31+00:00",
+ "generated_at": "2026-11-15T19:13:02+00:00",
  "count": 9,
  "jobs": [
   {
@@ -74,7 +74,7 @@
     "flutter"
    ],
    "posted_at": "2026-11-10T14:25:05",
-   "age_days": 4.7
+   "age_days": 5.2
   },
   {
    "title": "Senior Vue Developer",
@@ -115,7 +115,7 @@
     "front end"
    ],
    "posted_at": "2026-11-05T12:45:45+00:00",
-   "age_days": 9.8
+   "age_days": 10.3
   },
   {
    "title": "Senior Data Engineer",
@@ -191,7 +191,7 @@
     "flutter"
    ],
    "posted_at": "2026-11-11T18:39:59",
-   "age_days": 3.5
+   "age_days": 4.0
   },
   {
    "title": "Software Engineer",
@@ -217,7 +217,7 @@
     "blockchain"
    ],
    "posted_at": "2026-11-04T15:09:09+00:00",
-   "age_days": 10.7
+   "age_days": 11.2
   },
   {
    "title": "Feltsense AI Engineer",
@@ -255,7 +255,7 @@
     "digital nomad"
    ],
    "posted_at": "2026-11-05T16:00:07+00:00",
-   "age_days": 9.6
+   "age_days": 10.1
   },
   {
    "title": "Software Engineer AI Tooling",
@@ -289,7 +289,7 @@
     "digital nomad"
    ],
    "posted_at": "2026-11-13T00:00:15+00:00",
-   "age_days": 2.3
+   "age_days": 2.8
   },
   {
    "title": "Tech lead",
@@ -311,7 +311,7 @@
     "saas"
    ],
    "posted_at": "2026-11-03T14:53:55+00:00",
-   "age_days": 11.7
+   "age_days": 12.2
   },
   {
    "title": "UI Developer",
@@ -347,7 +347,7 @@
     "digital nomad"
    ],
    "posted_at": "2026-11-08T16:00:03+00:00",
-   "age_days": 6.6
+   "age_days": 7.1
   },
   {
    "title": "AI Integration & Automation Engineer (m/w/d) GER",
@@ -368,7 +368,7 @@
     "fulltime permanent"
    ],
    "posted_at": "2026-11-14T21:31:26+00:00",
-   "age_days": 0.4
+   "age_days": 0.9
   }
  ]
 }
