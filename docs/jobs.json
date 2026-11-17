@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-17T08:44:56+00:00",
- "count": 10,
+ "generated_at": "2026-11-17T21:28:15+00:00",
+ "count": 8,
  "jobs": [
   {
    "title": "Senior React Full-stack Developer",
@@ -74,7 +74,7 @@
     "flutter"
    ],
    "posted_at": "2026-11-10T14:25:05",
-   "age_days": 6.8
+   "age_days": 7.3
   },
   {
    "title": "Senior Vue Developer",
@@ -115,7 +115,7 @@
     "front end"
    ],
    "posted_at": "2026-11-05T12:45:45+00:00",
-   "age_days": 11.8
+   "age_days": 12.4
   },
   {
    "title": "Senior Data Engineer",
@@ -191,7 +191,7 @@
     "flutter"
    ],
    "posted_at": "2026-11-11T18:39:59",
-   "age_days": 5.6
+   "age_days": 6.1
   },
   {
    "title": "Software Engineer",
@@ -217,7 +217,7 @@
     "blockchain"
    ],
    "posted_at": "2026-11-04T15:09:09+00:00",
-   "age_days": 12.7
+   "age_days": 13.3
   },
   {
    "title": "Feltsense AI Engineer",
@@ -255,52 +255,27 @@
     "digital nomad"
    ],
    "posted_at": "2026-11-05T16:00:07+00:00",
-   "age_days": 11.7
+   "age_days": 12.2
   },
   {
-   "title": "Full Stack Senior Software Developer",
-   "company": "cross-ING AG",
-   "url": "https://www.arbeitnow.ch/jobs/companies/cross-ing-ag/remote-full-stack-senior-software-developer-bern-25676",
-   "location": "Homeoffice",
-   "remote": true,
-   "source": "arbeitnow",
-   "score": 11,
-   "matched_skills": [
-    "react",
-    "javascript",
-    "vue",
-    "vue.js",
-    "mongodb"
-   ],
-   "tags": [
-    "mehrere standorte",
-    "remote",
-    "mid",
-    "fulltime permanent"
-   ],
-   "posted_at": "2026-11-16T15:31:20+00:00",
-   "age_days": 0.7
-  },
-  {
-   "title": "Software Engineer \u2013 Desktop Automation / RPA (m/w/d)",
-   "company": "Recare Deutschland GmbH",
-   "url": "https://www.arbeitnow.com/jobs/companies/recare-deutschland-gmbh/remote-software-engineer-desktop-automation-rpa-berlin-169089",
-   "location": "Remote job",
+   "title": "Software Engineer (Data)",
+   "company": "Codat",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/codat/remote-software-engineer-data-302207",
+   "location": "Remote",
    "remote": true,
    "source": "arbeitnow",
    "score": 7,
    "matched_skills": [
-    "node",
-    "typescript",
-    "ai"
+    "python",
+    "llm",
+    "ai",
+    "azure"
    ],
    "tags": [
     "engineering",
-    "remote",
-    "mid",
-    "fulltime permanent"
+    "full time"
    ],
-   "posted_at": "2026-11-17T06:51:27+00:00",
+   "posted_at": "2026-11-17T18:40:17+00:00",
    "age_days": 0.1
   },
   {
@@ -335,30 +310,7 @@
     "digital nomad"
    ],
    "posted_at": "2026-11-13T00:00:15+00:00",
-   "age_days": 4.4
-  },
-  {
-   "title": "Senior Frontend Entwickler:in (UX/UI)",
-   "company": "Coopers Group AG",
-   "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/senior-frontend-entwicklerin-ux-ui-lucerne-54073",
-   "location": "Lucerne",
-   "remote": true,
-   "source": "arbeitnow",
-   "score": 6,
-   "matched_skills": [
-    "typescript",
-    "angular",
-    "ai"
-   ],
-   "tags": [
-    "remote",
-    "software development",
-    "befristeter arbeitsvertrag",
-    "contract",
-    "berufserfahren"
-   ],
-   "posted_at": "2026-11-16T15:31:24+00:00",
-   "age_days": 0.7
+   "age_days": 4.9
   },
   {
    "title": "UI Developer",
@@ -394,7 +346,7 @@
     "digital nomad"
    ],
    "posted_at": "2026-11-08T16:00:03+00:00",
-   "age_days": 8.7
+   "age_days": 9.2
   }
  ]
 }
