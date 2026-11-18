@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-18T08:08:22+00:00",
- "count": 10,
+ "generated_at": "2026-11-18T21:03:10+00:00",
+ "count": 7,
  "jobs": [
   {
    "title": "Senior React Full-stack Developer",
@@ -74,7 +74,7 @@
     "flutter"
    ],
    "posted_at": "2026-11-10T14:25:05",
-   "age_days": 7.7
+   "age_days": 8.3
   },
   {
    "title": "Senior Vue Developer",
@@ -115,7 +115,7 @@
     "front end"
    ],
    "posted_at": "2026-11-05T12:45:45+00:00",
-   "age_days": 12.8
+   "age_days": 13.3
   },
   {
    "title": "Senior Data Engineer",
@@ -191,33 +191,7 @@
     "flutter"
    ],
    "posted_at": "2026-11-11T18:39:59",
-   "age_days": 6.6
-  },
-  {
-   "title": "Software Engineer",
-   "company": "Claims",
-   "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-claims-1137685",
-   "location": "Remote",
-   "remote": true,
-   "source": "remoteok",
-   "score": 17,
-   "matched_skills": [
-    "react",
-    "typescript",
-    "javascript",
-    "python",
-    "next.js",
-    "fastapi",
-    "llm",
-    "ai"
-   ],
-   "tags": [
-    "dev",
-    "ai",
-    "blockchain"
-   ],
-   "posted_at": "2026-11-04T15:09:09+00:00",
-   "age_days": 13.7
+   "age_days": 7.1
   },
   {
    "title": "Feltsense AI Engineer",
@@ -255,7 +229,7 @@
     "digital nomad"
    ],
    "posted_at": "2026-11-05T16:00:07+00:00",
-   "age_days": 12.7
+   "age_days": 13.2
   },
   {
    "title": "Software Engineer AI Tooling",
@@ -289,7 +263,29 @@
     "digital nomad"
    ],
    "posted_at": "2026-11-13T00:00:15+00:00",
-   "age_days": 5.3
+   "age_days": 5.9
+  },
+  {
+   "title": "Senior Fullstack Developer Angular / Kotlin \u2013 Spring Boot, AWS (m/w/d)",
+   "company": "Rockstardevelopers GmbH",
+   "url": "https://www.arbeitnow.com/jobs/companies/rockstardevelopers-gmbh/senior-fullstack-developer-angular-kotlin-spring-boot-aws-stuttgart-368767",
+   "location": "Stuttgart",
+   "remote": true,
+   "source": "arbeitnow",
+   "score": 6,
+   "matched_skills": [
+    "typescript",
+    "angular",
+    "ai"
+   ],
+   "tags": [
+    "remote",
+    "software development",
+    "unbefristeter arbeitsvertrag",
+    "berufserfahren"
+   ],
+   "posted_at": "2026-11-18T16:00:57+00:00",
+   "age_days": 0.2
   },
   {
    "title": "UI Developer",
@@ -325,64 +321,7 @@
     "digital nomad"
    ],
    "posted_at": "2026-11-08T16:00:03+00:00",
-   "age_days": 9.7
-  },
-  {
-   "title": "Full-Stack Engineer (Backend Leaning) - Payments Engineering",
-   "company": "ElevenLabs",
-   "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-full-stack-engineer-backend-leaning-payments-engineering-51351",
-   "location": "Remote",
-   "remote": true,
-   "source": "arbeitnow",
-   "score": 4,
-   "matched_skills": [
-    "python",
-    "ai"
-   ],
-   "tags": [
-    "engineering & product",
-    "full time"
-   ],
-   "posted_at": "2026-11-18T06:40:10+00:00",
-   "age_days": 0.1
-  },
-  {
-   "title": "Full-Stack Engineer (Backend Leaning) - Platform Engineering",
-   "company": "ElevenLabs",
-   "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-full-stack-engineer-backend-leaning-platform-engineering-8063",
-   "location": "Remote",
-   "remote": true,
-   "source": "arbeitnow",
-   "score": 4,
-   "matched_skills": [
-    "python",
-    "ai"
-   ],
-   "tags": [
-    "engineering & product",
-    "full time"
-   ],
-   "posted_at": "2026-11-18T06:40:10+00:00",
-   "age_days": 0.1
-  },
-  {
-   "title": "Software Engineer - Auth",
-   "company": "Supabase",
-   "url": "https://jobicy.com/jobs/153449-software-engineer-auth",
-   "location": "Anywhere",
-   "remote": true,
-   "source": "jobicy",
-   "score": 4,
-   "matched_skills": [
-    "typescript",
-    "postgres"
-   ],
-   "tags": [
-    "software engineering",
-    "full-time"
-   ],
-   "posted_at": "2026-11-18T03:05:09+00:00",
-   "age_days": 0.2
+   "age_days": 10.2
   }
  ]
 }
