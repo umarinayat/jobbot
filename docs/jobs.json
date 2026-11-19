@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-18T21:03:10+00:00",
- "count": 7,
+ "generated_at": "2026-11-19T08:18:23+00:00",
+ "count": 6,
  "jobs": [
   {
    "title": "Senior React Full-stack Developer",
@@ -74,7 +74,7 @@
     "flutter"
    ],
    "posted_at": "2026-11-10T14:25:05",
-   "age_days": 8.3
+   "age_days": 8.7
   },
   {
    "title": "Senior Vue Developer",
@@ -115,7 +115,7 @@
     "front end"
    ],
    "posted_at": "2026-11-05T12:45:45+00:00",
-   "age_days": 13.3
+   "age_days": 13.8
   },
   {
    "title": "Senior Data Engineer",
@@ -191,7 +191,7 @@
     "flutter"
    ],
    "posted_at": "2026-11-11T18:39:59",
-   "age_days": 7.1
+   "age_days": 7.6
   },
   {
    "title": "Feltsense AI Engineer",
@@ -229,7 +229,7 @@
     "digital nomad"
    ],
    "posted_at": "2026-11-05T16:00:07+00:00",
-   "age_days": 13.2
+   "age_days": 13.7
   },
   {
    "title": "Software Engineer AI Tooling",
@@ -263,29 +263,7 @@
     "digital nomad"
    ],
    "posted_at": "2026-11-13T00:00:15+00:00",
-   "age_days": 5.9
-  },
-  {
-   "title": "Senior Fullstack Developer Angular / Kotlin \u2013 Spring Boot, AWS (m/w/d)",
-   "company": "Rockstardevelopers GmbH",
-   "url": "https://www.arbeitnow.com/jobs/companies/rockstardevelopers-gmbh/senior-fullstack-developer-angular-kotlin-spring-boot-aws-stuttgart-368767",
-   "location": "Stuttgart",
-   "remote": true,
-   "source": "arbeitnow",
-   "score": 6,
-   "matched_skills": [
-    "typescript",
-    "angular",
-    "ai"
-   ],
-   "tags": [
-    "remote",
-    "software development",
-    "unbefristeter arbeitsvertrag",
-    "berufserfahren"
-   ],
-   "posted_at": "2026-11-18T16:00:57+00:00",
-   "age_days": 0.2
+   "age_days": 6.3
   },
   {
    "title": "UI Developer",
@@ -321,7 +299,7 @@
     "digital nomad"
    ],
    "posted_at": "2026-11-08T16:00:03+00:00",
-   "age_days": 10.2
+   "age_days": 10.7
   }
  ]
 }
