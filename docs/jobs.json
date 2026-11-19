@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-19T08:18:23+00:00",
- "count": 6,
+ "generated_at": "2026-11-19T21:07:46+00:00",
+ "count": 5,
  "jobs": [
   {
    "title": "Senior React Full-stack Developer",
@@ -74,48 +74,7 @@
     "flutter"
    ],
    "posted_at": "2026-11-10T14:25:05",
-   "age_days": 8.7
-  },
-  {
-   "title": "Senior Vue Developer",
-   "company": "Lemon.io",
-   "url": "https://remoteOK.com/remote-jobs/remote-senior-vue-developer-lemon-io-1137688",
-   "location": "Remote",
-   "remote": true,
-   "source": "remoteok",
-   "score": 28,
-   "matched_skills": [
-    "react",
-    "node",
-    "node.js",
-    "typescript",
-    "javascript",
-    "python",
-    "vue",
-    "vue.js",
-    "angular",
-    "next.js",
-    "llm",
-    "ai"
-   ],
-   "tags": [
-    "engineer",
-    "dev",
-    "full time",
-    "full stack",
-    "remote",
-    "remote work",
-    "javascript",
-    "typescript",
-    "php",
-    "laravel",
-    "node",
-    "dot net",
-    "python",
-    "front end"
-   ],
-   "posted_at": "2026-11-05T12:45:45+00:00",
-   "age_days": 13.8
+   "age_days": 9.3
   },
   {
    "title": "Senior Data Engineer",
@@ -191,45 +150,50 @@
     "flutter"
    ],
    "posted_at": "2026-11-11T18:39:59",
-   "age_days": 7.6
+   "age_days": 8.1
   },
   {
-   "title": "Feltsense AI Engineer",
-   "company": "Silver.dev",
-   "url": "https://remoteOK.com/remote-jobs/remote-feltsense-ai-engineer-silver-dev-1137691",
+   "title": "SEO Full Stack Engineer",
+   "company": "Treatwell",
+   "url": "https://remoteOK.com/remote-jobs/remote-seo-full-stack-engineer-treatwell-1137805",
    "location": "Remote",
    "remote": true,
    "source": "remoteok",
-   "score": 15,
+   "score": 8,
    "matched_skills": [
-    "node",
-    "node.js",
+    "react",
     "typescript",
-    "javascript",
     "postgres",
-    "llm",
     "ai"
    ],
    "tags": [
-    "design",
-    "sys admin",
-    "exec",
+    "full stack",
+    "react",
+    "rabbitmq",
+    "front end",
     "technical",
     "customer support",
     "dev",
     "testing",
-    "javascript",
-    "cloud",
+    "marketing",
+    "design",
+    "web dev",
+    "exec",
+    "devops",
+    "finance",
+    "java",
     "postgres",
     "typescript",
-    "node",
-    "node.js",
+    "seo",
+    "senior",
+    "stats",
     "engineer",
+    "recruiter",
     "backend",
     "digital nomad"
    ],
-   "posted_at": "2026-11-05T16:00:07+00:00",
-   "age_days": 13.7
+   "posted_at": "2026-11-18T16:00:31+00:00",
+   "age_days": 1.2
   },
   {
    "title": "Software Engineer AI Tooling",
@@ -263,7 +227,7 @@
     "digital nomad"
    ],
    "posted_at": "2026-11-13T00:00:15+00:00",
-   "age_days": 6.3
+   "age_days": 6.9
   },
   {
    "title": "UI Developer",
@@ -299,7 +263,7 @@
     "digital nomad"
    ],
    "posted_at": "2026-11-08T16:00:03+00:00",
-   "age_days": 10.7
+   "age_days": 11.2
   }
  ]
 }
