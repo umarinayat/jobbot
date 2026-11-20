@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-20T07:58:56+00:00",
- "count": 6,
+ "generated_at": "2026-11-20T20:53:03+00:00",
+ "count": 7,
  "jobs": [
   {
    "title": "Senior React Full-stack Developer",
@@ -74,7 +74,7 @@
     "flutter"
    ],
    "posted_at": "2026-11-10T14:25:05",
-   "age_days": 9.7
+   "age_days": 10.3
   },
   {
    "title": "Senior Data Engineer",
@@ -150,7 +150,27 @@
     "flutter"
    ],
    "posted_at": "2026-11-11T18:39:59",
-   "age_days": 8.6
+   "age_days": 9.1
+  },
+  {
+   "title": "Staff Software Engineer (Interfaces)",
+   "company": "Netlify",
+   "url": "https://remoteOK.com/remote-jobs/remote-staff-software-engineer-interfaces-netlify-1137844",
+   "location": "Worldwide",
+   "remote": true,
+   "source": "remoteok",
+   "score": 9,
+   "matched_skills": [
+    "react",
+    "typescript",
+    "javascript",
+    "ai"
+   ],
+   "tags": [
+    "programming"
+   ],
+   "posted_at": "2026-11-19T17:15:52+00:00",
+   "age_days": 1.2
   },
   {
    "title": "Software Engineer AI Coding Tasks",
@@ -176,7 +196,7 @@
     "c plus plus"
    ],
    "posted_at": "2026-11-19T05:56:01+00:00",
-   "age_days": 1.1
+   "age_days": 1.6
   },
   {
    "title": "SEO Full Stack Engineer",
@@ -219,7 +239,7 @@
     "digital nomad"
    ],
    "posted_at": "2026-11-18T16:00:31+00:00",
-   "age_days": 1.7
+   "age_days": 2.2
   },
   {
    "title": "Software Engineer AI Tooling",
@@ -253,7 +273,7 @@
     "digital nomad"
    ],
    "posted_at": "2026-11-13T00:00:15+00:00",
-   "age_days": 7.3
+   "age_days": 7.9
   },
   {
    "title": "UI Developer",
@@ -289,7 +309,7 @@
     "digital nomad"
    ],
    "posted_at": "2026-11-08T16:00:03+00:00",
-   "age_days": 11.7
+   "age_days": 12.2
   }
  ]
 }
