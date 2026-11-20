@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-19T21:07:46+00:00",
- "count": 5,
+ "generated_at": "2026-11-20T07:58:56+00:00",
+ "count": 6,
  "jobs": [
   {
    "title": "Senior React Full-stack Developer",
@@ -74,7 +74,7 @@
     "flutter"
    ],
    "posted_at": "2026-11-10T14:25:05",
-   "age_days": 9.3
+   "age_days": 9.7
   },
   {
    "title": "Senior Data Engineer",
@@ -150,7 +150,33 @@
     "flutter"
    ],
    "posted_at": "2026-11-11T18:39:59",
-   "age_days": 8.1
+   "age_days": 8.6
+  },
+  {
+   "title": "Software Engineer AI Coding Tasks",
+   "company": "Askable",
+   "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-ai-coding-tasks-askable-1137808",
+   "location": "Remote",
+   "remote": true,
+   "source": "remoteok",
+   "score": 9,
+   "matched_skills": [
+    "typescript",
+    "javascript",
+    "python",
+    "ai"
+   ],
+   "tags": [
+    "dev",
+    "golang",
+    "python",
+    "javascript",
+    "typescript",
+    "java",
+    "c plus plus"
+   ],
+   "posted_at": "2026-11-19T05:56:01+00:00",
+   "age_days": 1.1
   },
   {
    "title": "SEO Full Stack Engineer",
@@ -193,7 +219,7 @@
     "digital nomad"
    ],
    "posted_at": "2026-11-18T16:00:31+00:00",
-   "age_days": 1.2
+   "age_days": 1.7
   },
   {
    "title": "Software Engineer AI Tooling",
@@ -227,7 +253,7 @@
     "digital nomad"
    ],
    "posted_at": "2026-11-13T00:00:15+00:00",
-   "age_days": 6.9
+   "age_days": 7.3
   },
   {
    "title": "UI Developer",
@@ -263,7 +289,7 @@
     "digital nomad"
    ],
    "posted_at": "2026-11-08T16:00:03+00:00",
-   "age_days": 11.2
+   "age_days": 11.7
   }
  ]
 }
