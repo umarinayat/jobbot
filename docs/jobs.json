@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T07:41:09+00:00",
+ "generated_at": "2026-11-22T20:05:27+00:00",
  "count": 5,
  "jobs": [
   {
@@ -74,7 +74,7 @@
     "flutter"
    ],
    "posted_at": "2026-11-10T14:25:05",
-   "age_days": 11.7
+   "age_days": 12.2
   },
   {
    "title": "Senior Data Engineer",
@@ -150,7 +150,32 @@
     "flutter"
    ],
    "posted_at": "2026-11-11T18:39:59",
-   "age_days": 10.5
+   "age_days": 11.1
+  },
+  {
+   "title": "Senior Full Stack Engineer (F# / ASP.NET Core / ReactJS) \u2013 Remote (Europe) (f/m/d)",
+   "company": "Boardwise GmbH",
+   "url": "https://www.arbeitnow.com/jobs/companies/boardwise-gmbh/senior-full-stack-engineer-f-aspnet-core-reactjs-remote-europe-berlin-73400",
+   "location": "Berlin",
+   "remote": true,
+   "source": "arbeitnow",
+   "score": 13,
+   "matched_skills": [
+    "react",
+    "react.js",
+    "typescript",
+    "javascript",
+    "ai",
+    "azure"
+   ],
+   "tags": [
+    "remote",
+    "software development",
+    "permanent employment",
+    "professional / experienced"
+   ],
+   "posted_at": "2026-11-22T15:31:00+00:00",
+   "age_days": 0.2
   },
   {
    "title": "Backend Software Developer",
@@ -172,27 +197,7 @@
     "fulltime permanent"
    ],
    "posted_at": "2026-11-20T21:31:27+00:00",
-   "age_days": 1.4
-  },
-  {
-   "title": "Staff Software Engineer (Interfaces)",
-   "company": "Netlify",
-   "url": "https://remoteOK.com/remote-jobs/remote-staff-software-engineer-interfaces-netlify-1137844",
-   "location": "Worldwide",
-   "remote": true,
-   "source": "remoteok",
-   "score": 9,
-   "matched_skills": [
-    "react",
-    "typescript",
-    "javascript",
-    "ai"
-   ],
-   "tags": [
-    "programming"
-   ],
-   "posted_at": "2026-11-19T17:15:52+00:00",
-   "age_days": 2.6
+   "age_days": 1.9
   },
   {
    "title": "Senior Product Engineer",
@@ -230,7 +235,7 @@
     "digital nomad"
    ],
    "posted_at": "2026-11-20T00:00:47+00:00",
-   "age_days": 2.3
+   "age_days": 2.8
   }
  ]
 }
