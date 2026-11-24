@@ -1,81 +1,7 @@
 {
- "generated_at": "2026-11-24T10:37:48+00:00",
- "count": 10,
+ "generated_at": "2026-11-24T22:52:21+00:00",
+ "count": 5,
  "jobs": [
-  {
-   "title": "Senior React Full-stack Developer",
-   "company": "Lemon.io",
-   "url": "https://remotive.com/remote-jobs/software-development/senior-react-full-stack-developer-2091136",
-   "location": "LATAM, Europe, USA, Canada, APAC",
-   "remote": true,
-   "source": "remotive",
-   "score": 30,
-   "matched_skills": [
-    "react",
-    "react.js",
-    "node",
-    "node.js",
-    "typescript",
-    "javascript",
-    "python",
-    "vue",
-    "angular",
-    "next.js",
-    "llm",
-    "ai",
-    "azure"
-   ],
-   "tags": [
-    ".net",
-    "android",
-    "aws",
-    "azure",
-    "c",
-    "c#",
-    "c++",
-    "data science",
-    "fullstack",
-    "golang",
-    "ios",
-    "java",
-    "javascript",
-    "magento",
-    "node.js",
-    "php",
-    "python",
-    "react",
-    "react js",
-    "ruby/rails",
-    "scala",
-    "shopify",
-    "swift",
-    "ui/ux",
-    "wordpress",
-    "blockchain",
-    "ai/ml",
-    "automation",
-    "project management",
-    "react native",
-    "rust",
-    "unity",
-    "electron",
-    "spring",
-    "laravel",
-    "ethereum",
-    "graphic design",
-    "typescript",
-    "angular",
-    "gcp",
-    "firebase",
-    "data engineering",
-    "site reliability",
-    "symfony",
-    "next.js",
-    "flutter"
-   ],
-   "posted_at": "2026-11-10T14:25:05",
-   "age_days": 13.8
-  },
   {
    "title": "Senior Data Engineer",
    "company": "Lemon.io",
@@ -150,83 +76,28 @@
     "flutter"
    ],
    "posted_at": "2026-11-11T18:39:59",
-   "age_days": 12.7
+   "age_days": 13.2
   },
   {
-   "title": "Full-Stack Developer (m/w/d) \u2013 Java/Spring Boot & TypeScript",
-   "company": "P&T Software",
-   "url": "https://www.arbeitnow.com/jobs/companies/pt-software/full-stack-developer-java-spring-boot-typescript-berlin-318262",
-   "location": "Berlin",
+   "title": "Backend Software Engineer",
+   "company": "Newsweek",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/newsweek/remote-backend-software-engineer-206351",
+   "location": "Remote",
    "remote": true,
    "source": "arbeitnow",
-   "score": 19,
+   "score": 12,
    "matched_skills": [
     "react",
-    "node",
-    "node.js",
-    "typescript",
-    "vue",
-    "vue.js",
-    "angular",
-    "azure"
-   ],
-   "tags": [
-    "remote",
-    "software development",
-    "unbefristeter arbeitsvertrag",
-    "berufserfahren"
-   ],
-   "posted_at": "2026-11-24T08:30:33+00:00",
-   "age_days": 0.1
-  },
-  {
-   "title": "Java Software Architect mit GKV Erfahrung (m/w/d)",
-   "company": "virtual7 GmbH",
-   "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-java-software-architect-mit-gkv-erfahrung-essen-189341",
-   "location": "Homeoffice",
-   "remote": true,
-   "source": "arbeitnow",
-   "score": 14,
-   "matched_skills": [
-    "react",
-    "typescript",
     "javascript",
-    "vue",
-    "vue.js",
-    "angular"
+    "python",
+    "fastapi",
+    "mysql",
+    "ai"
    ],
    "tags": [
-    "customer cluster healthcare",
-    "remote",
-    "experienced",
-    "freelance"
+    "it"
    ],
-   "posted_at": "2026-11-24T09:31:35+00:00",
-   "age_days": 0.0
-  },
-  {
-   "title": "Frontend Architect Web Components mit GKV Erfahrung (m/w/d)",
-   "company": "virtual7 GmbH",
-   "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-frontend-architect-web-components-mit-gkv-erfahrung-essen-141459",
-   "location": "Homeoffice",
-   "remote": true,
-   "source": "arbeitnow",
-   "score": 14,
-   "matched_skills": [
-    "react",
-    "typescript",
-    "javascript",
-    "vue",
-    "vue.js",
-    "angular"
-   ],
-   "tags": [
-    "customer cluster healthcare",
-    "remote",
-    "experienced",
-    "freelance"
-   ],
-   "posted_at": "2026-11-24T09:31:35+00:00",
+   "posted_at": "2026-11-24T21:55:17+00:00",
    "age_days": 0.0
   },
   {
@@ -251,75 +122,27 @@
     "fulltime permanent"
    ],
    "posted_at": "2026-11-24T03:31:42+00:00",
-   "age_days": 0.3
+   "age_days": 0.8
   },
   {
-   "title": "Freelance Full-Stack Developer | Django | AI Products | Python & LLM Integration | Remote 100%",
-   "company": "hurra.com",
-   "url": "https://www.arbeitnow.com/jobs/companies/hurracom/freelance-full-stack-developer-django-ai-products-python-llm-integration-remote-100-berlin-290567",
-   "location": "Berlin",
+   "title": "Frontend Software Engineer",
+   "company": "Newsweek",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/newsweek/remote-frontend-software-engineer-120939",
+   "location": "Remote",
    "remote": true,
    "source": "arbeitnow",
    "score": 11,
    "matched_skills": [
-    "python",
-    "tailwind",
-    "langchain",
-    "llm",
-    "ai",
-    "azure"
-   ],
-   "tags": [
-    "remote",
-    "software development",
-    "freelancer / independent contractor",
-    "freelance",
-    "professional / experienced"
-   ],
-   "posted_at": "2026-11-24T08:30:34+00:00",
-   "age_days": 0.1
-  },
-  {
-   "title": "Senior Java Developer im GKV Umfeld (m/w/d)",
-   "company": "virtual7 GmbH",
-   "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-java-developer-im-gkv-umfeld-karlsruhe-309214",
-   "location": "Homeoffice",
-   "remote": true,
-   "source": "arbeitnow",
-   "score": 8,
-   "matched_skills": [
     "react",
     "typescript",
-    "angular"
+    "javascript",
+    "next.js",
+    "ai"
    ],
    "tags": [
-    "customer cluster healthcare",
-    "remote",
-    "experienced",
-    "fulltime permanent"
+    "it"
    ],
-   "posted_at": "2026-11-24T09:31:35+00:00",
-   "age_days": 0.0
-  },
-  {
-   "title": "Java Entwickler mit GKV Erfahrung (m/w/d)",
-   "company": "virtual7 GmbH",
-   "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-java-entwickler-mit-gkv-erfahrung-essen-162196",
-   "location": "Homeoffice",
-   "remote": true,
-   "source": "arbeitnow",
-   "score": 5,
-   "matched_skills": [
-    "typescript",
-    "angular"
-   ],
-   "tags": [
-    "customer cluster healthcare",
-    "remote",
-    "experienced",
-    "freelance"
-   ],
-   "posted_at": "2026-11-24T09:31:35+00:00",
+   "posted_at": "2026-11-24T21:55:17+00:00",
    "age_days": 0.0
   },
   {
@@ -358,7 +181,7 @@
     "digital nomad"
    ],
    "posted_at": "2026-11-20T00:00:47+00:00",
-   "age_days": 4.4
+   "age_days": 5.0
   }
  ]
 }
