@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-24T00:34:33+00:00",
- "count": 4,
+ "generated_at": "2026-11-24T10:37:48+00:00",
+ "count": 10,
  "jobs": [
   {
    "title": "Senior React Full-stack Developer",
@@ -74,7 +74,7 @@
     "flutter"
    ],
    "posted_at": "2026-11-10T14:25:05",
-   "age_days": 13.4
+   "age_days": 13.8
   },
   {
    "title": "Senior Data Engineer",
@@ -150,51 +150,215 @@
     "flutter"
    ],
    "posted_at": "2026-11-11T18:39:59",
-   "age_days": 12.2
+   "age_days": 12.7
   },
   {
-   "title": "Founding Full-Stack Engineer",
-   "company": "planqor.ai",
-   "url": "https://www.arbeitnow.com/jobs/companies/planqorai/founding-full-stack-engineer-berlin-304822",
+   "title": "Full-Stack Developer (m/w/d) \u2013 Java/Spring Boot & TypeScript",
+   "company": "P&T Software",
+   "url": "https://www.arbeitnow.com/jobs/companies/pt-software/full-stack-developer-java-spring-boot-typescript-berlin-318262",
    "location": "Berlin",
    "remote": true,
    "source": "arbeitnow",
-   "score": 10,
+   "score": 19,
+   "matched_skills": [
+    "react",
+    "node",
+    "node.js",
+    "typescript",
+    "vue",
+    "vue.js",
+    "angular",
+    "azure"
+   ],
+   "tags": [
+    "remote",
+    "software development",
+    "unbefristeter arbeitsvertrag",
+    "berufserfahren"
+   ],
+   "posted_at": "2026-11-24T08:30:33+00:00",
+   "age_days": 0.1
+  },
+  {
+   "title": "Java Software Architect mit GKV Erfahrung (m/w/d)",
+   "company": "virtual7 GmbH",
+   "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-java-software-architect-mit-gkv-erfahrung-essen-189341",
+   "location": "Homeoffice",
+   "remote": true,
+   "source": "arbeitnow",
+   "score": 14,
    "matched_skills": [
     "react",
     "typescript",
+    "javascript",
+    "vue",
+    "vue.js",
+    "angular"
+   ],
+   "tags": [
+    "customer cluster healthcare",
+    "remote",
+    "experienced",
+    "freelance"
+   ],
+   "posted_at": "2026-11-24T09:31:35+00:00",
+   "age_days": 0.0
+  },
+  {
+   "title": "Frontend Architect Web Components mit GKV Erfahrung (m/w/d)",
+   "company": "virtual7 GmbH",
+   "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-frontend-architect-web-components-mit-gkv-erfahrung-essen-141459",
+   "location": "Homeoffice",
+   "remote": true,
+   "source": "arbeitnow",
+   "score": 14,
+   "matched_skills": [
+    "react",
+    "typescript",
+    "javascript",
+    "vue",
+    "vue.js",
+    "angular"
+   ],
+   "tags": [
+    "customer cluster healthcare",
+    "remote",
+    "experienced",
+    "freelance"
+   ],
+   "posted_at": "2026-11-24T09:31:35+00:00",
+   "age_days": 0.0
+  },
+  {
+   "title": "Staff Product Engineer ( SaaS / Remote )",
+   "company": "Publitas.com B.V.",
+   "url": "https://www.arbeitnow.nl/jobs/companies/publitascom-bv/staff-product-engineer-saas-remote-amsterdam-176256",
+   "location": "Remote job",
+   "remote": true,
+   "source": "arbeitnow",
+   "score": 12,
+   "matched_skills": [
+    "react",
+    "typescript",
+    "javascript",
     "python",
     "ai"
    ],
    "tags": [
+    "product",
     "remote",
-    "software development",
-    "permanent employment",
-    "professional / experienced"
+    "experienced",
+    "fulltime permanent"
    ],
-   "posted_at": "2026-11-23T16:00:50+00:00",
-   "age_days": 0.4
+   "posted_at": "2026-11-24T03:31:42+00:00",
+   "age_days": 0.3
   },
   {
-   "title": "Founding Optimization Engineer",
-   "company": "planqor.ai",
-   "url": "https://www.arbeitnow.com/jobs/companies/planqorai/founding-optimization-engineer-berlin-97593",
+   "title": "Freelance Full-Stack Developer | Django | AI Products | Python & LLM Integration | Remote 100%",
+   "company": "hurra.com",
+   "url": "https://www.arbeitnow.com/jobs/companies/hurracom/freelance-full-stack-developer-django-ai-products-python-llm-integration-remote-100-berlin-290567",
    "location": "Berlin",
    "remote": true,
    "source": "arbeitnow",
-   "score": 4,
+   "score": 11,
    "matched_skills": [
     "python",
-    "ai"
+    "tailwind",
+    "langchain",
+    "llm",
+    "ai",
+    "azure"
    ],
    "tags": [
     "remote",
     "software development",
-    "permanent employment",
+    "freelancer / independent contractor",
+    "freelance",
     "professional / experienced"
    ],
-   "posted_at": "2026-11-23T16:00:48+00:00",
-   "age_days": 0.4
+   "posted_at": "2026-11-24T08:30:34+00:00",
+   "age_days": 0.1
+  },
+  {
+   "title": "Senior Java Developer im GKV Umfeld (m/w/d)",
+   "company": "virtual7 GmbH",
+   "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-senior-java-developer-im-gkv-umfeld-karlsruhe-309214",
+   "location": "Homeoffice",
+   "remote": true,
+   "source": "arbeitnow",
+   "score": 8,
+   "matched_skills": [
+    "react",
+    "typescript",
+    "angular"
+   ],
+   "tags": [
+    "customer cluster healthcare",
+    "remote",
+    "experienced",
+    "fulltime permanent"
+   ],
+   "posted_at": "2026-11-24T09:31:35+00:00",
+   "age_days": 0.0
+  },
+  {
+   "title": "Java Entwickler mit GKV Erfahrung (m/w/d)",
+   "company": "virtual7 GmbH",
+   "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-java-entwickler-mit-gkv-erfahrung-essen-162196",
+   "location": "Homeoffice",
+   "remote": true,
+   "source": "arbeitnow",
+   "score": 5,
+   "matched_skills": [
+    "typescript",
+    "angular"
+   ],
+   "tags": [
+    "customer cluster healthcare",
+    "remote",
+    "experienced",
+    "freelance"
+   ],
+   "posted_at": "2026-11-24T09:31:35+00:00",
+   "age_days": 0.0
+  },
+  {
+   "title": "Senior Product Engineer",
+   "company": "Arbor Education",
+   "url": "https://remoteOK.com/remote-jobs/remote-senior-product-engineer-arbor-education-1137865",
+   "location": "Remote",
+   "remote": true,
+   "source": "remoteok",
+   "score": 5,
+   "matched_skills": [
+    "react",
+    "vue"
+   ],
+   "tags": [
+    "design",
+    "react",
+    "backend",
+    "education",
+    "consulting",
+    "docker",
+    "customer support",
+    "dev",
+    "testing",
+    "scrum",
+    "exec",
+    "quality assurance",
+    "finance",
+    "cloud",
+    "php",
+    "senior",
+    "sys admin",
+    "medical",
+    "engineer",
+    "recruiter",
+    "digital nomad"
+   ],
+   "posted_at": "2026-11-20T00:00:47+00:00",
+   "age_days": 4.4
   }
  ]
 }
