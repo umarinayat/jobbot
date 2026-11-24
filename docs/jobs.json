@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-23T08:30:39+00:00",
- "count": 5,
+ "generated_at": "2026-11-24T00:34:33+00:00",
+ "count": 4,
  "jobs": [
   {
    "title": "Senior React Full-stack Developer",
@@ -74,7 +74,7 @@
     "flutter"
    ],
    "posted_at": "2026-11-10T14:25:05",
-   "age_days": 12.8
+   "age_days": 13.4
   },
   {
    "title": "Senior Data Engineer",
@@ -150,73 +150,51 @@
     "flutter"
    ],
    "posted_at": "2026-11-11T18:39:59",
-   "age_days": 11.6
+   "age_days": 12.2
   },
   {
-   "title": "Senior Full-Stack Developer (m/w/d) \u2013 Schwerpunkt TypeScript & SaaS-Plattform",
-   "company": "IT Studio Rech GmbH",
-   "url": "https://www.arbeitnow.com/jobs/companies/it-studio-rech-gmbh/senior-full-stack-developer-schwerpunkt-typescript-saas-plattform-berlin-282775",
+   "title": "Founding Full-Stack Engineer",
+   "company": "planqor.ai",
+   "url": "https://www.arbeitnow.com/jobs/companies/planqorai/founding-full-stack-engineer-berlin-304822",
    "location": "Berlin",
    "remote": true,
    "source": "arbeitnow",
-   "score": 13,
+   "score": 10,
    "matched_skills": [
     "react",
-    "node",
-    "node.js",
     "typescript",
+    "python",
     "ai"
    ],
    "tags": [
     "remote",
     "software development",
-    "unbefristeter arbeitsvertrag",
-    "berufserfahren"
+    "permanent employment",
+    "professional / experienced"
    ],
-   "posted_at": "2026-11-23T08:00:41+00:00",
-   "age_days": 0.0
+   "posted_at": "2026-11-23T16:00:50+00:00",
+   "age_days": 0.4
   },
   {
-   "title": "Backend Software Developer",
-   "company": "Dawn Technology",
-   "url": "https://www.arbeitnow.nl/jobs/companies/dawn-technology/remote-backend-software-developer-hilversum-417173",
-   "location": "Werken op afstand",
-   "remote": true,
-   "source": "arbeitnow",
-   "score": 9,
-   "matched_skills": [
-    "node",
-    "node.js",
-    "typescript"
-   ],
-   "tags": [
-    "dawn technology",
-    "remote",
-    "experienced",
-    "fulltime permanent"
-   ],
-   "posted_at": "2026-11-20T21:31:27+00:00",
-   "age_days": 2.5
-  },
-  {
-   "title": "Hands-on Engineering Manager (C#/Vue)",
-   "company": "Miaplaza",
-   "url": "https://www.arbeitnow.com/jobs/companies/miaplaza/remote-hands-on-engineering-manager-c-vue-6698",
-   "location": "Remote job",
+   "title": "Founding Optimization Engineer",
+   "company": "planqor.ai",
+   "url": "https://www.arbeitnow.com/jobs/companies/planqorai/founding-optimization-engineer-berlin-97593",
+   "location": "Berlin",
    "remote": true,
    "source": "arbeitnow",
    "score": 4,
    "matched_skills": [
-    "vue",
-    "vue.js"
+    "python",
+    "ai"
    ],
    "tags": [
     "remote",
-    "manager",
-    "fulltime permanent"
+    "software development",
+    "permanent employment",
+    "professional / experienced"
    ],
-   "posted_at": "2026-11-23T03:31:35+00:00",
-   "age_days": 0.2
+   "posted_at": "2026-11-23T16:00:48+00:00",
+   "age_days": 0.4
   }
  ]
 }
