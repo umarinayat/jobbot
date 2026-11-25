@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-24T22:52:21+00:00",
- "count": 5,
+ "generated_at": "2026-11-25T09:28:00+00:00",
+ "count": 1,
  "jobs": [
   {
    "title": "Senior Data Engineer",
@@ -76,112 +76,7 @@
     "flutter"
    ],
    "posted_at": "2026-11-11T18:39:59",
-   "age_days": 13.2
-  },
-  {
-   "title": "Backend Software Engineer",
-   "company": "Newsweek",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/newsweek/remote-backend-software-engineer-206351",
-   "location": "Remote",
-   "remote": true,
-   "source": "arbeitnow",
-   "score": 12,
-   "matched_skills": [
-    "react",
-    "javascript",
-    "python",
-    "fastapi",
-    "mysql",
-    "ai"
-   ],
-   "tags": [
-    "it"
-   ],
-   "posted_at": "2026-11-24T21:55:17+00:00",
-   "age_days": 0.0
-  },
-  {
-   "title": "Staff Product Engineer ( SaaS / Remote )",
-   "company": "Publitas.com B.V.",
-   "url": "https://www.arbeitnow.nl/jobs/companies/publitascom-bv/staff-product-engineer-saas-remote-amsterdam-176256",
-   "location": "Remote job",
-   "remote": true,
-   "source": "arbeitnow",
-   "score": 12,
-   "matched_skills": [
-    "react",
-    "typescript",
-    "javascript",
-    "python",
-    "ai"
-   ],
-   "tags": [
-    "product",
-    "remote",
-    "experienced",
-    "fulltime permanent"
-   ],
-   "posted_at": "2026-11-24T03:31:42+00:00",
-   "age_days": 0.8
-  },
-  {
-   "title": "Frontend Software Engineer",
-   "company": "Newsweek",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/newsweek/remote-frontend-software-engineer-120939",
-   "location": "Remote",
-   "remote": true,
-   "source": "arbeitnow",
-   "score": 11,
-   "matched_skills": [
-    "react",
-    "typescript",
-    "javascript",
-    "next.js",
-    "ai"
-   ],
-   "tags": [
-    "it"
-   ],
-   "posted_at": "2026-11-24T21:55:17+00:00",
-   "age_days": 0.0
-  },
-  {
-   "title": "Senior Product Engineer",
-   "company": "Arbor Education",
-   "url": "https://remoteOK.com/remote-jobs/remote-senior-product-engineer-arbor-education-1137865",
-   "location": "Remote",
-   "remote": true,
-   "source": "remoteok",
-   "score": 5,
-   "matched_skills": [
-    "react",
-    "vue"
-   ],
-   "tags": [
-    "design",
-    "react",
-    "backend",
-    "education",
-    "consulting",
-    "docker",
-    "customer support",
-    "dev",
-    "testing",
-    "scrum",
-    "exec",
-    "quality assurance",
-    "finance",
-    "cloud",
-    "php",
-    "senior",
-    "sys admin",
-    "medical",
-    "engineer",
-    "recruiter",
-    "digital nomad"
-   ],
-   "posted_at": "2026-11-20T00:00:47+00:00",
-   "age_days": 5.0
+   "age_days": 13.6
   }
  ]
 }
