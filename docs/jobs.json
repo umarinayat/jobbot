@@ -1,54 +1,31 @@
 {
- "generated_at": "2026-11-25T22:05:50+00:00",
- "count": 2,
+ "generated_at": "2026-11-26T09:05:49+00:00",
+ "count": 1,
  "jobs": [
   {
-   "title": "Fullstack Software Engineer - Core Engineering",
-   "company": "dataiku",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/dataiku/remote-fullstack-software-engineer-core-engineering-469912",
-   "location": "Remote",
+   "title": "Senior Frontend Developer",
+   "company": "Divio",
+   "url": "https://www.arbeitnow.ch/jobs/companies/divio/remote-senior-frontend-developer-switzerland-292678",
+   "location": "Switzerland",
    "remote": true,
    "source": "arbeitnow",
-   "score": 18,
+   "score": 14,
    "matched_skills": [
     "react",
     "node",
     "node.js",
-    "python",
-    "angular",
-    "llm",
-    "ai",
-    "azure"
+    "typescript",
+    "next.js"
    ],
    "tags": [
-    "engineering"
+    "engineering",
+    "computer software",
+    "remote",
+    "full time",
+    "mid-senior"
    ],
-   "posted_at": "2026-11-25T15:55:24+00:00",
-   "age_days": 0.3
-  },
-  {
-   "title": "Fullstack Software Engineer - Core Engineering",
-   "company": "dataiku",
-   "url": "https://www.arbeitnow.fr/jobs/companies/dataiku/remote-fullstack-software-engineer-core-engineering-188174",
-   "location": "Remote",
-   "remote": true,
-   "source": "arbeitnow",
-   "score": 18,
-   "matched_skills": [
-    "react",
-    "node",
-    "node.js",
-    "python",
-    "angular",
-    "llm",
-    "ai",
-    "azure"
-   ],
-   "tags": [
-    "engineering"
-   ],
-   "posted_at": "2026-11-25T15:55:24+00:00",
-   "age_days": 0.3
+   "posted_at": "2026-11-25T21:20:04+00:00",
+   "age_days": 0.5
   }
  ]
 }
