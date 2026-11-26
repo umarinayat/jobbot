@@ -1,31 +1,29 @@
 {
- "generated_at": "2026-11-26T09:05:49+00:00",
+ "generated_at": "2026-11-26T22:04:49+00:00",
  "count": 1,
  "jobs": [
   {
-   "title": "Senior Frontend Developer",
-   "company": "Divio",
-   "url": "https://www.arbeitnow.ch/jobs/companies/divio/remote-senior-frontend-developer-switzerland-292678",
-   "location": "Switzerland",
+   "title": "Webdesigner-/Entwickler \u2013 WordPress & AI (m/w/d)",
+   "company": "ANY Marketing GmbH",
+   "url": "https://www.arbeitnow.com/jobs/companies/any-marketing-gmbh/webdesigner-entwickler-wordpress-ai-kaiserslautern-345614",
+   "location": "Kaiserslautern",
    "remote": true,
    "source": "arbeitnow",
-   "score": 14,
+   "score": 8,
    "matched_skills": [
     "react",
-    "node",
-    "node.js",
-    "typescript",
-    "next.js"
+    "javascript",
+    "next.js",
+    "ai"
    ],
    "tags": [
-    "engineering",
-    "computer software",
     "remote",
-    "full time",
-    "mid-senior"
+    "web development",
+    "unbefristeter arbeitsvertrag",
+    "berufserfahren"
    ],
-   "posted_at": "2026-11-25T21:20:04+00:00",
-   "age_days": 0.5
+   "posted_at": "2026-11-26T17:01:17+00:00",
+   "age_days": 0.2
   }
  ]
 }
