@@ -1,29 +1,28 @@
 {
- "generated_at": "2026-11-27T09:22:14+00:00",
+ "generated_at": "2026-11-27T21:46:15+00:00",
  "count": 1,
  "jobs": [
   {
-   "title": "Webdesigner-/Entwickler \u2013 WordPress & AI (m/w/d)",
-   "company": "ANY Marketing GmbH",
-   "url": "https://www.arbeitnow.com/jobs/companies/any-marketing-gmbh/webdesigner-entwickler-wordpress-ai-kaiserslautern-345614",
-   "location": "Kaiserslautern",
+   "title": "D\u00e9veloppeur fullstack confirm\u00e9 H/F (C#, .Net, Angular)",
+   "company": "N2JSoft",
+   "url": "https://www.arbeitnow.fr/jobs/companies/n2jsoft/remote-developpeur-fullstack-confirme-h-f-c-net-angular-lyon-15268",
+   "location": "Poste \u00e0 distance",
    "remote": true,
    "source": "arbeitnow",
-   "score": 8,
+   "score": 6,
    "matched_skills": [
-    "react",
-    "javascript",
-    "next.js",
-    "ai"
+    "typescript",
+    "angular",
+    "azure"
    ],
    "tags": [
+    "r&d",
     "remote",
-    "web development",
-    "unbefristeter arbeitsvertrag",
-    "berufserfahren"
+    "mid",
+    "fulltime permanent"
    ],
-   "posted_at": "2026-11-26T17:01:17+00:00",
-   "age_days": 0.7
+   "posted_at": "2026-11-27T18:31:17+00:00",
+   "age_days": 0.1
   }
  ]
 }
