@@ -1,27 +1,110 @@
 {
- "generated_at": "2026-11-27T21:46:15+00:00",
- "count": 1,
+ "generated_at": "2026-11-28T08:38:05+00:00",
+ "count": 3,
  "jobs": [
   {
-   "title": "D\u00e9veloppeur fullstack confirm\u00e9 H/F (C#, .Net, Angular)",
-   "company": "N2JSoft",
-   "url": "https://www.arbeitnow.fr/jobs/companies/n2jsoft/remote-developpeur-fullstack-confirme-h-f-c-net-angular-lyon-15268",
-   "location": "Poste \u00e0 distance",
+   "title": "Senior Software Developer",
+   "company": "Loopio Inc.",
+   "url": "https://remoteOK.com/remote-jobs/remote-senior-software-developer-loopio-inc-1138202",
+   "location": "Toronto",
    "remote": true,
-   "source": "arbeitnow",
-   "score": 6,
+   "source": "remoteok",
+   "score": 23,
    "matched_skills": [
+    "react",
+    "node",
     "typescript",
-    "angular",
-    "azure"
+    "javascript",
+    "python",
+    "flask",
+    "mysql",
+    "llm",
+    "ai",
+    "rag"
    ],
    "tags": [
-    "r&d",
-    "remote",
-    "mid",
-    "fulltime permanent"
+    "dev",
+    "design",
+    "amazon",
+    "react",
+    "hr",
+    "python",
+    "education",
+    "docker",
+    "technical",
+    "customer support",
+    "transcribing",
+    "testing",
+    "marketing",
+    "web dev",
+    "exec",
+    "virtual assistant",
+    "javascript",
+    "elasticsearch",
+    "java",
+    "serverless",
+    "cloud",
+    "php",
+    "sql",
+    "typescript",
+    "node",
+    "ads",
+    "api",
+    "content writing",
+    "senior",
+    "ops",
+    "legal",
+    "medical",
+    "engineer",
+    "recruiter",
+    "backend",
+    "digital nomad"
    ],
-   "posted_at": "2026-11-27T18:31:17+00:00",
+   "posted_at": "2026-11-27T00:00:03+00:00",
+   "age_days": 1.4
+  },
+  {
+   "title": "Software Engineer - Backend",
+   "company": "Sardine",
+   "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-backend-sardine-1138211",
+   "location": "Asia",
+   "remote": true,
+   "source": "remoteok",
+   "score": 14,
+   "matched_skills": [
+    "react",
+    "node",
+    "typescript",
+    "python",
+    "postgres",
+    "ai"
+   ],
+   "tags": [
+    "programming"
+   ],
+   "posted_at": "2026-11-27T02:41:10+00:00",
+   "age_days": 1.2
+  },
+  {
+   "title": "Senior AI Engineer (Java / Spring Boot / Kafka)",
+   "company": "QuBit Consulting & Solutions AG",
+   "url": "https://www.arbeitnow.ch/jobs/companies/qubit-consulting-solutions-ag/remote-senior-ai-engineer-java-spring-boot-kafka-zug-zurich-luzern-bern-127031",
+   "location": "Homeoffice",
+   "remote": true,
+   "source": "arbeitnow",
+   "score": 5,
+   "matched_skills": [
+    "llm",
+    "ai",
+    "rag"
+   ],
+   "tags": [
+    "ai-engineering & adoption",
+    "remote",
+    "experienced",
+    "freelance"
+   ],
+   "posted_at": "2026-11-28T06:51:30+00:00",
    "age_days": 0.1
   }
  ]
